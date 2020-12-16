@@ -15,8 +15,8 @@ Se utiliza un conjunto de datos que contiene especificaciones de aproximadamente
 Esta es una lista de las actividades a realizar, agrega tantas actividades como consideres necesario.
 
 - [x] Exploración inicial de los datos
-- [] Seleccionar características a utilizar 
-- [] Preprocesamiento de los datos
+- [ ] Seleccionar características a utilizar 
+- [ ] Preprocesamiento de los datos
 
 ## Referencias
 A continuación se enlistan algunos artículos de interés para el desarrollo del proyecto:
