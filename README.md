@@ -21,3 +21,5 @@ Esta es una lista de las actividades a realizar, agrega tantas actividades como 
 ## Referencias
 A continuación se enlistan algunos artículos de interés para el desarrollo del proyecto:
 * [Evaluación de algoritmos de clustering](https://towardsdatascience.com/clustering-evaluation-strategies-98a4006fcfc).
+
+* [Preprocesamiento del dataset](https://www.kaggle.com/hypopossum/gsm-arena-phone-dataset)
