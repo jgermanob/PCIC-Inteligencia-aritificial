@@ -30,7 +30,7 @@ Acer,Liquid E3 Duo Plus,Android,2,240.0,False,Li-Ion,,4,1.2,13,2,16
 Acer,Liquid E3,Android,1,200.0,False,Li-Ion,,4,1.2,13,2,4
 Acer,Liquid Z4,Android,512,100.0,True,Li-Ion,1630,2,1.3,5,1.3,4
 Acer,Iconia B1-721,Android,1,130.0,False,Li-Po,2955,2,1.3,0.6,0,16
-Acer,Iconia B1-720,Android,1,100.0,False,Li-Po,2955,2,1.3,0.6,0,8
+Acer,Iconia B1-720,Android,1,100.0,False,Li-Po,2955,2,1.3,0.6,0,16
 Acer,Iconia A1-830,Android,1,130.0,False,Li-Ion,4000,2,1.6,5,2,16
 Acer,Liquid Z5,Android,512,170.0,False,Li-Ion,2000,2,1.3,5,0.6,4
 Acer,Liquid S2,Android,2,340.0,False,Li-Po,3300,4,2.2,13,2,16
@@ -38,36 +38,27 @@ Acer,Liquid Z3,Android,512,100.0,True,Li-Ion,1500,2,1.0,3.15,0,4
 Acer,Liquid S1,Android,1,320.0,True,Li-Po,2400,4,1.5,8,2,8
 Acer,Iconia Tab A3,Android,1,190.0,False,Li-Po,7300,4,1.2,5,0.6,32
 Acer,Iconia Tab A1-811,Android,1,150.0,False,Li-Ion,4960,4,1.2,5,0.6,8
-Acer,Iconia Tab A1-810,Android,1,120.0,False,Li-Ion,4960,4,1.2,5,0.6,8
+Acer,Iconia Tab A1-810,Android,1,120.0,False,Li-Ion,4960,4,1.2,5,0.6,16
 Acer,Liquid E2,Android,1,180.0,True,Li-Ion,2000,4,1.2,8,2,4
 Acer,Liquid Z2,Android,512,100.0,True,Li-Ion,1300,1,1.0,3,0,4
 Acer,Liquid C1,Android,1,180.0,True,Li-Ion,2000,1,1.2,8,0.6,4
 Acer,Liquid E1,Android,1,170.0,True,Li-Ion,1760,2,1.0,5,0.6,4
-Acer,Iconia Tab B1-A71,Android,512,100.0,False,Li-Po,2710,2,1.2,0.6,0,8
+Acer,Iconia Tab B1-A71,Android,512,100.0,False,Li-Po,2710,2,1.2,0.6,0,16
 Acer,Iconia Tab A110,Android,1,150.0,False,Li-Po,3420,4,1.2,2,0,8
 Acer,Liquid Z110,Android,512,100.0,True,Li-Po,1300,1,1.0,3.15,0,4
 Acer,Liquid Gallant E350,Android,1,160.0,True,Li-Ion,1500,1,1.0,5,0,4
 Acer,Liquid Gallant Duo,Android,1,140.0,True,Li-Ion,1500,1,1.0,5,0,4
 Acer,Liquid Glow E330,Android,512,120.0,True,Li-Ion,1300,1,1.0,5,0,1
-Acer,Iconia Tab A210,Android,1,260.0,False,Li-Po,3260,4,1.2,2,0,8
-Acer,Iconia Tab A200,Android,1,200.0,False,Li-Po,3260,2,1.0,2,0,8
+Acer,Iconia Tab A210,Android,1,260.0,False,Li-Po,3260,4,1.2,2,0,16
+Acer,Iconia Tab A200,Android,1,200.0,False,Li-Po,3260,2,1.0,2,0,16
 Acer,Iconia Tab A511,Android,1,250.0,False,Li-Po,9800,4,1.3,5,1,32
 Acer,Iconia Tab A510,Android,1,230.0,False,Li-Po,9800,4,1.3,5,1,32
-Acer,Liquid Express E320,Android,512,90.0,True,Li-Ion,,1,0.0,5,0,512
 Acer,Iconia Tab A501,Android,1,490.0,False,Li-Po,3260,2,1.0,5,2,64
 Acer,Iconia Smart,Android,512,220.0,True,Li-Po,1500,1,1.0,8,2,8
 Acer,Iconia Tab A500,Android,1,200.0,False,Li-Po,3260,2,1.0,5,2,32
-Acer,Iconia Tab A101,Android,1,260.0,False,Li-Po,1530,2,1.0,5,2,8
-Acer,Iconia Tab A100,Android,1,100.0,False,Li-Po,1530,2,1.0,5,2,8
-Acer,Liquid mini E310,Android,512,120.0,True,Li-Ion,1300,1,0.6,5,0,512
-Acer,beTouch E210,Android,256,150.0,True,Li-Ion,1300,1,0.6,3.15,0,512
-Acer,beTouch E140,Android,256,110.0,True,Li-Ion,1300,1,0.6,3.15,0,512
-Acer,Liquid mt,Android,512,70.0,True,Li-Ion,1500,1,0.8,5,0,512
+Acer,Iconia Tab A101,Android,1,260.0,False,Li-Po,1530,2,1.0,5,2,16
+Acer,Iconia Tab A100,Android,1,100.0,False,Li-Po,1530,2,1.0,5,2,16
 Acer,Stream,Android,512,130.0,True,Li-Ion,1400,1,1.0,5,0,2
-Acer,Liquid E,Android,512,90.0,True,Li-Ion,1350,1,0.768,5,0,512
-Acer,neoTouch P400,Microsoft,256,100.0,True,Li-Po,1090,1,0.6,3.15,0,512
-Acer,beTouch E400,Android,256,80.0,True,Li-Po,1090,1,0.6,3.15,0,512
-Acer,Liquid,Android,256,90.0,True,Li-Ion,1350,1,0.768,5,0,512
 alcatel,A5 LED,Android,2,200.0,,Li-Ion,2800,8,1.3,8,5,16
 alcatel,A3 XL,Android,2,120.0,False,Li-Ion,3000,4,1.1,8,5,16
 alcatel,Shine Lite,Android,2,200.0,False,Li-Ion,2460,4,1.3,13,5,16
@@ -94,29 +85,26 @@ alcatel,Pixi 3 (7),Android,512,80.0,False,Li-Ion,2820,4,1.3,2,0.6,4
 alcatel,POP 10,Android,1,250.0,False,Li-Ion,4600,4,1.2,5,2,8
 alcatel,Pixi 3 (4.5),Android,512,60.0,True,Li-Ion,1400,2,1.0,5,0.6,4
 alcatel,Pixi 3 (4),Android,512,50.0,True,Li-Ion,1400,2,1.0,2,0.6,4
-alcatel,Pixi 3 (3.5) Firefox,Firefox,256/512,40.0,True,Li-Ion,1300,2,1.0,2,0.6,512
 alcatel,Pop 2 (4.5) Dual SIM,Android,1,180.0,True,Li-Ion,2000,4,1.2,5,0.6,8
 alcatel,Pop 2 (4.5),Android,1,130.0,True,Li-Ion,2000,4,1.2,5,0.6,8
 alcatel,POP 8S,Android,1,250.0,False,Li-Ion,4100,4,1.2,5,3,8
-alcatel,Hero 8,Android,2,280.0,False,Li-Ion,4060,8,2.0,5,2,8
+alcatel,Hero 8,Android,2,280.0,False,Li-Ion,4060,8,2.0,5,2,32
 alcatel,Hero 2,Android,2,460.0,False,Li-Ion,3100,8,2.0,13.1,5,16
 alcatel,POP 7S,Android,1,190.0,False,Li-Ion,3240,4,1.2,3,0.6,4
-alcatel,Idol X+,Android,2,290.0,False,Li-Ion,2500,8,2.0,13.1,2,16
+alcatel,Idol X+,Android,2,290.0,False,Li-Ion,2500,8,2.0,13.1,2,
 alcatel,POP 7,Android,1,160.0,False,Li-Ion,3240,2,1.3,2,0.6,4
 alcatel,Fierce,Android,1,110.0,True,Li-Ion,1800,4,1.2,5,0.6,4
 alcatel,Evolve,Android,512,70.0,True,Li-Ion,1400,1,1.0,5,0.6,4
 alcatel,Pop C3,Android,512,80.0,True,Li-Ion,1300,2,1.3,5,0.6,4
 alcatel,Idol Alpha,Android,1,360.0,False,Li-Ion,2000,4,1.2,13,1.3,16
-alcatel,Hero,Android,2,370.0,False,Li-Ion,3400,4,1.5,13,2,8
+alcatel,Hero,Android,2,370.0,False,Li-Ion,3400,4,1.5,13,2,
 alcatel,Idol S,Android,1,160.0,False,Li-Ion,2000,2,1.2,8,1.3,4
 alcatel,One Touch T10,Android,1,130.0,False,Li-Ion,3000,1,1.0,0.6,0,4
-alcatel,Idol X,Android,2,370.0,False,Li-Ion,2000,4,1.5,13.1,2.1,8
-alcatel,One Touch Fire,Firefox,512,120.0,True,Li-Ion,1400,1,1.0,3.15,0,160
+alcatel,Idol X,Android,2,370.0,False,Li-Ion,2000,4,1.5,13.1,2.1,16
 alcatel,One Touch Star,Android,512,220.0,True,Li-Ion,1500,2,1.0,5,0.6,4
 alcatel,One Touch Scribe Easy,Android,512,170.0,True,Li-Ion,2500,2,1.2,5,0.6,4
 alcatel,One Touch Idol Ultra,Android,1,270.0,False,Li-Ion,1800,2,1.2,8,1.3,16
-alcatel,One Touch Idol,Android,1,230.0,False,Li-Ion,1800,2,1.0,8,2,4
-alcatel,One Touch T'Pop,Android,256,100.0,True,Li-Ion,1400,1,1.0,2,0,512
+alcatel,One Touch Idol,Android,1,230.0,False,Li-Ion,1800,2,1.0,8,2,
 alcatel,One Touch M'Pop,Android,512,140.0,True,Li-Ion,1400,1,1.0,5,0.6,4
 alcatel,One Touch X'Pop,Android,512,150.0,True,Li-Ion,1800,2,1.0,5,0.6,4
 alcatel,One Touch Scribe HD-LTE,Android,1,350.0,True,Li-Ion,2500,4,1.2,8,1.3,4
@@ -124,10 +112,7 @@ alcatel,One Touch Scribe X,Android,1,620.0,True,Li-Ion,2500,4,1.2,12,1,4
 alcatel,OT-997D,Android,1,280.0,True,Li-Ion,1800,2,1.0,8,0.6,4
 alcatel,OT-997,Android,1,250.0,True,Li-Ion,1800,2,1.0,8,0.6,4
 alcatel,OT-986,Android,1,250.0,True,Li-Ion,1800,2,1.5,5,2,8
-alcatel,OT-985,Android,256,110.0,True,Li-Ion,1300,1,0.65,3.15,0.6,512
 alcatel,OT-995,Android,512,220.0,True,Li-Ion,1500,1,1.4,5,0.6,2
-alcatel,OT-918,Android,256,100.0,True,Li-Ion,1300,1,0.65,3.15,0,512
-alcatel,OT-918D,Android,256,130.0,True,Li-Ion,1300,1,0.65,3.15,0,512
 Allview,X4 Soul,Android,4,420.0,False,Li-Po,3000,8,2.0,13,13,64
 Allview,X3 Soul Pro,Android,4,450.0,False,Li-Po,3000,8,2.0,16,8,64
 Allview,P8 Energy Pro,Android,3,420.0,False,Li-Po,5020,8,1.3,13,5,64
@@ -176,52 +161,49 @@ Allview,X1 Soul,Android,2,360.0,False,Li-Po,2000,4,1.5,13,5,32
 Allview,A5 Duo,Android,512,100.0,True,Li-Ion,1700,2,1.2,3.15,0.6,4
 Allview,H2 Qubo,Android,512,120.0,True,Li-Ion,1800,4,1.2,5,0.6,4
 Allview,Viper i V1,Android,1,200.0,True,Li-Ion,1800,4,1.3,8,2,8
-Allview,Viper V1,Android,1,230.0,True,Li-Ion,1800,4,1.2,8,2,4
+Allview,Viper V1,Android,1,230.0,True,Li-Ion,1800,4,1.2,8,2,16
 Allview,P5 Qmax,Android,1,230.0,True,Li-Ion,3000,4,1.2,8,1,4
-Allview,A4ALL,Android,256,70.0,True,Li-Ion,1500,1,1.0,2,0.6,512
 Allview,P5 Quad,Android,1,170.0,True,Li-Ion,2100,4,1.2,8,1,4
 Allview,P6 Stony,Android,1,200.0,False,Li-Po,2100,2,1.0,8,1,4
 Allview,P4 Duo,Android,512,180.0,True,Li-Ion,1600,2,1.0,8,0.6,4
 Allview,P5 Mini,Android,512,90.0,True,Li-Ion,1700,1,1.0,3.15,0.6,4
 Allview,P4 AllDro,Android,512,200.0,True,Li-Ion,1600,1,1.0,8,0.6,4
-Allview,P3 AllDro,Android,512,100.0,True,Li-Ion,1900,1,0.67,8,0.6,512
-Allview,P2 AllDro,Android,256,80.0,True,Li-Ion,1400,1,0.67,5,0.6,512
 Amazon,Fire Phone,Amazon,2,160.0,False,Li-Ion,2400,4,2.2,13,2.1,64
 Amazon,Kindle Fire HDX,Android,2,170.0,False,Li-Ion,,4,2.2,1.3,0,64
 Amazon,Kindle Fire HD 8.9 LTE,Android,1,380.0,False,Li-Ion,,2,1.5,1.3,0,64
 Amazon,Kindle Fire HD 8.9,Android,1,200.0,False,Li-Ion,,2,1.5,1.3,0,32
 Amazon,Kindle Fire HD,Android,1,150.0,False,Li-Ion,,2,1.2,1.3,0,32
-Apple,iPad 9.7,iOS,2,390.0,False,Li-Ion,8827,2,1.84,8,1.2,32
-Apple,iPhone 7 Plus,iOS,3,900.0,False,Li-Ion,2900,4,2.34,12,7,32
-Apple,iPhone 7,iOS,GB|,760.0,False,Li-Ion,1960,4,2.34,12,7,32
-Apple,iPad Pro 9.7,iOS,2,690.0,False,Li-Ion,,2,2.16,12,5,32
-Apple,iPhone SE,iOS,2,440.0,False,Li-Po,1624,2,1.84,12,1.2,64
-Apple,iPhone 6s Plus,iOS,2,750.0,False,Li-Ion,2750,2,1.84,12,5,64
-Apple,iPhone 6s,iOS,2,620.0,False,Li-Ion,1715,2,1.84,12,5,64
-Apple,iPad Pro,iOS,4,850.0,False,Li-Ion,10,2,2.26,8,1.2,32
-Apple,iPad mini 4,iOS,2,360.0,False,Li-Ion,5124,2,1.5,8,1.2,64
-Apple,iPad Air 2,iOS,2,440.0,False,Li-Po,7340,3,1.5,8,1.2,64
-Apple,iPad mini 3,iOS,1,400.0,False,Li-Po,6470,2,1.3,5,1.2,64
-Apple,iPhone 6 Plus,iOS,1,700.0,False,Li-Po,2915,2,1.4,8,1.2,64
-Apple,iPhone 6,iOS,1,540.0,False,Li-Po,1810,2,1.4,8,1.2,64
-Apple,iPad Air,iOS,1,350.0,False,Li-Po,8600,2,1.3,5,1.2,64
-Apple,iPad mini 2,iOS,1,270.0,False,Li-Po,6470,2,1.3,5,1.2,64
+Apple,iPad 9.7,iOS,2,390.0,False,Li-Ion,8827,2,1.84,8,1.2,128
+Apple,iPhone 7 Plus,iOS,3,900.0,False,Li-Ion,2900,4,2.34,12,7,256
+Apple,iPhone 7,iOS,GB|,760.0,False,Li-Ion,1960,4,2.34,12,7,256
+Apple,iPad Pro 9.7,iOS,2,690.0,False,Li-Ion,,2,2.16,12,5,256
+Apple,iPhone SE,iOS,2,440.0,False,Li-Po,1624,2,1.84,12,1.2,128
+Apple,iPhone 6s Plus,iOS,2,750.0,False,Li-Ion,2750,2,1.84,12,5,128
+Apple,iPhone 6s,iOS,2,620.0,False,Li-Ion,1715,2,1.84,12,5,128
+Apple,iPad Pro,iOS,4,850.0,False,Li-Ion,10,2,2.26,8,1.2,256
+Apple,iPad mini 4,iOS,2,360.0,False,Li-Ion,5124,2,1.5,8,1.2,128
+Apple,iPad Air 2,iOS,2,440.0,False,Li-Po,7340,3,1.5,8,1.2,128
+Apple,iPad mini 3,iOS,1,400.0,False,Li-Po,6470,2,1.3,5,1.2,128
+Apple,iPhone 6 Plus,iOS,1,700.0,False,Li-Po,2915,2,1.4,8,1.2,128
+Apple,iPhone 6,iOS,1,540.0,False,Li-Po,1810,2,1.4,8,1.2,128
+Apple,iPad Air,iOS,1,350.0,False,Li-Po,8600,2,1.3,5,1.2,128
+Apple,iPad mini 2,iOS,1,270.0,False,Li-Po,6470,2,1.3,5,1.2,128
 Apple,iPhone 5s,iOS,1,330.0,False,Li-Po,1560,2,1.3,8,1.2,64
-Apple,iPhone 5c,iOS,1,300.0,False,Li-Po,1510,2,1.3,8,1.2,8
+Apple,iPhone 5c,iOS,1,300.0,False,Li-Po,1510,2,1.3,8,1.2,32
 Apple,iPad mini Wi-Fi,iOS,512,200.0,False,Li-Po,4490,2,1.0,5,1.2,64
 Apple,iPad mini Wi-Fi + Cellular,iOS,512,300.0,False,Li-Po,4490,2,1.0,5,1.2,64
-Apple,iPad 4 Wi-Fi,iOS,1,350.0,False,Li-Po,11560,2,1.4,5,1.2,64
-Apple,iPad 4 Wi-Fi + Cellular,iOS,1,500.0,False,Li-Po,11560,2,1.4,5,1.2,64
+Apple,iPad 4 Wi-Fi,iOS,1,350.0,False,Li-Po,11560,2,1.4,5,1.2,128
+Apple,iPad 4 Wi-Fi + Cellular,iOS,1,500.0,False,Li-Po,11560,2,1.4,5,1.2,128
 Apple,iPhone 5,iOS,1,340.0,False,Li-Po,1440,2,1.3,8,1.2,64
 Apple,iPad 3 Wi-Fi + Cellular,iOS,1,400.0,False,Li-Po,11560,2,1.0,5,0.6,64
 Apple,iPad 3 Wi-Fi,iOS,1,290.0,False,Li-Po,11560,2,1.0,5,0.6,64
-Apple,iPhone 4s,iOS,512,190.0,False,Li-Po,1432,2,1.0,8,0.6,8
+Apple,iPhone 4s,iOS,512,190.0,False,Li-Po,1432,2,1.0,8,0.6,64
 Apple,iPad 2 Wi-Fi + 3G,iOS,512,370.0,False,Li-Po,6930,2,1.0,0.7,0.6,64
 Apple,iPad 2 Wi-Fi,iOS,512,200.0,False,Li-Po,6930,2,1.0,0.7,0.6,64
 Apple,iPad 2 CDMA,iOS,512,200.0,False,Li-Po,6930,2,1.0,0.7,0.6,64
-Apple,iPhone 4,iOS,512,200.0,False,Li-Po,1420,1,1.0,5,0.6,8
-Apple,iPhone 3GS,iOS,256,110.0,False,Li-Ion,,1,0.6,3.15,0,8
-Apple,iPhone 3G,iOS|,128,90.0,False,Li-Ion,,1,0.41200000000000003,2,0,8
+Apple,iPhone 4,iOS,512,200.0,False,Li-Po,1420,1,1.0,5,0.6,32
+Apple,iPhone 3GS,iOS,256,110.0,False,Li-Ion,,1,0.6,3.15,0,32
+Apple,iPhone 3G,iOS|,128,90.0,False,Li-Ion,,1,0.41200000000000003,2,0,16
 Archos,55 Graphite,Android,2,180.0,False,Li-Ion,3000,4,1.5,13,5,16
 Archos,50 Graphite,Android,1,130.0,False,Li-Ion,2400,4,1.5,13,5,16
 Archos,Diamond 2 Plus,Android,4,250.0,False,Li-Ion,2950,8,2.0,20.7,8,64
@@ -238,8 +220,8 @@ Asus,Zenpad 3 8.0 Z582KL,Android,3,390.0,False,Li-Ion,4680,8,1.8,13,5,32
 Asus,Zenfone Live ZB501KL,Android,2,150.0,False,Li-Ion,2650,4,1.2,13,5,32
 Asus,Zenfone 3s Max ZC521TL,Android,3,230.0,False,Li-Po,5000,8,1.5,13,8,32
 Asus,Zenpad 3S 10 Z500KL,Android,4,450.0,False,Li-Po,7800,6,1.4,8,5,32
-Asus,Zenfone AR ZS571KL,Android,GB|,800.0,False,Li-Ion,3300,4,2.35,23,8,64
-Asus,Zenfone 3 Zoom ZE553KL,Android,4,550.0,False,Li-Ion,5000,8,2.0,12,13,64
+Asus,Zenfone AR ZS571KL,Android,GB|,800.0,False,Li-Ion,3300,4,2.35,23,8,256
+Asus,Zenfone 3 Zoom ZE553KL,Android,4,550.0,False,Li-Ion,5000,8,2.0,12,13,128
 Asus,Zenpad 3 8.0 Z581KL,Android,4,390.0,False,Li-Po,4680,6,1.4,8,2,32
 Asus,Zenfone Go ZB500KL,Android,2,130.0,True,Li-Ion,2600,4,1.2,13,5,16
 Asus,Zenfone 3 Max ZC553KL,Android,2/3/4,280.0,False,Li-Ion,4100,8,1.4,16,8,32
@@ -249,8 +231,8 @@ Asus,Zenfone 3 Max ZC520TL,Android,2,230.0,False,Li-Po,4130,4,1.25,13,5,16
 Asus,Zenfone 3 Laser ZC551KL,Android,2,270.0,False,Li-Ion,3000,8,1.4,13,8,32
 Asus,Zenfone 3 ZE520KL,Android,3,360.0,False,Li-Ion,2600,8,2.0,16,8,32
 Asus,Zenfone Pegasus 3,Android,2,210.0,False,Li-Ion,4100,4,1.3,13,5,16
-Asus,Zenfone 3 Ultra ZU680KL,Android,3/4,700.0,False,Li-Ion,4600,8,1.8,23,8,64
-Asus,Zenfone 3 Deluxe ZS570KL,Android,4/6,690.0,False,Li-Ion,3000,4,2.15,23,8,64
+Asus,Zenfone 3 Ultra ZU680KL,Android,3/4,700.0,False,Li-Ion,4600,8,1.8,23,8,128
+Asus,Zenfone 3 Deluxe ZS570KL,Android,4/6,690.0,False,Li-Ion,3000,4,2.15,23,8,256
 Asus,Zenfone 3 ZE552KL,Android,3,450.0,False,Li-Ion,3000,8,2.0,16,8,32
 Asus,Zenfone Max ZC550KL (2016),Android,2,170.0,False,Li-Po,5000,8,1.5,13,5,32
 Asus,Zenfone Go ZB450KL,Android,1,110.0,True,Li-Po,2070,4,1.2,8,2,8
@@ -260,44 +242,44 @@ Asus,Zenfone Go T500,Android,2,110.0,True,Li-Po,2500,4,1.2,8,5,16
 Asus,Zenfone Go ZC451TG,Android,1,70.0,True,Li-Ion,1600,4,1.3,5,0.6,8
 Asus,Live G500TG,Android,2,230.0,True,Li-Po,2070,4,1.3,8,2,16
 Asus,Zenfone 2 Laser ZE551KL,Android,3,180.0,True,Li-Po,3000,8,1.7,13,5,32
-Asus,Zenfone Zoom ZX551ML,Android,4,500.0,False,Li-Po,3000,4,2.5,13,5,64
-Asus,Zenpad 10 Z300C,Android,2,160.0,False,,,4,0.0,5,2,8
-Asus,Zenfone Go ZC500TG,Android,2,130.0,True,Li-Po,2070,4,1.3,8,2,8
-Asus,Zenfone Max ZC550KL,Android,2,170.0,False,Li-Po,5000,4,1.2,13,5,8
-Asus,Zenfone 2 Deluxe ZE551ML,Android,4,500.0,False,Li-Po,3000,4,2.3,13,5,64
+Asus,Zenfone Zoom ZX551ML,Android,4,500.0,False,Li-Po,3000,4,2.5,13,5,128
+Asus,Zenpad 10 Z300C,Android,2,160.0,False,,,4,0.0,5,2,32
+Asus,Zenfone Go ZC500TG,Android,2,130.0,True,Li-Po,2070,4,1.3,8,2,16
+Asus,Zenfone Max ZC550KL,Android,2,170.0,False,Li-Po,5000,4,1.2,13,5,16
+Asus,Zenfone 2 Deluxe ZE551ML,Android,4,500.0,False,Li-Po,3000,4,2.3,13,5,128
 Asus,Zenfone 2 Laser ZE601KL,Android,2,300.0,True,Li-Po,3000,8,1.7,13,5,16
 Asus,Zenfone 2 Laser ZE600KL,Android,2,360.0,True,Li-Po,3000,8,1.7,13,5,16
 Asus,Zenfone 2 Laser ZE550KL,Android,2,220.0,True,Li-Po,3000,4,1.2,13,5,16
-Asus,Zenfone 2 Laser ZE500KG,Android,2,200.0,True,Li-Ion,,4,1.2,8,5,8
-Asus,Zenfone 2 Laser ZE500KL,Android,2,210.0,True,Li-Po,2400,4,1.2,13,5,8
+Asus,Zenfone 2 Laser ZE500KG,Android,2,200.0,True,Li-Ion,,4,1.2,8,5,16
+Asus,Zenfone 2 Laser ZE500KL,Android,2,210.0,True,Li-Po,2400,4,1.2,13,5,16
 Asus,Zenpad 7.0 Z370CG,Android,2,160.0,False,Li-Po,,4,0.0,8,2,16
 Asus,Zenfone 2E,Android,1,110.0,False,Li-Po,2500,2,1.6,8,2,8
 Asus,Pegasus 2 Plus,Android,3,300.0,False,Li-Po,3030,8,1.7,13,8,32
 Asus,Zenpad 8.0 Z380KL,Android,1,280.0,False,Li-Po,4000,8,0.0,5,2,8
-Asus,Zenpad C 7.0,Android,1,140.0,False,Li-Po,,4,0.0,5,0.6,8
+Asus,Zenpad C 7.0,Android,1,140.0,False,Li-Po,,4,0.0,5,0.6,16
 Asus,Zenfone Selfie ZD551KL,Android,2/3,280.0,True,Li-Po,3000,8,1.7,13,13,32
 Asus,Zenfone 2 ZE500CL,Android,2,180.0,False,Li-Po,2500,2,1.6,8,2,16
 Asus,Zenfone 2 ZE550ML,Android,2,250.0,False,Li-Po,3000,4,1.8,13,5,16
 Asus,Zenfone 2 ZE551ML,Android,2/4,370.0,False,Li-Po,3000,4,2.3,13,5,64
-Asus,Fonepad 7 FE375CL,Android,2,220.0,False,Li-Po,,4,1.33,5,2,8
+Asus,Fonepad 7 FE375CL,Android,2,220.0,False,Li-Po,,4,1.33,5,2,16
 Asus,Zenfone C ZC451CG,Android,1,90.0,True,Li-Ion,2100,2,1.2,5,0.6,8
-Asus,Fonepad 7 FE171CG,Android,1/2,160.0,False,Li-Po,,2,1.2,5,2,8
-Asus,Zenfone Zoom ZX550,Android,2/4,400.0,False,Li-Po,3000,4,2.3,13,5,64
-Asus,Pegasus,Android,2,80.0,True,Li-Po,2500,4,1.5,8,5,8
-Asus,Memo Pad 10 ME103K,Android,1,200.0,False,Li-Po,,4,1.4,5,0.6,8
+Asus,Fonepad 7 FE171CG,Android,1/2,160.0,False,Li-Po,,2,1.2,5,2,16
+Asus,Zenfone Zoom ZX550,Android,2/4,400.0,False,Li-Po,3000,4,2.3,13,5,128
+Asus,Pegasus,Android,2,80.0,True,Li-Po,2500,4,1.5,8,5,16
+Asus,Memo Pad 10 ME103K,Android,1,200.0,False,Li-Po,,4,1.4,5,0.6,32
 Asus,PadFone X mini,Android,1,160.0,True,Li-Ion,2060,2,1.6,5,2,8
 Asus,Memo Pad 7 ME572CL,Android,2,240.0,False,Li-Ion,15,4,1.83,5,2,32
 Asus,Memo Pad 7 ME572C,Android,2,240.0,False,Li-Po,15,4,1.83,5,2,32
-Asus,Zenfone 5 A500KL,Android,1/2,210.0,False,Li-Po,2110,4,1.2,8,2,8
+Asus,Zenfone 5 A500KL,Android,1/2,210.0,False,Li-Po,2110,4,1.2,8,2,32
 Asus,Zenfone 4 A450CG,Android,1,100.0,True,Li-Po,1750,2,1.2,8,0.6,8
 Asus,Memo Pad 8 ME581CL,Android,2,240.0,False,Li-Po,,4,2.3,5,1.2,32
 Asus,Memo Pad 8 ME181C,Android,1,150.0,False,Li-Po,,4,1.33,5,2,16
-Asus,Memo Pad 7 ME176C,Android,1,130.0,False,Li-Po,,4,1.86,5,2,8
-Asus,Fonepad 8 FE380CG,Android,1/2,200.0,False,Li-Po,,4,1.33,5,2,8
-Asus,Fonepad 7 FE375CXG,Android,1,130.0,False,Li-Po,,4,1.33,2,0.6,8
-Asus,Fonepad 7 FE375CG,Android,1,210.0,False,Li-Po,,4,1.83,5,2,8
+Asus,Memo Pad 7 ME176C,Android,1,130.0,False,Li-Po,,4,1.86,5,2,16
+Asus,Fonepad 8 FE380CG,Android,1/2,200.0,False,Li-Po,,4,1.33,5,2,16
+Asus,Fonepad 7 FE375CXG,Android,1,130.0,False,Li-Po,,4,1.33,2,0.6,16
+Asus,Fonepad 7 FE375CG,Android,1,210.0,False,Li-Po,,4,1.83,5,2,16
 Asus,Transformer Pad TF303CL,Android,2,400.0,False,Li-Po,,4,1.86,5,1.2,32
-Asus,Transformer Pad TF103C,Android,1,220.0,False,Li-Po,,4,1.86,2,0.6,8
+Asus,Transformer Pad TF103C,Android,1,220.0,False,Li-Po,,4,1.86,2,0.6,16
 Asus,Fonepad 7 (2014),Android,1,100.0,False,Li-Po,,2,1.2,2,0.6,8
 Asus,PadFone X,Android,2,320.0,False,Li-Po,2300,4,2.3,13,2,16
 Asus,PadFone S,Android,2,250.0,False,Li-Po,2300,4,2.3,13,2,16
@@ -305,24 +287,24 @@ Asus,PadFone Infinity Lite,Android,2,510.0,False,Li-Po,2400,4,1.7,13,2,32
 Asus,Zenfone 6 A601CG,Android,2,200.0,False,Li-Po,3230,2,1.6,13,2,32
 Asus,Zenfone 6 A600CG,Android,2,250.0,False,Li-Po,3300,2,2.0,13,2,32
 Asus,Zenfone 5 A501CG,Android,2,120.0,False,Li-Po,2110,2,1.2,8,2,8
-Asus,Zenfone 5 A500CG,Android,2,130.0,False,Li-Po,2110,2,2.0,8,2,8
+Asus,Zenfone 5 A500CG,Android,2,130.0,False,Li-Po,2110,2,2.0,8,2,32
 Asus,PadFone mini 4G (Intel),Android,1,300.0,True,Li-Ion,2060,2,1.6,5,2,8
 Asus,PadFone mini (Intel),Android,1,210.0,False,Li-Po,1170,2,1.6,8,2,8
 Asus,PadFone mini,Android,1,290.0,True,Li-Po,1500,4,1.4,8,2,16
 Asus,PadFone Infinity 2,Android,2,730.0,False,Li-Po,2400,4,2.2,13,2,32
-Asus,Fonepad 7,Android,1,220.0,False,Li-Po,3950,2,1.6,5,1.2,8
+Asus,Fonepad 7,Android,1,220.0,False,Li-Po,3950,2,1.6,5,1.2,32
 Asus,Fonepad Note FHD6,Android,2,350.0,False,Li-Po,3200,2,2.0,8,1.2,32
 Asus,Transformer Pad TF701T,Android,2,400.0,False,Li-Po,,4,1.9,5,1.2,64
 Asus,Memo Pad HD7 8 GB,Android,1,100.0,False,Li-Po,,4,1.2,2,0.6,8
 Asus,Memo Pad HD7 16 GB,Android,1,130.0,False,Li-Po,,4,1.2,5,1.2,16
-Asus,Fonepad,Android,1,260.0,False,Li-Ion,4270,1,1.2,3.15,1.2,8
+Asus,Fonepad,Android,1,260.0,False,Li-Ion,4270,1,1.2,3.15,1.2,16
 Asus,PadFone Infinity,Android,2,1000.0,False,Li-Po,2400,4,1.7,13,2,64
 Asus,Memo Pad Smart 10,Android,1,230.0,False,Li-Po,,4,1.2,5,1.2,16
-Asus,Memo Pad ME172V,Android,1,110.0,False,Li-Po,4270,1,1.0,1,0,8
+Asus,Memo Pad ME172V,Android,1,110.0,False,Li-Po,4270,1,1.0,1,0,16
 Asus,Google Nexus 7 Cellular,Android,1,230.0,False,Li-Ion,4325,4,1.2,1.2,0,32
 Asus,VivoTab RT TF600T,Microsoft,2,420.0,False,Li-Po,,4,1.3,8,2,64
 Asus,PadFone 2,Android,2,450.0,False,Li-Ion,2140,4,1.5,13,1.2,64
-Asus,Google Nexus 7,Android,1,150.0,False,Li-Ion,4325,4,1.2,1.2,0,8
+Asus,Google Nexus 7,Android,1,150.0,False,Li-Ion,4325,4,1.2,1.2,0,32
 Asus,Transformer Pad Infinity 700 LTE,Android,1,430.0,False,Li-Po,,2,1.5,8,2,64
 Asus,Transformer Pad Infinity 700 3G,Android,1,430.0,False,Li-Po,,2,1.5,8,2,64
 Asus,Transformer Pad TF300T,Android,1,290.0,False,Li-Po,,4,1.2,8,1.2,32
@@ -378,7 +360,6 @@ BLU,Life 8,Android,1,150.0,True,Li-Ion,2000,8,1.7,8,2,8
 BLU,Life Pure XL,Android,,290.0,False,Li-Po,2500,4,2.2,16,8,32
 BLU,Studio 6.0 HD,Android,1,180.0,False,Li-Po,3000,4,1.3,8,2,4
 BLU,Neo 4.5,Android,512,70.0,True,Li-Ion,1800,2,1.3,3.15,0.6,4
-BLU,Neo 3.5,Android,256,70.0,True,Li-Ion,1300,2,1.0,1.3,0,512
 BLU,Studio 5.0 S II,Android,1,120.0,True,Li-Ion,2000,4,1.3,8,2,4
 BLU,Studio 5.0 E,Android,512,70.0,True,Li-Ion,2100,2,1.0,3.15,0,4
 BLU,Studio 5.5 S,Android,1,130.0,True,Li-Ion,2350,4,1.3,8,2,4
@@ -396,13 +377,11 @@ BLU,Life Pro,Android,1,210.0,True,Li-Po,2500,4,1.5,12,5,16
 BLU,Studio 5.5,Android,1,120.0,True,Li-Ion,2250,4,1.2,5,0.6,4
 BLU,Dash 5.0,Android,512,100.0,True,Li-Ion,2000,2,1.3,5,0.6,4
 BLU,Dash Music 4.0,Android,512,80.0,True,Li-Ion,1500,2,1.3,3.15,0,4
-BLU,Dash JR,Android,256,40.0,True,Li-Ion,1000,1,1.0,2,0,512
 BLU,Dash 4.5,Android,512,100.0,True,Li-Ion,2000,4,1.2,5,0.6,4
 BLU,Amour,Android,512,100.0,True,Li-Ion,1600,2,1.0,5,0.6,4
 BLU,Studio 5.3 S,Android,1,130.0,True,Li-Ion,2800,4,1.2,8,2,4
 BLU,Studio 5.0 S,Android,1,130.0,True,Li-Ion,2000,4,1.2,8,2,4
 BLU,Studio 5.0,Android,512,100.0,True,Li-Ion,2000,2,1.0,5,0.6,4
-BLU,Dash Music,Android,256,80.0,True,Li-Ion,1500,1,1.0,2,0.6,512
 BLU,Life View,Android,1,230.0,True,Li-Ion,2600,4,1.2,12,5,16
 BLU,Life One,Android,1,230.0,False,Li-Ion,2000,4,1.2,13,5,16
 BLU,Life Play,Android,1,180.0,True,Li-Ion,1800,4,1.2,8,2,4
@@ -412,19 +391,12 @@ BLU,Quattro 5.7 HD,Android,1,220.0,True,Li-Ion,2800,4,1.5,8,1.3,4
 BLU,Quattro 4.5 HD,Android,1,260.0,True,Li-Ion,1800,4,1.5,8,1.3,16
 BLU,Quattro 4.5,Android,1,180.0,True,Li-Ion,1800,4,1.5,5,0.6,4
 BLU,Dash 4.0,Android,512,90.0,True,Li-Ion,1500,2,1.3,5,0.6,4
-BLU,Dash 3.2,Android,256,70.0,True,Li-Ion,1280,1,1.0,1.3,0,512
 BLU,Vivo 4.65 HD,Android,1,210.0,True,Li-Ion,1600,2,1.2,8,1.3,4
 BLU,Touch Book 9.7,Android,1,180.0,False,Li-Ion,6000,2,1.5,2,2,4
-BLU,Touch Book 7.0 Plus,Android,512,70.0,False,Li-Ion,3500,1,1.0,3.15,0.6,512
 BLU,Touch Book 7.0 Lite,Android,512,70.0,False,Li-Ion,3000,1,1.2,0.6,0,4
-BLU,Dash 3.5,Android,256,70.0,True,Li-Ion,1300,2,1.0,3.15,0,512
 BLU,Elite 3.8,Android,512,130.0,True,Li-Ion,1600,1,1.0,5,0.6,1
 BLU,Vivo 4.3,Android,512,170.0,True,Li-Ion,1600,2,1.0,8,1.3,4
-BLU,Studio 5.3,Android,512,170.0,True,Li-Ion,2500,1,0.65,5,0.6,512
-BLU,Touch Book 7.0,Android,512,120.0,False,Li-Ion,4250,1,0.8,3.15,0.6,512
-BLU,Magic,Android,256,110.0,True,Li-Ion,1450,1,0.6,3.15,0,512
-BLU,Tango,Android,256,100.0,True,Li-Ion,1200,1,0.6,3.15,0,512
-BQ,Aquaris X Pro,Android,4,370.0,False,Li-Ion,3100,8,2.2,12,8,64
+BQ,Aquaris X Pro,Android,4,370.0,False,Li-Ion,3100,8,2.2,12,8,128
 BQ,Aquaris X,Android,3,290.0,False,Li-Ion,3100,8,2.2,16,8,32
 BQ,Aquaris U Lite,Android,2,160.0,False,Li-Po,3080,4,1.4,8,5,16
 BQ,Aquaris U,Android,2,190.0,False,Li-Po,3080,8,1.4,13,5,16
@@ -445,7 +417,6 @@ Cat,S50,Android,2,460.0,False,Li-Ion,2630,1,1.2,8,0.6,8
 Cat,B15,Android,512,250.0,False,Li-Ion,2000,2,1.0,5,0.6,4
 Celkon,Campus Whizz Q42,Android,512,80.0,True,Li-Ion,1400,4,1.3,5,1.3,4
 Celkon,A500,Android,1,90.0,,Li-Ion,2000,2,1.3,5,0.6,8
-Celkon,A21,Android,256,60.0,,Li-Ion,1500,4,1.3,3.15,1.3,512
 Celkon,AR45,Android,512,90.0,,Li-Ion,2000,2,1.2,5,1.3,4
 Celkon,A119 Signature HD,Android,1,200.0,,Li-Ion,2100,2,1.0,12,3,4
 Coolpad,Note 5 Lite,Android,3,120.0,False,Li-Ion,2500,4,1.0,13,8,16
@@ -472,8 +443,7 @@ Dell,Venue 8,Android,2,130.0,False,Li-Ion,4100,2,2.0,5,2,32
 Dell,Venue 7,Android,2,100.0,False,Li-Ion,4100,2,1.6,3.15,0.6,16
 Dell,Streak 10 Pro,Android,1,280.0,False,Li-Ion,,2,1.0,5,2,16
 Dell,Venue,Android,512,390.0,True,Li-Ion,1400,1,1.0,8,0,1
-Dell,XCD28,Android,256,180.0,True,Li-Ion,1100,1,0.6,3.15,0,256
-Dell,Venue Pro,Microsoft,512,220.0,True,Li-Ion,1400,1,1.0,5,0,8
+Dell,Venue Pro,Microsoft,512,220.0,True,Li-Ion,1400,1,1.0,5,0,16
 Dell,Streak,Android,512,190.0,True,Li-Ion,1530,1,1.0,5,0.6,16
 Gigabyte,GSmart Essence 4,Android,512,60.0,True,Li-Ion,1300,2,1.0,2,0.6,4
 Gigabyte,GSmart Classic Lite,Android,512,80.0,True,Li-Ion,2100,4,1.2,5,2,8
@@ -495,7 +465,7 @@ Gigabyte,GSmart G1355,Android,512,190.0,True,Li-Ion,1500,1,0.8,5,0,1
 Gionee,A1 Lite,Android,3,27000.0,False,Li-Ion,4000,8,1.3,13,20,32
 Gionee,S10B,Android,4,240.0,False,Li-Ion,3700,8,1.8,13,16,64
 Gionee,S10C,Android,4,200.0,False,Li-Ion,3100,4,1.4,13,16,32
-Gionee,M6s Plus,Android,6,460.0,False,Li-Po,6020,8,1.95,12,8,64
+Gionee,M6s Plus,Android,6,460.0,False,Li-Po,6020,8,1.95,12,8,256
 Gionee,A1 Plus,Android,4,370.0,False,Li-Ion,4550,8,2.5,13,20,64
 Gionee,A1,Android,4,280.0,False,Li-Ion,4010,8,2.0,13,16,64
 Gionee,F5,Android,4,250.0,False,Li-Po,4000,8,1.5,13,8,32
@@ -537,8 +507,8 @@ Gionee,Pioneer P3,Android,512,90.0,True,Li-Ion,1700,4,1.3,5,0.6,4
 Gionee,Pioneer P2,Android,512,70.0,True,Li-Ion,1700,2,1.3,5,0.6,4
 Gionee,Ctrl V4,Android,512,110.0,True,Li-Ion,1800,4,1.2,5,0.6,4
 Gionee,Dream D1,Android,1,170.0,True,Li-Ion,2100,4,1.2,8,1,4
-Google,Pixel XL,Android,4,880.0,False,Li-Ion,3450,4,2.15,12.3,8,32
-Google,Pixel,Android,4,770.0,False,Li-Ion,2770,4,2.15,12.3,8,32
+Google,Pixel XL,Android,4,880.0,False,Li-Ion,3450,4,2.15,12.3,8,128
+Google,Pixel,Android,4,770.0,False,Li-Ion,2770,4,2.15,12.3,8,128
 Google,Pixel C,Android,3,600.0,False,Li-Po,9240,4,1.9,8,2,64
 HP,Elite x3,Microsoft,4,700.0,False,Li-Po,4150,4,2.15,16,8,64
 HP,Pro Slate 12,Android,2,490.0,False,Li-Po,,4,2.3,8,2,32
@@ -546,12 +516,9 @@ HP,Pro Slate 8,Android,2,390.0,False,Li-Po,,4,2.3,8,2,32
 HP,7 VoiceTab,Android,1,140.0,False,,,4,1.3,5,0.6,8
 HP,Pre 3,HP,512,350.0,True,Li-Ion,1230,1,1.4,5,0.6,8
 HP,TouchPad,HP,1,280.0,False,Li-Ion,6300,2,1.2,1.3,0,32
-HP,iPAQ Glisten,Microsoft,256,140.0,True,Li-Po,,1,0.528,3.15,0,512
-HP,iPAQ Voice Messenger,Microsoft,128,80.0,True,Li-Po,1260,1,0.528,3.15,0,256
-HP,iPAQ Data Messenger,Microsoft,128,150.0,True,Li-Po,1140,1,0.528,3.15,0,256
 HTC,U11,Android,4,750.0,False,Li-Ion,3000,8,2.45,12,16,64
 HTC,One X10,Android,3,330.0,False,,4000,8,1.8,16,8,32
-HTC,U Ultra,Android,4,750.0,False,Li-Ion,3000,4,2.15,12,16,64
+HTC,U Ultra,Android,4,750.0,False,Li-Ion,3000,4,2.15,12,16,128
 HTC,U Play,Android,3,470.0,False,Li-Ion,2500,8,2.0,16,16,32
 HTC,10 evo,Android,3,570.0,False,Li-Ion,3200,8,1.5,16,8,32
 HTC,Desire 650,Android,2,200.0,False,Li-Ion,2200,4,1.6,13,5,16
@@ -592,7 +559,7 @@ HTC,Desire 626,Android,1/2,180.0,False,Li-Ion,2000,8,1.7,13,5,16
 HTC,Desire 826 dual sim,Android,2,200.0,False,Li-Po,2600,8,1.7,13,4,16
 HTC,Desire 620G dual sim,Android,1,190.0,True,Li-Po,2100,8,1.7,8,5,8
 HTC,Desire 620,Android,1,180.0,True,Li-Po,2100,4,1.2,8,5,8
-HTC,Nexus 9,Android,2,300.0,False,Li-Po,6700,2,2.3,8,1.6,16
+HTC,Nexus 9,Android,2,300.0,False,Li-Po,6700,2,2.3,8,1.6,
 HTC,Desire 816G dual sim,Android,16,260.0,False,Li-Po,2600,4,1.3,13,5,8
 HTC,One (M8 Eye),Android,2,260.0,False,Li-Po,2600,4,2.3,13,5,16
 HTC,Desire Eye,Android,2,380.0,False,Li-Po,2400,4,2.3,13,13,16
@@ -660,7 +627,6 @@ HTC,Velocity 4G,Android,1,200.0,True,Li-Ion,1620,2,1.5,8,1.3,16
 HTC,Rezound,Android,1,160.0,True,Li-Ion,1620,2,1.5,8,2,16
 HTC,Vivid,Android,1,160.0,True,Li-Ion,1620,2,1.2,8,1.3,16
 HTC,Sensation XL,Android,768,170.0,True,Li-Ion,1600,1,1.5,8,1.3,16
-HTC,Explorer,Android,512,70.0,True,Li-Ion,1230,1,0.6,3.15,0,512
 HTC,Amaze 4G,Android,1,180.0,True,Li-Ion,1730,2,1.5,8,2,16
 HTC,Rhyme,Android,768,140.0,False,Li-Ion,1600,1,1.0,5,0.6,4
 HTC,Rhyme CDMA,Android,768,120.0,False,Li-Ion,1600,1,1.0,5,0.6,4
@@ -669,7 +635,6 @@ HTC,Jetstream,Android,1,280.0,False,Li-Ion,7300,2,1.5,8,1.3,32
 HTC,Titan,Microsoft,512,140.0,True,Li-Ion,1600,1,1.5,8,1.3,16
 HTC,Radar,Microsoft,512,140.0,False,Li-Ion,1520,1,1.0,5,0.6,8
 HTC,Panache,Android,768,200.0,True,Li-Ion,1400,1,1.0,5,0.6,8
-HTC,Status,Android,512,70.0,True,Li-Ion,1250,1,0.8,5,0.6,512
 HTC,Trophy,Microsoft,576,90.0,True,Li-Ion,1300,1,1.0,5,0,16
 HTC,DROID Incredible 2,Android,768,100.0,True,Li-Ion,1450,1,1.0,8,1.3,1.1
 HTC,Sensation 4G,Android,768,210.0,True,Li-Ion,1520,2,1.2,8,0.6,1
@@ -679,46 +644,22 @@ HTC,EVO 3D CDMA,Android,1,220.0,True,Li-Ion,1730,2,1.2,5,1.3,4
 HTC,HD7S,Microsoft,576,120.0,True,Li-Ion,1230,1,1.0,5,0,16
 HTC,Incredible S,Android,768,190.0,True,Li-Ion,1450,1,1.0,8,1.3,1.1
 HTC,Desire S,Android,768,100.0,True,Li-Ion,1450,1,1.0,5,0.6,1.1
-HTC,Wildfire S,Android,512,100.0,True,Li-Ion,1230,1,0.6,5,0,512
-HTC,Salsa,Android,512,130.0,True,Li-Ion,1520,1,0.8,5,0.6,512
 HTC,Flyer,Android,1,300.0,False,Li-Po,4000,1,1.5,5,1.3,32
 HTC,Flyer Wi-Fi,Android,1,110.0,False,Li-Ion,4000,1,1.5,5,1.3,32
 HTC,Inspire 4G,Android,768,120.0,True,Li-Ion,1230,1,1.0,8,0,4
 HTC,ThunderBolt 4G,Android,768,230.0,True,Li-Ion,1400,1,0.0,8,1.3,4
-HTC,Gratia,Android,384,120.0,True,Li-Ion,1200,1,0.6,5,0,512
-HTC,HD7,Microsoft,512,120.0,True,Li-Ion,1230,1,1.0,5,0,8
+HTC,HD7,Microsoft,512,120.0,True,Li-Ion,1230,1,1.0,5,0,
 HTC,7 Pro,Microsoft,576,190.0,True,Li-Ion,1230,1,1.0,5,0,8
 HTC,7 Surround,Microsoft,448,90.0,True,Li-Ion,1230,1,1.0,5,0,16
 HTC,7 Mozart,Microsoft,512,130.0,True,Li-Ion,1300,1,1.0,8,0,8
 HTC,7 Trophy,Microsoft,576,90.0,True,Li-Ion,1300,1,1.0,5,0,8
-HTC,Arrive,Microsoft,576,90.0,True,Li-Ion,1500,1,1.0,5,0,8
+HTC,Arrive,Microsoft,576,90.0,True,Li-Ion,1500,1,1.0,5,0,16
 HTC,Desire HD,Android,768,150.0,True,Li-Ion,1230,1,1.0,8,0,1.5
 HTC,Desire Z,Android,512,100.0,True,Li-Ion,1300,1,0.8,5,0,1.5
 HTC,Evo 4G+,Android,1,150.0,True,Li-Ion,1730,2,1.2,8,1.3,4
-HTC,Aria,Android,384,150.0,True,Li-Ion,1200,1,0.6,5,0,512
-HTC,Desire,Android,576,140.0,True,Li-Ion,1400,1,1.0,5,0,512
-HTC,HD mini,Microsoft,384,120.0,True,Li-Ion,1200,1,0.6,5,0,512
-HTC,Legend,Android,384,120.0,True,Li-Ion,1300,1,0.6,5,0,512
-HTC,Google Nexus One,Android,512,120.0,True,Li-Ion,1400,1,1.0,5,0,512
-HTC,HD2,Microsoft,448,140.0,True,Li-Ion,1230,1,1.0,5,0,512
 HTC,Evo 4G,Android,512,90.0,True,Li-Ion,1500,1,1.0,8,1.3,1
-HTC,Pure,Microsoft,288,80.0,True,Li-Ion,1100,1,0.528,5,0.6,512
-HTC,Hero CDMA,Android,288,80.0,True,Li-Ion,1500,1,0.528,5,0,512
-HTC,Hero,Android,288,100.0,True,Li-Ion,1350,1,0.528,5,0,512
-HTC,Magic,Android,288,90.0,True,Li-Ion,1340,1,0.528,3.15,0,512
-HTC,Tilt2,Microsoft,288,90.0,True,Li-Ion,1500,1,0.528,3.15,0,512
-HTC,Touch Pro2 CDMA,Microsoft,288,120.0,True,Li-Ion,1500,1,0.528,3.15,0,512
-HTC,Touch Pro2,Microsoft,288,120.0,True,Li-Ion,1500,1,0.528,3.15,0.6,512
-HTC,Touch Diamond2,Microsoft,288,150.0,True,Li-Ion,1100,1,0.528,5,0.6,512
-HTC,Dream,Android,192,150.0,True,Li-Ion,1150,1,0.528,3.15,0,256
 HTC,MAX 4G,Microsoft,288,310.0,True,Li-Ion,1500,1,0.4,3.15,0.6,8
-HTC,Touch HD T8285,Microsoft,288,280.0,True,Li-Ion,1350,1,0.528,5,0.6,512
-HTC,Touch HD,Microsoft,288,290.0,True,Li-Ion,1350,1,0.528,5,0.6,512
-HTC,Touch Pro,Microsoft,288,200.0,True,Li-Ion,1340,1,0.528,3.15,0.6,512
 HTC,Touch Diamond,Microsoft,192,130.0,True,Li-Ion,900,1,0.528,3.15,0.6,4
-HTC,Touch Cruise,Microsoft,128,210.0,True,Li-Ion,1350,1,0.4,3.15,0.6,256
-HTC,S730,Microsoft,64,250.0,True,Li-Ion,1050,1,0.4,2,0.6,256
-HTC,TyTN II,Microsoft,128,140.0,True,Li-Po,1350,1,0.4,3.15,0.6,256
 Huawei,Honor 9,Android,4/6,500.0,False,Li-Po,3200,8,2.4,20,8,64
 Huawei,Y7 Prime,Android,3,250.0,False,Li-Ion,4000,8,1.4,12,8,32
 Huawei,MediaPad M3 Lite 8,Android,3,300.0,False,Li-Po,4800,8,1.4,8,8,32
@@ -752,7 +693,7 @@ Huawei,nova,Android,3,300.0,False,Li-Po,3020,8,2.0,12,8,32
 Huawei,MediaPad T2 10.0 Pro,Android,2,240.0,False,Li-Ion,6660,8,1.2,8,2,16
 Huawei,MediaPad T2 7.0 Pro,Android,2,230.0,False,Li-Po,4360,8,1.2,13,5,16
 Huawei,G9 Plus,Android,3/4,280.0,False,Li-Po,3340,8,2.0,16,8,32
-Huawei,Honor Note 8,Android,4,440.0,False,Li-Po,4500,8,2.5,13,5,64
+Huawei,Honor Note 8,Android,4,440.0,False,Li-Po,4500,8,2.5,13,5,128
 Huawei,Honor 8,Android,4,340.0,False,Li-Po,3000,8,2.3,12,8,64
 Huawei,Honor 5A,Android,2,120.0,,Li-Ion,2200,4,1.0,13,5,16
 Huawei,MediaPad M2 7.0,Android,3,250.0,False,Li-Ion,4360,8,1.5,13,5,32
@@ -769,8 +710,8 @@ Huawei,Mate 8,Android,3,430.0,False,Li-Po,4000,8,2.3,16,8,32
 Huawei,G7 Plus,Android,3,280.0,False,Li-Ion,3000,8,1.5,13,5,32
 Huawei,Honor 5X,Android,2,300.0,False,Li-Ion,3000,8,1.2,13,5,16
 Huawei,Y6 Pro,Android,2,190.0,False,Li-Po,4000,4,1.3,13,5,16
-Huawei,Nexus 6P,Android,3,450.0,False,Li-Po,3450,8,1.55,12.3,8,64
-Huawei,Mate S,Android,3,350.0,False,,2700,8,2.2,13,8,64
+Huawei,Nexus 6P,Android,3,450.0,False,Li-Po,3450,8,1.55,12.3,8,128
+Huawei,Mate S,Android,3,350.0,False,,2700,8,2.2,13,8,128
 Huawei,Honor 7i,Android,3,310.0,False,Li-Po,3100,8,1.7,13,13,32
 Huawei,Y6,Android,1/2,90.0,True,Li-Po,2200,4,1.1,8,2,8
 Huawei,G8,Android,2,330.0,False,,3000,8,1.5,13,5,16
@@ -793,12 +734,12 @@ Huawei,Ascend G628,Android,1,140.0,True,Li-Ion,,8,1.7,8,2,8
 Huawei,Ascend Y520,Android,512,80.0,True,Li-Ion,1750,2,1.3,5,0.6,4
 Huawei,Ascend Y221,Android,512,130.0,True,Li-Ion,1350,2,1.0,2,0,4
 Huawei,Ascend GX1,Android,1,200.0,True,Li-Ion,3500,4,1.2,8,2,8
-Huawei,Honor 6 Plus,Android,3,320.0,False,Li-Po,3600,8,1.8,8,8,16GB
+Huawei,Honor 6 Plus,Android,3,320.0,False,Li-Po,3600,8,1.8,8,8,32
 Huawei,Ascend Mate7 Monarch,Android,3,500.0,False,Li-Po,4100,8,1.8,13,5,64
 Huawei,Honor 4X,Android,2,200.0,False,Li-Po,3000,8,1.2,13,5,8
 Huawei,Honor Holly,Android,1,100.0,True,Li-Ion,2000,4,1.3,8,2,16
 Huawei,MediaPad T1 10,Android,1,180.0,False,Li-Po,4800,4,1.2,5,2,8
-Huawei,MediaPad T1 8.0,Android,1,150.0,False,Li-Po,4800,4,1.2,5,0.6,8
+Huawei,MediaPad T1 8.0,Android,1,150.0,False,Li-Po,4800,4,1.2,5,0.6,16
 Huawei,Honor 4 Play,Android,1,100.0,False,Li-Ion,2000,4,1.2,8,2,8
 Huawei,Ascend G620s,Android,1,180.0,False,Li-Po,2000,4,1.2,8,2,8
 Huawei,Ascend Y550,Android,1,130.0,True,Li-Ion,2000,4,1.2,5,2,4
@@ -820,8 +761,7 @@ Huawei,MediaPad X1,Android,2,350.0,False,Li-Po,5000,4,1.6,13,5,16
 Huawei,Ascend Y530,Android,512,100.0,True,Li-Ion,1750,2,1.2,5,0.6,4
 Huawei,Ascend Mate2 4G,Android,2,330.0,False,Li-Ion,4050,4,1.6,13,5,16
 Huawei,Ascend Y320,Android,512,100.0,True,Li-Ion,1350,2,1.3,2,0,4
-Huawei,Ascend Y220,Android,256,60.0,True,Li-Ion,1350,2,1.0,0.6,0,512
-Huawei,Honor 3X G750,Android,2,250.0,True,Li-Po,3000,8,1.7,13,5,8
+Huawei,Honor 3X G750,Android,2,250.0,True,Li-Po,3000,8,1.7,13,5,16
 Huawei,Honor 3C,Android,2,140.0,True,Li-Po,2300,4,1.3,8,5,8
 Huawei,Ascend G740,Android,1,250.0,True,Li-Ion,2400,2,1.2,8,1,8
 Huawei,Ascend Y511,Android,512,110.0,True,Li-Ion,1730,2,1.3,3.15,0.6,4
@@ -831,10 +771,9 @@ Huawei,G610s,Android,1,150.0,True,Li-Ion,2150,4,1.2,5,0.6,4
 Huawei,U8687 Cronos,Android,512,50.0,True,Li-Ion,,1,1.0,3.15,0,4
 Huawei,Ascend G525,Android,1,160.0,True,Li-Ion,1700,4,1.2,5,0.6,4
 Huawei,MediaPad 7 Vogue,Android,1,180.0,False,Li-Po,4100,4,1.2,3.15,0.6,8
-Huawei,Ascend P6,Android,2,230.0,False,Li-Po,2000,4,1.5,8,5,8
+Huawei,Ascend P6,Android,2,230.0,False,Li-Po,2000,4,1.5,8,5,16
 Huawei,Ascend Y300,Android,512,90.0,True,Li-Ion,1730,2,1.0,5,0.6,4
 Huawei,Premia 4G M931,Android,1,120.0,True,Li-Ion,1650,2,1.5,5,1.3,4
-Huawei,Ascend Y210D,Android,256,70.0,True,Li-Ion,1700,1,1.0,2,0,512
 Huawei,Ascend P2,Android,1,210.0,True,Li-Ion,2420,4,1.5,13,1.3,16
 Huawei,Ascend G615,Android,1,250.0,True,Li-Po,2150,4,1.4,8,1.3,8
 Huawei,Ascend G350,Android,512,170.0,True,Li-Ion,1730,2,1.0,5,0.6,4
@@ -843,15 +782,11 @@ Huawei,Ascend Mate,Android,2,230.0,False,Li-Ion,4050,4,1.5,8,1,8
 Huawei,Ascend D2,Android,2,310.0,True,Li-Ion,3000,4,1.5,13,1.3,32
 Huawei,Ascend G510,Android,512,100.0,True,Li-Ion,1700,2,1.2,5,0.6,4
 Huawei,Ascend G500,Android,1,200.0,True,Li-Po,1930,1,1.0,5,0.6,4
-Huawei,MediaPad 10 Link,Android,1,250.0,False,Li-Po,6600,4,1.2,3.15,0.6,8
+Huawei,MediaPad 10 Link,Android,1,250.0,False,Li-Po,6600,4,1.2,3.15,0.6,32
 Huawei,Honor 2,Android,2,150.0,True,Li-Ion,2230,4,1.4,8,1.3,8
-Huawei,Ascend Y,Android,256,60.0,True,Li-Ion,1400,1,0.8,3.15,0,120
-Huawei,Summit,Android,512,100.0,True,Li-Ion,1400,1,0.6,3.15,0,512
 Huawei,Ascend P1 LTE,Android,1,150.0,True,Li-Po,2000,2,1.5,8,1.3,4
 Huawei,Fusion 2 U8665,Android,512,50.0,True,Li-Ion,1400,1,0.8,3.15,0,4
 Huawei,Ascend G330,Android,512,110.0,True,Li-Ion,1500,2,1.0,5,0.6,4
-Huawei,Ascend Y100,Android,256,70.0,True,Li-Ion,1050,1,0.8,3.15,0,512
-Huawei,Ascend Y200,Android,256,110.0,True,Li-Ion,1250,1,0.8,3.15,0,512
 Huawei,Ascend G330D U8825D,Android,512,110.0,True,Li-Ion,1550,2,1.0,5,0.6,4
 Huawei,Ascend G300,Android,512,130.0,True,Li-Ion,1350,1,1.0,5,0,4
 Huawei,Ascend P1 XL U9200E,Android,1,230.0,False,Li-Ion,2600,2,1.5,8,1.3,4
@@ -864,16 +799,12 @@ Huawei,Ascend P1s,Android,1,260.0,False,Li-Ion,1800,2,1.5,8,1.3,4
 Huawei,M886 Mercury,Android,512,110.0,True,Li-Po,1900,1,1.4,8,0.6,4
 Huawei,MediaPad,Android,1,150.0,False,Li-Po,4100,2,1.2,5,1.3,8
 Huawei,MediaPad S7-301w,Android,1,160.0,False,Li-Po,4100,2,1.2,5,1.3,8
-Huawei,U8520 Duplex,Android,256,110.0,True,Li-Ion,1500,1,0.6,3.15,0.6,512
 Huawei,U8860 Honor,Android,512,130.0,True,Li-Ion,1930,1,1.4,8,0.6,4
 Huawei,U8850 Vision,Android,512,80.0,False,Li-Ion,1400,1,1.0,5,0.6,2
 Huawei,U8800 Pro,Android,512,70.0,True,Li-Po,1500,1,1.0,5,0,4
 Huawei,U9000 IDEOS X6,Android,512,90.0,True,Li-Ion,1400,1,1.0,5,0.6,2
 Huawei,U8800 IDEOS X5,Android,512,100.0,True,Li-Po,1500,1,0.8,5,0,4
-Huawei,U8510 IDEOS X3,Android,256,100.0,True,Li-Po,1200,1,0.6,3.15,0.6,512
 Huawei,IDEOS S7,Android,256,70.0,False,Li-Ion,2200,1,1.0,2,0,8
-i-mate,Ultimate 9502,Microsoft,128,410.0,True,Li-Po,1620,1,0.4,3.15,0.6,256
-i-mate,Ultimate 8502,Microsoft,128,200.0,True,Li-Ion,1530,1,0.4,2,0,256
 Intex,IRist Smartwatch,Android,512,160.0,False,Li-Ion,600,2,1.2,5,0,4
 Jolla,Jolla C,Sailfish,2,170.0,True,Li-Ion,2500,4,1.3,8,2,16
 Jolla,Jolla,Sailfish,1,180.0,True,Li-Ion,2100,2,1.4,8,2,16
@@ -884,7 +815,6 @@ Karbonn,Titanium Octane Plus,Android,2,220.0,True,Li-Ion,2000,8,1.7,16,8,16
 Karbonn,Titanium Octane,Android,1,170.0,True,Li-Ion,2000,8,1.7,13,5,16
 Karbonn,Titanium X,Android,1,200.0,False,Li-Ion,2300,4,1.5,13,5,16
 Karbonn,S9 Titanium,Android,1,170.0,,Li-Ion,2600,4,1.2,13,5,16
-Karbonn,A10,Android,512,70.0,,Li-Ion,1400,2,1.0,5,0.6,512
 Karbonn,S5 Titanium,Android,1,160.0,True,Li-Ion,2000,4,1.2,8,2,4
 Karbonn,Smart Tab 7,Android,512,80.0,False,Li-Ion,3700,1,1.2,2,0,1
 Kyocera,DuraForce,Android,2,320.0,False,Li-Ion,3100,4,1.4,8,2,16
@@ -913,7 +843,6 @@ Lava,Iris 506Q,Android,512,110.0,True,Li-Po,2000,4,1.2,5,0.6,4
 Lava,Iris 505,Android,512,100.0,True,Li-Po,2000,2,1.2,5,0.6,4
 Lava,Iris 504q,Android,1,170.0,True,Li-Po,2000,4,1.2,8,2,4
 Lava,3G 402+,Android,512,70.0,True,Li-Ion,1500,4,1.2,3.15,0.6,4
-Lava,3G 402,Android,256,60.0,True,Li-Ion,1500,2,1.2,3.15,0.6,512
 Lava,Iris 405+,Android,512,70.0,True,Li-Po,1400,2,1.3,5,0.6,4
 Lava,Iris 503,Android,512,90.0,True,Li-Ion,2000,2,1.0,3.15,1.3,4
 LeEco,Le Pro 3 AI Edition,Android,4,280.0,False,Li-Ion,4000,10,2.3,13,8,32
@@ -923,7 +852,7 @@ LeEco,Le Pro3,Android,4,330.0,False,Li-Ion,4070,4,2.35,16,8,64
 LeEco,Le Max 2,Android,4,350.0,False,Li-Ion,3100,4,2.15,21,8,64
 LeEco,Le 2 Pro,Android,4,260.0,False,Li-Ion,3000,10,2.5,21,8,32
 LeEco,Le 2,Android,3,190.0,False,Li-Ion,3000,10,2.3,16,8,64
-LeEco,Le Max,Android,4,350.0,False,Li-Po,3400,8,1.5,21,4,64
+LeEco,Le Max,Android,4,350.0,False,Li-Po,3400,8,1.5,21,4,128
 LeEco,Le 1s,Android,3,210.0,False,Li-Ion,3000,8,2.2,13,5,32
 Lenovo,Tab 4 10 Plus,Android,3,240.0,False,Li-Ion,7000,8,2.0,8,5,16
 Lenovo,Tab 4 10,Android,2,140.0,False,Li-Ion,7000,4,1.4,5,2,32
@@ -942,7 +871,7 @@ Lenovo,K6,Android,2,200.0,False,Li-Ion,3000,8,1.4,13,8,32
 Lenovo,Yoga Tab 3 Plus,Android,3,300.0,False,Li-Ion,9300,8,1.8,13,5,32
 Lenovo,Vibe A,Android,512,50.0,True,Li-Po,1700,4,1.3,5,0.6,4
 Lenovo,C2 Power,Android,2,170.0,True,Li-Ion,3500,4,1.0,8,5,16
-Lenovo,C2,Android,1,200.0,True,Li-Ion,2750,4,1.0,8,5,8
+Lenovo,C2,Android,1,200.0,True,Li-Ion,2750,4,1.0,8,5,16
 Lenovo,Phab2 Plus,Android,3,250.0,False,Li-Ion,4050,8,1.3,13,8,32
 Lenovo,Phab2,Android,3,230.0,False,Li-Ion,4050,4,1.3,13,5,32
 Lenovo,Phab2 Pro,Android,4,550.0,False,Li-Ion,4050,8,1.8,16,8,64
@@ -951,7 +880,7 @@ Lenovo,Vibe C,Android,1,90.0,True,Li-Ion,2300,4,1.1,5,2,8
 Lenovo,ZUK Z2 Pro,Android,4,520.0,False,Li-Ion,3100,4,2.15,13,8,64
 Lenovo,Tab3 10,Android,2,280.0,False,Li-Ion,7000,4,1.3,8,5,32
 Lenovo,Tab3 8,Android,1/2,120.0,False,Li-Ion,4290,4,1.0,5,2,16
-Lenovo,Tab3 7,Android,1,80.0,False,Li-Ion,3450,4,1.3,2,0.6,8
+Lenovo,Tab3 7,Android,1,80.0,False,Li-Ion,3450,4,1.3,2,0.6,16
 Lenovo,Vibe K5 Plus,Android,2,140.0,True,Li-Ion,2750,8,1.5,13,5,16
 Lenovo,Vibe K5,Android,2,120.0,True,Li-Ion,2750,8,1.5,13,5,16
 Lenovo,A7000 Turbo,Android,2,180.0,True,Li-Ion,2900,8,1.7,13,5,16
@@ -986,8 +915,8 @@ Lenovo,A7000,Android,2,150.0,True,Li-Po,2900,8,1.5,8,5,8
 Lenovo,A5000,Android,1,150.0,False,Li-Po,4000,4,1.3,8,2,8
 Lenovo,P70,Android,2,240.0,False,Li-Po,4000,8,1.7,13,5,16
 Lenovo,Tab 2 A7-30,Android,1,110.0,False,Li-Ion,3450,4,1.3,2,0.6,16
-Lenovo,Tab 2 A7-20,Android,1,100.0,False,Li-Ion,3450,4,1.3,2,0.6,8
-Lenovo,Tab 2 A7-10,Android,1,90.0,False,Li-Ion,3450,4,1.3,0.6,0,8
+Lenovo,Tab 2 A7-20,Android,1,100.0,False,Li-Ion,3450,4,1.3,2,0.6,16
+Lenovo,Tab 2 A7-10,Android,1,90.0,False,Li-Ion,3450,4,1.3,0.6,0,16
 Lenovo,A6000,Android,1,100.0,True,Li-Po,2300,4,1.2,8,2,8
 Lenovo,P90,Android,2,450.0,False,Li-Po,4000,4,1.83,13,5,32
 Lenovo,Vibe X2 Pro,Android,2,330.0,False,Li-Po,2410,8,1.5,13,13,32
@@ -1018,8 +947,8 @@ Lenovo,A328,Android,1,90.0,True,Li-Po,2000,4,1.3,5,2,4
 Lenovo,A536,Android,1,100.0,True,Li-Po,2000,4,1.3,5,2,8
 Lenovo,A526,Android,1,70.0,True,Li-Po,2000,4,1.3,5,0.6,4
 Lenovo,A10-70 A7600,Android,1,190.0,False,Li-Ion,6340,4,1.3,5,2,32
-Lenovo,A8-50 A5500,Android,1,140.0,False,Li-Ion,4200,4,1.3,5,2,8
-Lenovo,A7-50 A3500,Android,1,120.0,False,Li-Ion,3450,4,1.3,5,2,8
+Lenovo,A8-50 A5500,Android,1,140.0,False,Li-Ion,4200,4,1.3,5,2,16
+Lenovo,A7-50 A3500,Android,1,120.0,False,Li-Ion,3450,4,1.3,5,2,16
 Lenovo,A7-30 A3300,Android,1,80.0,False,Li-Ion,3500,4,1.3,2,0.6,8
 Lenovo,Yoga Tablet 10 HD+,Android,2,260.0,False,Li-Ion,9000,4,1.6,8,1.6,32
 Lenovo,S860,Android,2,250.0,False,Li-Po,4000,4,1.3,8,1.6,16
@@ -1042,7 +971,6 @@ Lenovo,P780,Android,1,190.0,True,Li-Po,4000,4,1.2,8,0.6,8
 Lenovo,S820,Android,1,230.0,True,Li-Po,2000,4,1.2,12,2,8
 Lenovo,A390,Android,512,70.0,True,Li-Ion,1500,2,1.0,5,0,4
 Lenovo,A369i,Android,512,70.0,True,Li-Po,1500,2,1.3,2,0,4
-Lenovo,A269i,Android,256,70.0,True,Li-Po,1300,2,1.0,2,0,512
 Lenovo,S920,Android,1,250.0,True,Li-Po,2250,4,1.2,8,2,4
 Lenovo,IdeaTab S6000H,Android,1,300.0,False,Li-Po,6350,4,1.2,5,0.6,32
 Lenovo,IdeaTab S6000F,Android,1,220.0,False,Li-Po,6350,4,1.2,5,0.6,16
@@ -1055,10 +983,8 @@ Lenovo,A830,Android,1,140.0,True,Li-Ion,2250,4,1.2,8,0.6,4
 Lenovo,A820,Android,1,110.0,True,Li-Ion,2000,4,1.2,8,0,4
 Lenovo,A800,Android,512,120.0,True,Li-Ion,2000,2,1.2,5,0,4
 Lenovo,A789,Android,512,150.0,True,Li-Ion,2000,2,1.0,5,0.6,4
-Lenovo,A690,Android,512,90.0,True,Li-Ion,1500,1,1.0,3.15,0,512
 Lenovo,S720,Android,512,230.0,True,Li-Ion,2000,2,1.0,8,1,4
 Lenovo,P770,Android,1,140.0,True,Li-Ion,3500,2,1.2,5,0.6,4
-Lenovo,A60+,Android,256,70.0,True,Li-Ion,1500,1,1.0,2,0,512
 Lenovo,S560,Android,512,180.0,True,Li-Ion,2000,2,1.0,5,0.6,4
 Lenovo,S880,Android,512,280.0,True,Li-Ion,2250,1,1.0,5,0.6,4
 Lenovo,A660,Android,512,190.0,True,Li-Ion,1500,2,1.0,5,0.6,4
@@ -1066,14 +992,14 @@ Lenovo,K860,Android,1,290.0,True,Li-Ion,2250,4,1.4,8,2,8
 Lenovo,P700i,Android,512,140.0,True,Li-Ion,2500,2,1.0,5,0.6,4
 Lenovo,IdeaPad K1,Android,1,330.0,False,Li-Ion,7400,2,1.0,5,2,32
 LG,X venture,Android,2,400.0,False,Li-Ion,4100,8,1.4,16,5,32
-LG,G6,Android,4,750.0,False,Li-Po,3300,4,2.35,13,5,64
+LG,G6,Android,4,750.0,False,Li-Po,3300,4,2.35,13,5,128
 LG,Stylo 3 Plus,Android,2,260.0,,Li-Ion,3080,8,1.4,13,5,32
 LG,Stylus 3,Android,3,200.0,True,Li-Ion,3200,8,1.5,13,5,16
 LG,Harmony,Android,1.5,90.0,True,Li-Ion,2800,4,1.4,8,5,16
-LG,K20 plus,Android,2,160.0,True,Li-Ion,2700,4,1.4,13,5,16
+LG,K20 plus,Android,2,160.0,True,Li-Ion,2700,4,1.4,13,5,32
 LG,K10 (2017),Android,2,210.0,True,Li-Ion,2800,8,1.5,13,5,16
 LG,K8 (2017),Android,1.5,160.0,True,Li-Ion,2500,4,1.4,13,5,16
-LG,K4 (2017),Android,Cricket)|,120.0,True,Li-Ion,2500,4,1.1,5,5,8
+LG,K4 (2017),Android,Cricket)|,120.0,True,Li-Ion,2500,4,1.1,5,5,
 LG,K3 (2017),Android,1,100.0,True,Li-Ion,2100,4,1.1,5,2,8
 LG,G Pad III 10.1 FHD,Android,2,340.0,False,,6000,8,1.5,5,5,32
 LG,V20,Android,4,560.0,True,Li-Ion,3200,4,2.15,16,5,64
@@ -1090,7 +1016,7 @@ LG,G5 SE,Android,3,350.0,True,Li-Ion,2800,8,1.8,16,8,32
 LG,G5,Android,4,450.0,True,Li-Ion,2800,4,2.15,16,8,32
 LG,X cam,Android,2,320.0,False,Li-Ion,2520,8,1.14,13,8,16
 LG,X screen,Android,2,180.0,False,Li-Po,2300,4,1.2,13,8,16
-LG,K8,Android,1.5,150.0,True,Li-Ion,2125,4,1.3,8,5,8
+LG,K8,Android,1.5,150.0,True,Li-Ion,2125,4,1.3,8,5,16
 LG,Stylus 2,Android,1.5,190.0,True,Li-Ion,3000,4,1.2,13,8,16
 LG,K10,Android,1,170.0,True,Li-Ion,2300,4,1.2,13,5,16
 LG,K7,Android,1,110.0,True,Li-Ion,2125,4,1.3,5,5,8
@@ -1179,7 +1105,7 @@ LG,Optimus L5 II E460,Android,512,140.0,True,Li-Ion,1700,1,1.0,5,0,4
 LG,Optimus L3 II Dual E435,Android,512,90.0,True,Li-Po,1540,1,1.0,3.15,0,4
 LG,Optimus L3 II E430,Android,512,90.0,True,Li-Po,1540,1,1.0,3.15,0,4
 LG,Optimus L1 II E410,Android,512,60.0,True,Li-Ion,1540,1,1.0,2,0,4
-LG,Nexus 4 E960,Android,2,250.0,False,Li-Po,2100,4,1.5,8,1.3,8
+LG,Nexus 4 E960,Android,2,250.0,False,Li-Po,2100,4,1.5,8,1.3,16
 LG,Spectrum II 4G VS930,Android,1,170.0,True,Li-Ion,2150,2,1.5,8,1.3,16
 LG,Mach LS860,Android,1,150.0,True,Li-Ion,1700,2,1.2,5,0.6,8
 LG,Optimus G E970,Android,2,250.0,False,Li-Po,2100,4,1.5,8,1.3,16
@@ -1210,27 +1136,20 @@ LG,Optimus 4G LTE P935,Android,1,220.0,True,Li-Ion,1830,2,1.5,8,1.3,2
 LG,Optimus LTE SU640,Android,1,120.0,True,Li-Ion,1830,2,1.5,8,1.3,4
 LG,Optimus LTE LU6200,Android,1,140.0,True,Li-Ion,1830,2,1.5,8,1.3,4
 LG,Optimus Q2 LU6500,Android,1,120.0,True,Li-Ion,1500,2,1.2,5,0.6,8
-LG,Optimus Hub E510,Android,512,80.0,True,Li-Ion,1500,1,0.8,5,0,512
 LG,Optimus Sol E730,Android,512,110.0,True,Li-Ion,1500,1,1.0,5,0.6,2
-LG,Optimus Net Dual,Android,512,80.0,True,Li-Ion,1500,1,0.8,3.15,0,150
-LG,Optimus Net,Android,512,80.0,True,Li-Ion,1500,1,0.8,3.15,0,512
 LG,Esteem MS910,Android,512,150.0,True,Li-Ion,1500,1,1.0,5,1.3,8
 LG,Optimus Black (White version),Android,512,140.0,True,Li-Ion,1500,1,1.0,5,2,2
-LG,Optimus Pro C660,Android,256,70.0,True,Li-Ion,1500,1,0.8,3.15,0,512
 LG,Optimus Black P970,Android,512,110.0,True,Li-Ion,1500,1,1.0,5,2,2
 LG,Optimus 2X SU660,Android,512,150.0,True,Li-Ion,1500,2,1.0,8,1.3,8
 LG,Optimus 2X,Android,512,150.0,True,Li-Ion,1500,2,1.0,8,1.3,8
-LG,Axis,Android,256,70.0,True,Li-Ion,1500,1,0.6,3.15,0,512
 LG,Quantum,Microsoft,512,80.0,True,Li-Ion,1500,1,1.0,5,0,16
 LG,E900 Optimus 7,Microsoft,512,120.0,True,Li-Ion,1500,1,1.0,5,0,16
-LG,Optimus One P500,Android,512,100.0,True,Li-Ion,1500,1,0.6,3.15,0,170
-LG,Fathom VS750,Microsoft,256,40.0,True,Li-Po,,1,1.0,3.15,0,512
 LG,GW820 eXpo,Microsoft,256,90.0,True,Li-Po,1500,1,1.0,5,0,512
 Meizu,M5c,Android,2,140.0,False,,3000,4,1.3,8,5,16
 Meizu,E2,Android,2,210.0,False,Li-Ion,3400,8,2.3,13,8,16
 Meizu,M5s,Android,3,130.0,False,Li-Ion,3000,8,1.3,13,5,32
 Meizu,M5 Note,Android,3,190.0,False,,4000,8,1.8,13,5,32
-Meizu,Pro 6 Plus,Android,4,550.0,False,Li-Ion,3400,8,2.0,12,5,64
+Meizu,Pro 6 Plus,Android,4,550.0,False,Li-Ion,3400,8,2.0,12,5,128
 Meizu,MX5e,Android,3,190.0,False,Li-Ion,3150,8,2.0,16,5,32
 Meizu,U10,Android,2,160.0,False,Li-Ion,2760,8,1.5,13,5,16
 Meizu,U20,Android,2,190.0,False,Li-Ion,3260,8,1.8,13,5,16
@@ -1253,7 +1172,7 @@ Meizu,M1 Note,Android,2,130.0,False,,3140,8,1.7,13,5,32
 Meizu,M1,Android,1,100.0,False,Li-Ion,2500,4,1.5,13,5,8
 Meizu,MX4 Pro,Android,3,400.0,False,,3350,8,2.0,20.7,5,64
 Meizu,MX4,Android,2,340.0,False,,3100,8,2.2,20.7,2,64
-Meizu,MX3,Android,2,370.0,False,Li-Po,2400,8,1.6,8,2,64
+Meizu,MX3,Android,2,370.0,False,Li-Po,2400,8,1.6,8,2,128
 Meizu,MX2,Android,2,310.0,False,Li-Ion,1800,4,1.6,8,1.2,64
 Meizu,MX 4-core,Android,1,310.0,False,Li-Po,1700,4,1.4,8,0.6,64
 Meizu,MX,Android,1,270.0,False,Li-Ion,1600,2,1.4,8,0.6,16
@@ -1304,10 +1223,7 @@ Micromax,A105 Canvas Entice,Android,512,90.0,True,Li-Ion,1900,4,1.2,5,0.6,4
 Micromax,A121 Canvas Elanza 2,Android,1,120.0,True,Li-Ion,2000,4,1.2,8,2,4
 Micromax,A120 Canvas 2 Colors,Android,1,110.0,True,Li-Ion,2000,4,1.3,8,2,4
 Micromax,A102 Canvas Doodle 3,Android,1,100.0,True,Li-Ion,2500,2,1.3,5,0.6,8
-Micromax,A47 Bolt,Android,256,50.0,True,Li-Ion,1600,4,1.3,2,0.6,512
 Micromax,A114R Canvas Beat,Android,1,190.0,True,Li-Ion,1900,4,1.2,8,2,4
-Micromax,A36 Bolt,Android,256,50.0,True,Li-Ion,1500,1,1.0,2,0.6,512
-Micromax,A28 Bolt,Android,256,40.0,True,Li-Ion,1500,1,1.0,0.6,0.6,512
 Micromax,A350 Canvas Knight,Android,2,240.0,False,Li-Ion,2350,8,1.7,16,8,32
 Micromax,Canvas Turbo Mini,Android,1,170.0,False,Li-Ion,1800,4,1.3,8,5,4
 Micromax,A114 Canvas 2.2,Android,1,150.0,True,Li-Ion,2000,4,1.3,8,2,4
@@ -1326,19 +1242,13 @@ Micromax,A115 Canvas 3D,Android,512,150.0,True,Li-Ion,2000,2,1.2,5,0.6,4
 Micromax,A116 Canvas HD,Android,1,230.0,True,Li-Ion,2000,4,1.2,8,2,4
 Micromax,A110 Canvas 2,Android,512,160.0,True,Li-Ion,2000,2,1.0,8,0.6,4
 Micromax,A89 Ninja,Android,512,90.0,True,Li-Ion,1450,2,1.0,3.15,0,2
-Micromax,A57 Ninja 3.0,Android,512,70.0,True,Li-Ion,1400,1,1.0,3.15,0,256
 Micromax,Funbook Infinity P275,Android,512,70.0,False,Li-Ion,4000,1,1.2,2,0.6,4
 Micromax,Funbook Alfa P250,Android,512,90.0,False,Li-Ion,2800,1,1.0,0.6,0,4
 Micromax,Funbook Pro,Android,1,170.0,False,Li-Ion,5600,1,1.2,0.6,0,8
 Micromax,A100,Android,512,160.0,True,Li-Ion,2000,1,1.0,5,0.6,4
 Micromax,A90s,Android,512,190.0,True,Li-Ion,1600,2,1.0,8,0.6,4
 Micromax,A90,Android,512,200.0,True,Li-Ion,1600,1,1.0,8,0.6,4
-Micromax,A25,Android,256,50.0,True,Li-Ion,1280,1,1.0,1.3,0,512
-Micromax,A56,Android,256,80.0,True,Li-Ion,1400,1,0.8,3.15,0,512
-Micromax,A73,Android,256,90.0,True,Li-Ion,1300,1,0.65,2,0.6,512
-Micromax,A55,Android,512,60.0,True,Li-Ion,1000,1,0.6,3.15,0,150
 Micromax,A85,Android,512,270.0,True,Li-Ion,1500,2,1.0,5,0.6,8
-Micromax,A70,Android,256,100.0,True,Li-Ion,1450,1,0.6,5,0.6,160
 Microsoft,Lumia 650,Microsoft,1,150.0,True,Li-Ion,2000,4,1.3,8,5,16
 Microsoft,Lumia 950 XL Dual SIM,Microsoft,3,350.0,True,Li-Ion,3340,8,1.5,20,5,32
 Microsoft,Lumia 950 XL,Microsoft,3,350.0,True,Li-Ion,3340,8,1.5,20,5,32
@@ -1379,7 +1289,7 @@ Motorola,Moto Z Force,Android,4,720.0,False,Li-Ion,3500,4,2.15,21,5,64
 Motorola,Moto Z,Android,4,540.0,False,Li-Ion,2600,4,2.15,13,5,64
 Motorola,Moto G4 Plus,Android,2,230.0,False,Li-Ion,3000,8,1.5,16,5,16
 Motorola,Moto G4,Android,2,190.0,False,Li-Ion,3000,8,1.5,13,5,32
-Motorola,Moto G4 Play,Android,1/2,140.0,True,Li-Po,2800,4,1.2,8,5,8
+Motorola,Moto G4 Play,Android,1/2,140.0,True,Li-Po,2800,4,1.2,8,5,16
 Motorola,Moto G Turbo Edition,Android,2,280.0,False,Li-Ion,2470,8,1.5,13,5,16
 Motorola,Moto X Force,Android,3,330.0,False,Li-Ion,3760,8,1.5,21,5,64
 Motorola,Droid Turbo 2,Android,3,390.0,False,Li-Ion,3760,8,1.5,21,5,64
@@ -1392,19 +1302,19 @@ Motorola,Moto G (3rd gen),Android,1,170.0,False,Li-Ion,2470,4,1.4,13,5,8
 Motorola,Moto E Dual SIM (2nd gen),Android,1,100.0,False,Li-Ion,2390,4,1.2,5,0.6,8
 Motorola,Moto E (2nd gen),Android,1,130.0,False,Li-Ion,2390,4,1.2,5,0.6,8
 Motorola,Moto G 4G (2nd gen),Android,1,210.0,False,Li-Ion,2390,4,1.2,8,2,8
-Motorola,Moto G 4G Dual SIM (2nd gen),Android,1,240.0,False,Li-Ion,2390,4,1.2,8,2,8
+Motorola,Moto G 4G Dual SIM (2nd gen),Android,1,240.0,False,Li-Ion,2390,4,1.2,8,2,16
 Motorola,Moto Maxx,Android,3,300.0,False,Li-Po,3900,4,2.7,21,2,64
 Motorola,DROID Turbo,Android,3,290.0,False,Li-Po,3900,4,2.7,21,2,64
 Motorola,Nexus 6,Android,3,420.0,False,Li-Po,3220,4,2.7,13,2,64
 Motorola,Moto X (2nd Gen),Android,2,320.0,False,Li-Ion,2300,4,2.5,13,2,32
-Motorola,Moto G Dual SIM (2nd gen),Android,1,200.0,False,Li-Ion,2070,4,1.2,8,2,8
+Motorola,Moto G Dual SIM (2nd gen),Android,1,200.0,False,Li-Ion,2070,4,1.2,8,2,16
 Motorola,Moto G (2nd gen),Android,1,160.0,False,Li-Ion,2070,4,1.2,8,2,8
 Motorola,Moto G 4G,Android,1,160.0,False,Li-Ion,2070,4,1.2,5,1.3,8
 Motorola,Luge,Android,1,240.0,False,Li-Ion,2000,2,1.5,8,0.6,8
 Motorola,Moto E,Android,1,100.0,False,Li-Ion,1980,2,1.2,5,0,4
 Motorola,Moto E Dual SIM,Android,1,90.0,False,Li-Ion,1980,2,1.2,5,0,4
-Motorola,Moto G Dual SIM,Android,1,140.0,False,Li-Ion,2070,4,1.2,5,1.3,8
-Motorola,Moto G,Android,1,130.0,False,Li-Ion,2070,4,1.2,5,1.3,8
+Motorola,Moto G Dual SIM,Android,1,140.0,False,Li-Ion,2070,4,1.2,5,1.3,16
+Motorola,Moto G,Android,1,130.0,False,Li-Ion,2070,4,1.2,5,1.3,16
 Motorola,Moto X,Android,2,250.0,False,Li-Ion,2200,2,1.7,10,2,64
 Motorola,DROID Ultra,Android,2,250.0,False,Li-Ion,2130,2,1.7,10,2,16
 Motorola,DROID Maxx,Android,2,220.0,True,Li-Ion,3500,2,1.7,10,2,32
@@ -1418,24 +1328,16 @@ Motorola,DROID RAZR M,Android,1,250.0,False,Li-Ion,2000,2,1.5,8,0.6,8
 Motorola,RAZR M XT905,Android,1,250.0,False,Li-Ion,2000,2,1.5,8,0.6,8
 Motorola,Electrify 2 XT881,Android,1,260.0,False,Li-Ion,1780,2,1.2,8,0.6,8
 Motorola,ATRIX HD MB886,Android,1,220.0,False,Li-Ion,1780,2,1.5,8,1.3,8
-Motorola,ATRIX TV XT687,Android,512,210.0,True,Li-Ion,,1,1.0,8,0.6,512
 Motorola,ATRIX TV XT682,Android,512,230.0,True,Li-Ion,1700,1,1.0,8,0.6,1
-Motorola,Motosmart Me XT303,Android,256,160.0,True,Li-Ion,1500,1,0.8,2,0,512
 Motorola,RAZR V XT885,Android,1,210.0,False,Li-Ion,1750,2,1.2,8,0.6,4
 Motorola,RAZR V XT889,Android,1,210.0,False,Li-Ion,1780,2,1.2,8,0.6,4
-Motorola,Motosmart Flip XT611,Android,512,150.0,True,Li-Ion,1540,1,0.8,5,0.6,512
-Motorola,XT390,Android,512,210.0,True,Li-Ion,,1,0.8,3.15,0,512
 Motorola,RAZR MAXX,Android,1,230.0,False,Li-Ion,3300,2,1.2,8,1.3,16
 Motorola,DEFY XT535,Android,512,130.0,True,Li-Ion,1650,1,1.0,5,0.6,1
 Motorola,DROID 4 XT894,Android,1,260.0,False,Li-Ion,1785,2,1.2,8,1.3,16
 Motorola,DROID RAZR MAXX,Android,1,260.0,False,Li-Ion,3300,2,1.2,8,1.3,8
-Motorola,Motoluxe XT389,Android,512,110.0,True,Li-Ion,,1,0.8,3.15,0,512
 Motorola,Motoluxe,Android,512,180.0,True,Li-Ion,1400,1,0.8,8,0.6,1
-Motorola,Defy Mini XT321,Android,512,160.0,True,Li-Ion,1650,1,0.6,3.15,0.6,512
-Motorola,XT319,Android,256,130.0,True,Li-Ion,1390,1,0.8,3.15,0.6,512
 Motorola,DROID XYBOARD 8.2 MZ609 ,Android,1,290.0,False,Li-Ion,3960,2,1.2,5,1.3,32
 Motorola,DROID XYBOARD 10.1 MZ617,Android,1,260.0,False,Li-Ion,7000,2,1.2,5,1.3,64
-Motorola,XT532,Android,512,70.0,True,Li-Ion,1500,1,0.8,5,0.6,512
 Motorola,MOTO XT615,Android,512,120.0,True,Li-Ion,1390,1,0.8,8,0.6,1
 Motorola,XOOM 2 Media Edition 3G MZ608,Android,1,210.0,False,Li-Ion,3960,2,1.2,5,1.3,16
 Motorola,XOOM 2 Media Edition MZ607,Android,1,210.0,False,Li-Ion,3960,2,1.2,5,1.3,32
@@ -1446,10 +1348,6 @@ Motorola,RAZR XT910,Android,1,220.0,False,Li-Ion,1780,2,1.2,8,1.3,16
 Motorola,DROID RAZR XT912,Android,1,220.0,False,Li-Ion,1780,2,1.2,8,2,16
 Motorola,Admiral XT603,Android,512,160.0,True,Li-Ion,1860,1,1.2,5,0,4
 Motorola,DEFY+,Android,512,170.0,True,Li-Po,1700,1,1.0,5,0,2
-Motorola,FIRE XT,Android,512,100.0,True,Li-Ion,1540,1,0.8,5,0.6,512
-Motorola,FIRE XT311,Android,256,120.0,True,Li-Ion,1420,1,0.6,3.15,0,512
-Motorola,SPICE Key XT317,Android,256,100.0,True,Li-Ion,1420,1,0.6,3.15,0,512
-Motorola,SPICE Key,Android,256,100.0,True,Li-Ion,1420,1,0.6,3.15,0,512
 Motorola,MILESTONE 3 XT860,Android,512,180.0,True,Li-Ion,1540,2,1.0,8,0.6,8
 Motorola,DROID 3,Android,512,200.0,True,Li-Ion,1540,2,0.0,8,0.6,16
 Motorola,Triumph,Android,512,210.0,True,Li-Ion,1400,1,1.0,5,0.6,2
@@ -1457,7 +1355,6 @@ Motorola,Photon 4G MB855,Android,1,270.0,True,Li-Ion,1700,2,1.0,8,0.6,16
 Motorola,MOTO MT870,Android,512,180.0,True,Li-Ion,1880,2,1.0,8,0.6,4
 Motorola,Milestone XT883,Android,512,230.0,True,Li-Ion,1500,2,1.0,8,0.6,16
 Motorola,MOTO XT882,Android,512,230.0,True,Li-Ion,1880,2,1.0,8,0.6,8
-Motorola,MOTO XT316,Android,256,50.0,True,Li-Ion,1420,1,0.6,3.15,0,512
 Motorola,XOOM MZ604,Android,1,310.0,False,Li-Ion,,2,1.0,5,2,64
 Motorola,XOOM MZ601,Android,1,310.0,False,Li-Ion,,2,1.0,5,2,64
 Motorola,XOOM MZ600,Android,1,310.0,False,Li-Ion,,2,1.0,5,2,64
@@ -1470,30 +1367,13 @@ Motorola,MOTO ME525,Android,512,150.0,True,Li-Ion,1500,1,0.8,5,0,2
 Motorola,MILESTONE 2 ME722,Android,512,110.0,True,Li-Po,1390,1,1.0,5,0,8
 Motorola,DROID 2 Global,Android,512,200.0,True,Li-Po,1420,1,1.2,5,0,8
 Motorola,DROID PRO XT610,Android,512,110.0,True,Li-Ion,1420,1,1.0,5,0,2
-Motorola,XT301,Android,256,170.0,True,Li-Ion,1170,1,0.528,3.15,0,512
-Motorola,FLIPSIDE MB508,Android,512,170.0,True,Li-Ion,1170,1,0.72,3.15,0,512
-Motorola,MOTO MT716,Android-based,512,180.0,True,Li-Po,1380,1,0.6,8,0.6,512
 Motorola,BRAVO MB520,Android,512,150.0,True,Li-Ion,1540,1,0.8,3.15,0,2
-Motorola,CITRUS WX445,Android,256,90.0,True,Li-Ion,1150,1,0.528,3.15,0,512
 Motorola,DEFY,Android,512,110.0,True,Li-Po,1540,1,0.8,5,0,2
 Motorola,MILESTONE 2,Android,512,170.0,True,Li-Po,1400,1,1.0,5,0,8
-Motorola,CHARM,Android,512,150.0,True,Li-Ion,1130,1,0.6,3.15,0,512
 Motorola,DROID X2,Android,512,230.0,True,Li-Ion,1540,2,1.0,8,0,8
 Motorola,DROID X,Android,512,150.0,True,Li-Po,1540,1,1.0,8,0,6.5
-Motorola,MILESTONE XT720,Android,256,190.0,True,Li-Po,1390,1,0.6,8,0,512
-Motorola,Quench XT5 XT502,Android,256,200.0,True,Li-Po,1270,1,0.6,5,0,512
-Motorola,Quench XT3 XT502,Android,256,170.0,True,Li-Po,1270,1,0.6,3.15,0,512
-Motorola,FlipOut,Android,512,90.0,True,Li-Ion,1130,1,0.6,3.15,0,512
-Motorola,BACKFLIP,Android,256,150.0,True,Li-Ion,1400,1,0.528,5,0,512
-Motorola,MOTO XT702,Android,256,150.0,True,Li-Ion,1390,1,0.6,5,0,512
-Motorola,MILESTONE,Android,256,130.0,True,Li-Ion,1400,1,0.6,5,0,133
 Motorola,DEXT MB220,Android,256,130.0,True,Li-Ion,1420,1,0.528,5,0,1
-Motorola,A3100,Microsoft,128,150.0,True,Li-Ion,1170,1,0.528,3.15,0.6,256
-Motorola,A3000,Microsoft,128,130.0,True,Li-Ion,1130,1,0.4,3.15,0,256
-Motorola,RIZR Z10,Symbian,64,150.0,True,Li-Ion,1130,1,0.3,3.15,0.6,70
 NEC,Terrain,Android,1,330.0,True,Li-Ion,1900,2,1.5,5,0.6,8
-NIU,Niutek 3G 3.5 N209,Android,512,100.0,True,Li-Ion,1200,1,1.0,3.2,0.6,256
-NIU,Niutek 3G 4.0 N309,Android,512,150.0,True,Li-Ion,1650,1,1.0,5,0.6,512
 Nokia,3,Android,2,160.0,False,Li-Ion,2630,4,1.4,8,8,16
 Nokia,5,Android,2,200.0,False,Li-Ion,3000,8,1.4,13,8,16
 Nokia,6,Android,3,230.0,False,Li-Ion,3000,8,1.4,16,8,32
@@ -1514,12 +1394,12 @@ Nokia,X+,Android,768,120.0,True,Li-Ion,1500,2,1.0,3.15,0,4
 Nokia,X,Android,512,100.0,True,Li-Ion,1500,2,1.0,3.15,0,4
 Nokia,Lumia Icon,Microsoft,2,400.0,False,Li-Ion,2420,4,2.2,20,1.2,32
 Nokia,Lumia 525,Microsoft,1,120.0,True,Li-Ion,1430,2,1.0,5,0,8
-Nokia,Lumia 1520,Microsoft,2,350.0,False,Li-Ion,3400,4,2.2,20,1.2,16
+Nokia,Lumia 1520,Microsoft,2,350.0,False,Li-Ion,3400,4,2.2,20,1.2,32
 Nokia,Lumia 1320,Microsoft,1,210.0,False,Li-Ion,3400,2,1.7,5,0.6,8
 Nokia,Lumia 2520,Microsoft,2,360.0,False,,8120,4,2.2,6.7,2,32
 Nokia,Lumia 625,Microsoft,512,160.0,False,Li-Ion,2000,2,1.2,5,0.6,8
 Nokia,Lumia 1020,Microsoft,2,400.0,False,Li-Ion,2000,2,1.5,41,1.2,32
-Nokia,Lumia 925,Microsoft,1,260.0,False,Li-Ion,2000,2,1.5,8,1.3,16
+Nokia,Lumia 925,Microsoft,1,260.0,False,Li-Ion,2000,2,1.5,8,1.3,
 Nokia,Lumia 928,Microsoft,1,380.0,False,Li-Ion,2000,2,1.5,8,1.3,32
 Nokia,Lumia 720,Microsoft,512,200.0,False,Li-Ion,2000,2,1.0,6.7,1.3,8
 Nokia,Lumia 520,Microsoft,512,70.0,True,Li-Ion,1430,2,1.0,5,0,8
@@ -1544,14 +1424,13 @@ Nokia,Oro,Symbian,256,230.0,True,Li-Ion,1200,1,0.68,8,0.6,8
 Nokia,X7-00,Symbian,256,180.0,True,Li-Ion,1200,1,0.68,8,0,1
 Nokia,C7 Astound,Symbian^3|,256,220.0,True,Li-Ion,1200,1,0.68,8,0.6,8
 Nokia,E7,Symbian^3|,256,150.0,False,Li-Ion,1200,1,0.68,8,0.6,16
-Nokia,C6-01,Symbian^3|,256,170.0,True,Li-Ion,1050,1,0.68,8,0.6,340
 Nokia,C7,Symbian^3|,256,150.0,True,Li-Ion,1200,1,0.68,8,0.6,8
 Nokia,N8,Symbian^3|,256,140.0,False,Li-Ion,1200,1,0.68,12,0.6,16
 Nvidia,Shield K1,Android,2,200.0,False,Li-Ion,5200,4,2.2,5,5,16
 Nvidia,Shield LTE,Android,2,300.0,False,Li-Ion,,4,2.2,5,5,32
 Nvidia,Shield,Android,2,230.0,False,Li-Ion,,4,2.2,5,5,16
 OnePlus,5,Android,6,500.0,False,Li-Po,3300,8,2.45,16,16,64
-OnePlus,3T,Android,6,440.0,False,Li-Ion,3400,4,2.35,16,16,64
+OnePlus,3T,Android,6,440.0,False,Li-Ion,3400,4,2.35,16,16,128
 OnePlus,3,Android,6,400.0,False,Li-Ion,3000,4,2.15,16,8,64
 OnePlus,X,Android,3,270.0,False,Li-Po,2525,4,2.3,13,8,16
 OnePlus,2,Android,3,300.0,False,Li-Po,3300,8,1.56,13,5,16
@@ -1565,7 +1444,7 @@ Oppo,R9s Plus,Android,6,570.0,False,Li-Po,4000,8,1.95,16,16,64
 Oppo,R9s,Android,4,450.0,False,Li-Po,3010,8,2.0,16,16,64
 Oppo,A37,Android,2,220.0,False,Li-Ion,2630,4,1.2,8,5,16
 Oppo,A59,Android,3,290.0,False,Li-Ion,3075,8,1.5,13,8,32
-Oppo,R9 Plus,Android,4,550.0,False,Li-Po,4120,8,1.8,16,16,64
+Oppo,R9 Plus,Android,4,550.0,False,Li-Po,4120,8,1.8,16,16,128
 Oppo,F1 Plus,Android,4,350.0,False,Li-Po,2850,8,2.0,13,16,64
 Oppo,F1,Android,3,230.0,False,Li-Po,2500,8,1.7,13,8,16
 Oppo,A33,Android,2,240.0,False,Li-Po,2400,4,1.2,8,5,16
@@ -1577,7 +1456,7 @@ Oppo,Mirror 5,Android,2,220.0,False,Li-Po,2420,4,1.2,8,5,16
 Oppo,Joy 3,Android,1,130.0,True,Li-Po,2000,4,1.3,5,2,4
 Oppo,R7 Plus,Android,3,430.0,False,Li-Po,4100,8,1.5,13,8,32
 Oppo,R7,Android,3,360.0,False,Li-Po,2320,8,1.5,13,8,16
-Oppo,Neo 5 (2015),Android,1,70.0,False,Li-Po,2000,4,1.3,8,2,8
+Oppo,Neo 5 (2015),Android,1,70.0,False,Li-Po,2000,4,1.3,8,2,16
 Oppo,Neo 5s,Android,1,160.0,False,Li-Po,2000,4,1.2,8,2,8
 Oppo,Joy Plus,Android,1,100.0,True,Li-Ion,1700,2,1.3,3.15,0.6,4
 Oppo,Mirror 3,Android,1,270.0,True,Li-Po,2000,4,1.2,8,5,8
@@ -1608,7 +1487,6 @@ Oppo,R815T Clover,Android,1,100.0,True,Li-Ion,1700,4,1.2,5,2,4
 Oppo,U701 Ulike,Android,512,80.0,,Li-Ion,1710,1,1.0,5,2,4
 Palm,Pre Plus,Palm,512,170.0,True,Li-Ion,1150,1,0.6,3.15,0,16
 Palm,Pre,Palm,256,180.0,True,Li-Ion,1150,1,0.6,3.15,0,8
-Palm,Treo Pro,Microsoft,128,70.0,True,Li-Ion,1500,1,0.528,2,0,100
 Panasonic,Eluga i3 Mega,Android,3,11500.0,,Li-Ion,4000,4,1.3,13,5,16
 Panasonic,Eluga Mark 2,Android,3,150.0,False,Li-Ion,3000,8,1.3,13,5,32
 Panasonic,Eluga Ray Max,Android,4,170.0,,Li-Ion,3000,8,1.4,16,8,64
@@ -1702,7 +1580,6 @@ QMobile,Noir X500,Android,1,100.0,,Li-Ion,1700,4,1.3,8,2,8
 QMobile,Noir i7,Android,1,120.0,,Li-Ion,1700,4,1.3,5,2,8
 QMobile,Noir M90,Android,1,120.0,,Li-Ion,4200,4,1.3,8,2,8
 QMobile,Noir X800,Android,2,110.0,,Li-Ion,2000,8,1.4,8,2,16
-QMobile,Noir A115 ATV,Android,512,60.0,,Li-Ion,1700,2,1.0,3.15,0.6,512
 QMobile,Noir i10,Android,1,120.0,,Li-Ion,1700,4,1.3,8,2,8
 QMobile,Noir A8i,Android,512,90.0,,Li-Ion,1600,2,1.3,5,0.6,4
 QMobile,Noir Z5,Android,2,310.0,False,Li-Po,2500,4,2.3,16,8,16
@@ -1710,7 +1587,6 @@ QMobile,Noir i12,Android,2,160.0,,Li-Ion,2000,4,1.3,13,5,16
 QMobile,Noir Z6,Android,2,200.0,False,Li-Ion,2300,8,1.7,13,5,16
 QMobile,QTab X50,Android,1,160.0,,Li-Ion,4500,4,1.2,5,2,16
 QMobile,Noir A120,Android,512,80.0,,Li-Ion,1500,2,1.0,5,0.6,4
-QMobile,Noir A110,Android,512,60.0,,Li-Ion,1300,2,1.0,2,0.6,512
 QMobile,Noir i9,Android,1,130.0,,Li-Ion,2000,4,1.3,8,2,4
 QMobile,Noir i6,Android,1,120.0,,Li-Po,1800,4,1.3,5,2,8
 QMobile,Noir A75,Android,512,80.0,,Li-Ion,1500,2,1.0,3.15,0.6,4
@@ -1764,7 +1640,7 @@ Samsung,Galaxy J5 (2016),Android,2,190.0,True,Li-Ion,3100,4,1.2,13,5,16
 Samsung,Galaxy Tab A 10.1 (2016),Android,2,220.0,False,Li-Ion,7300,8,1.6,8,2,16
 Samsung,Galaxy Tab A 7.0 (2016),Android,1.5,130.0,False,Li-Ion,4000,4,1.3,5,2,8
 Samsung,Galaxy S7,Android,4,500.0,False,Li-Ion,3000,8,2.3,12,5,64
-Samsung,Galaxy S7 edge,Android,4,570.0,False,Li-Ion,3600,4,2.15,12,5,64
+Samsung,Galaxy S7 edge,Android,4,570.0,False,Li-Ion,3600,4,2.15,12,5,128
 Samsung,Galaxy S7 edge (USA),Android,4,550.0,False,Li-Ion,3600,4,2.15,12,5,32
 Samsung,Galaxy S7 (USA),Android,4,460.0,False,Li-Ion,3000,4,2.15,12,5,32
 Samsung,Galaxy J1 Nxt,Android,1,90.0,True,Li-Ion,1500,4,1.2,5,0.6,8
@@ -1774,14 +1650,14 @@ Samsung,Galaxy A9 (2016),Android,3,460.0,False,Li-Ion,4000,8,1.8,13,8,32
 Samsung,Galaxy A7 (2016),Android,3,380.0,False,Li-Ion,3300,8,1.6,13,5,16
 Samsung,Galaxy A5 (2016),Android,2,270.0,False,Li-Ion,2900,8,1.6,13,5,16
 Samsung,Galaxy A3 (2016),Android,1.5,200.0,False,Li-Ion,2300,4,1.5,13,5,16
-Samsung,Galaxy J3 (2016),Android,1.5/2,140.0,True,Li-Ion,2600,4,1.5,8,5,8
+Samsung,Galaxy J3 (2016),Android,1.5/2,140.0,True,Li-Ion,2600,4,1.5,8,5,16
 Samsung,Galaxy View,Android,2,640.0,False,Li-Ion,5700,8,1.6,2.1,0,64
 Samsung,Galaxy On7,Android,1.5,180.0,True,Li-Ion,3000,4,1.2,13,5,8
 Samsung,Galaxy On5,Android,1.5,140.0,True,Li-Ion,2600,4,1.3,8,5,8
 Samsung,Z3,Tizen,1,110.0,True,Li-Ion,2600,4,1.3,8,5,8
 Samsung,Galaxy J1 Ace,Android,512,140.0,True,Li-Ion,1900,4,1.5,5,2,4
 Samsung,Galaxy Note5 (USA),Android,4,540.0,False,Li-Ion,3000,8,2.1,16,5,64
-Samsung,Galaxy Note5,Android,4,590.0,False,Li-Po,3000,8,2.1,16,5,64
+Samsung,Galaxy Note5,Android,4,590.0,False,Li-Po,3000,8,2.1,16,5,128
 Samsung,Galaxy Note5 Duos,Android,4,600.0,False,Li-Po,3000,8,2.1,16,5,64
 Samsung,Galaxy S6 edge+ (USA),Android,4,550.0,False,Li-Ion,3000,8,2.1,16,5,64
 Samsung,Galaxy S6 edge+,Android,4,530.0,False,Li-Ion,3000,8,2.1,16,5,64
@@ -1793,15 +1669,15 @@ Samsung,Galaxy Tab S2 8.0,Android,3,440.0,False,Li-Ion,4000,8,1.9,8,2.1,64
 Samsung,Galaxy A8 Duos,Android,2,380.0,False,Li-Ion,3050,8,1.8,16,5,32
 Samsung,Galaxy A8,Android,2,350.0,False,Li-Ion,3050,8,1.8,16,5,32
 Samsung,Galaxy J7,Android,1.5,250.0,True,Li-Ion,3000,8,1.4,13,5,16
-Samsung,Galaxy J5,Android,1.5,160.0,True,Li-Ion,2600,4,1.2,13,5,8
+Samsung,Galaxy J5,Android,1.5,160.0,True,Li-Ion,2600,4,1.2,13,5,16
 Samsung,Galaxy Tab 4 10.1 (2015),Android,1.5,280.0,False,Li-Po,6800,4,1.2,3.15,1.3,16
 Samsung,Galaxy S6 active,Android,3,380.0,False,Li-Ion,3500,8,2.1,16,5,64
 Samsung,Galaxy Xcover 3,Android,1.5,220.0,True,Li-Ion,2200,4,1.2,5,2,8
-Samsung,Galaxy S6 edge (USA),Android,3,600.0,False,Li-Ion,2600,8,2.1,16,5,64
-Samsung,Galaxy S6 (USA),Android,3,410.0,False,Li-Ion,2550,8,2.1,16,5,64
-Samsung,Galaxy S6 edge,Android,3,420.0,False,Li-Ion,2600,8,2.1,16,5,64
-Samsung,Galaxy S6 Duos,Android,3,400.0,False,Li-Ion,2550,8,2.1,16,5,64
-Samsung,Galaxy S6,Android,3,400.0,False,Li-Ion,2550,8,2.1,16,5,64
+Samsung,Galaxy S6 edge (USA),Android,3,600.0,False,Li-Ion,2600,8,2.1,16,5,128
+Samsung,Galaxy S6 (USA),Android,3,410.0,False,Li-Ion,2550,8,2.1,16,5,128
+Samsung,Galaxy S6 edge,Android,3,420.0,False,Li-Ion,2600,8,2.1,16,5,128
+Samsung,Galaxy S6 Duos,Android,3,400.0,False,Li-Ion,2550,8,2.1,16,5,128
+Samsung,Galaxy S6,Android,3,400.0,False,Li-Ion,2550,8,2.1,16,5,128
 Samsung,Galaxy J1,Android,512,110.0,True,Li-Ion,1850,2,1.2,5,2,4
 Samsung,Galaxy J2,Android,1,150.0,True,Li-Ion,2000,4,1.3,5,2,8
 Samsung,Galaxy Tab 3 Lite 7.0 VE,Android,1,120.0,False,Li-Ion,3600,4,1.3,2,0,8
@@ -1845,8 +1721,8 @@ Samsung,Galaxy S5 Active,Android,2,530.0,True,Li-Ion,2800,4,2.5,16,2,16
 Samsung,Galaxy K zoom,Android,2,440.0,True,Li-Ion,2430,6,1.3,20.7,2,8
 Samsung,I9300I Galaxy S3 Neo,Android,1.5,300.0,True,Li-Ion,2100,4,1.4,8,1.9,16
 Samsung,ATIV SE,Microsoft,2,440.0,True,Li-Ion,2600,4,2.3,13,2,16
-Samsung,Galaxy Tab 4 7.0 3G,Android,1.5,240.0,False,Li-Po,4000,4,1.2,3.15,1.3,8
-Samsung,Galaxy Tab 4 7.0 LTE,Android,1.5,280.0,False,Li-Po,4000,4,1.2,3.15,1.3,8
+Samsung,Galaxy Tab 4 7.0 3G,Android,1.5,240.0,False,Li-Po,4000,4,1.2,3.15,1.3,16
+Samsung,Galaxy Tab 4 7.0 LTE,Android,1.5,280.0,False,Li-Po,4000,4,1.2,3.15,1.3,16
 Samsung,Galaxy Tab 4 8.0,Android,1.5,270.0,False,Li-Po,4450,4,1.2,3.15,1.3,16
 Samsung,Galaxy Tab 4 10.1,Android,1.5,270.0,False,Li-Po,6800,4,1.2,3.15,1.3,16
 Samsung,Galaxy S5 Duos,Android,2,420.0,True,Li-Ion,2800,4,2.5,16,2,16
@@ -1858,7 +1734,7 @@ Samsung,Galaxy Note 3 Neo Duos,Android,2,410.0,True,Li-Ion,3100,4,1.6,8,2,16
 Samsung,Galaxy Note 3 Neo,Android,2,320.0,True,Li-Ion,3100,6,1.3,8,2,16
 Samsung,Galaxy Tab 3 Lite 7.0 3G,Android,1,190.0,False,Li-Ion,3600,2,1.2,2,0,8
 Samsung,Galaxy Tab 3 Lite 7.0,Android,1,150.0,False,Li-Ion,3600,2,1.2,2,0,8
-Samsung,Galaxy Grand Neo,Android,1,130.0,True,Li-Ion,2100,4,1.2,5,0.6,8
+Samsung,Galaxy Grand Neo,Android,1,130.0,True,Li-Ion,2100,4,1.2,5,0.6,16
 Samsung,Galaxy Note Pro 12.2 LTE,Android,3,670.0,False,Li-Ion,9500,4,2.3,8,2,64
 Samsung,Galaxy Note Pro 12.2 3G,Android,3,640.0,False,Li-Ion,9500,8,1.9,8,2,64
 Samsung,Galaxy Note Pro 12.2,Android,3,540.0,False,Li-Ion,9500,8,1.9,8,2,64
@@ -1881,7 +1757,7 @@ Samsung,Galaxy Note 10.1 (2014 Edition),Android,3,370.0,False,Li-Po,8220,4,2.3,8
 Samsung,Galaxy Note 3,Android,3,420.0,True,Li-Ion,3200,4,2.3,13,2,64
 Samsung,Galaxy Prevail 2,Android,512,140.0,True,Li-Ion,1750,1,1.4,5,1.3,4
 Samsung,Galaxy S4 zoom,Android,1.5,280.0,True,Li-Ion,2330,2,1.5,16,1.9,8
-Samsung,Galaxy Ace 3,Android,1,130.0,True,Li-Ion,1500,2,1.0,5,0.6,4
+Samsung,Galaxy Ace 3,Android,1,130.0,True,Li-Ion,1500,2,1.0,5,0.6,
 Samsung,I9190 Galaxy S4 mini,Android,1.5,230.0,True,Li-Ion,1900,2,1.7,8,1.9,8
 Samsung,I9295 Galaxy S4 Active,Android,2,310.0,True,Li-Ion,2600,4,1.9,8,2,16
 Samsung,Galaxy Tab 3 8.0,Android,1.5,270.0,False,Li-Ion,4450,2,1.5,5,1.3,32
@@ -1890,9 +1766,9 @@ Samsung,Galaxy Tab 3 10.1 P5200,Android,1,330.0,False,Li-Po,6800,2,1.6,3.15,1.3,
 Samsung,Galaxy Tab 3 10.1 P5210,Android,1,260.0,False,Li-Po,6800,2,1.6,3.15,1.3,32
 Samsung,Galaxy Exhibit T599,Android,1,90.0,True,Li-Ion,1500,1,1.0,5,1.9,4
 Samsung,Galaxy Core I8260,Android,1,160.0,True,Li-Ion,1800,2,1.2,5,0.6,8
-Samsung,Galaxy Tab 3 7.0 WiFi,Android,1,140.0,False,Li-Ion,4000,2,1.2,3.15,1.3,8
-Samsung,Galaxy Tab 3 7.0,Android,1,150.0,False,Li-Ion,4000,2,1.2,3.15,1.3,8
-Samsung,Galaxy Mega 6.3 I9200,Android,1.5,300.0,True,Li-Ion,3200,2,1.7,8,1.9,8
+Samsung,Galaxy Tab 3 7.0 WiFi,Android,1,140.0,False,Li-Ion,4000,2,1.2,3.15,1.3,16
+Samsung,Galaxy Tab 3 7.0,Android,1,150.0,False,Li-Ion,4000,2,1.2,3.15,1.3,16
+Samsung,Galaxy Mega 6.3 I9200,Android,1.5,300.0,True,Li-Ion,3200,2,1.7,8,1.9,16
 Samsung,Galaxy Win I8550,Android,1,170.0,True,Li-Ion,2000,4,1.2,5,0.6,8
 Samsung,Galaxy Star S5280,Android,512,70.0,True,Li-Ion,1200,1,1.0,2,0,4
 Samsung,I9505 Galaxy S4,Android,2,330.0,True,Li-Ion,2600,4,1.9,13,2,64
@@ -1912,11 +1788,11 @@ Samsung,Galaxy Grand I9080,Android,1,210.0,True,Li-Ion,2100,2,1.2,8,2,8
 Samsung,Galaxy Note LTE 10.1 N8020,Android,2,390.0,False,Li-Ion,7000,4,1.4,5,1.9,64
 Samsung,Galaxy Stratosphere II I415,Android,1,170.0,True,Li-Ion,1800,2,1.2,5,1.3,8
 Samsung,Galaxy Discover S730M,Android,512,80.0,True,Li-Ion,1300,1,0.8,3.15,0,4
-Samsung,Galaxy Pop SHV-E220,Android,1,110.0,True,Li-Ion,2100,4,1.4,8,1.9,8
-Samsung,Galaxy Premier I9260,Android,1,260.0,True,Li-Ion,2100,2,1.5,8,1.9,8
+Samsung,Galaxy Pop SHV-E220,Android,1,110.0,True,Li-Ion,2100,4,1.4,8,1.9,16
+Samsung,Galaxy Premier I9260,Android,1,260.0,True,Li-Ion,2100,2,1.5,8,1.9,16
 Samsung,Google Nexus 10 P8110,Android,2,260.0,False,Li-Po,9000,2,1.7,5,1.9,32
 Samsung,Ativ Tab P8510,Microsoft,2,440.0,False,Li-Ion,8200,2,1.5,5,1.9,64
-Samsung,I8190 Galaxy S III mini,Android,1,130.0,True,Li-Ion,1500,1,1.0,5,0.6,8
+Samsung,I8190 Galaxy S III mini,Android,1,130.0,True,Li-Ion,1500,1,1.0,5,0.6,16
 Samsung,Galaxy Rugby Pro I547,Android,1,150.0,True,Li-Ion,1850,2,1.5,5,1.3,8
 Samsung,Galaxy Express I437,Android,1,160.0,True,Li-Ion,2000,2,1.5,5,1.3,8
 Samsung,I9305 Galaxy S III,Android,2,320.0,True,Li-Ion,2100,4,1.4,8,1.9,16
@@ -1940,15 +1816,14 @@ Samsung,Galaxy S III I747,Android,2,300.0,True,Li-Ion,2100,2,1.5,8,1.9,16
 Samsung,Galaxy S III CDMA,Android,2,280.0,True,Li-Ion,2100,2,1.5,8,1.9,32
 Samsung,I9300 Galaxy S III,Android,1,190.0,True,Li-Ion,2100,4,1.4,8,1.9,64
 Samsung,I8530 Galaxy Beam,Android,768,240.0,True,Li-Ion,2000,2,1.0,5,1.3,8
-Samsung,Galaxy Tab 2 10.1 P5110,Android,1,290.0,False,Li-Po,7000,2,1.0,3.15,0.6,8
+Samsung,Galaxy Tab 2 10.1 P5110,Android,1,290.0,False,Li-Po,7000,2,1.0,3.15,0.6,32
 Samsung,Galaxy Tab 2 10.1 P5100,Android,1,290.0,False,Li-Po,7000,2,1.0,3.15,0.6,32
 Samsung,Rugby Smart I847,Android,512,170.0,True,Li-Ion,1650,1,1.4,5,1.3,4
 Samsung,Galaxy Ace 2 I8160,Android,768,130.0,True,Li-Ion,1500,2,0.8,5,0.6,4
 Samsung,Galaxy mini 2 S6500,Android,512,90.0,True,Li-Ion,1300,1,0.8,3.15,0,4
-Samsung,Galaxy Pop Plus S5570i,Android,384,100.0,True,Li-Ion,1200,1,0.8320000000000001,3.15,0,160
-Samsung,Galaxy Tab 2 7.0 P3110,Android,1,150.0,False,Li-Ion,4000,2,1.0,3.15,0.6,8
-Samsung,Galaxy Tab 2 7.0 P3100,Android,1,150.0,False,Li-Ion,4000,2,1.0,3.15,0.6,8
-Samsung,I9070 Galaxy S Advance,Android,768,150.0,True,Li-Ion,1500,2,1.0,5,1.3,8
+Samsung,Galaxy Tab 2 7.0 P3110,Android,1,150.0,False,Li-Ion,4000,2,1.0,3.15,0.6,32
+Samsung,Galaxy Tab 2 7.0 P3100,Android,1,150.0,False,Li-Ion,4000,2,1.0,3.15,0.6,32
+Samsung,I9070 Galaxy S Advance,Android,768,150.0,True,Li-Ion,1500,2,1.0,5,1.3,16
 Samsung,Galaxy Nexus I9250M,Android,1,240.0,True,Li-Ion,1750,2,1.2,5,1.3,16
 Samsung,Galaxy S Blaze 4G T769,Android,1,140.0,True,Li-Ion,1750,2,1.5,5,1.3,3
 Samsung,Galaxy Tab 7.7 LTE I815,Android,1,280.0,False,Li-Ion,5100,2,1.4,3.15,2,32
@@ -1962,7 +1837,6 @@ Samsung,Galaxy Nexus i515,Android,1,150.0,True,Li-Ion,1850,2,1.2,5,1.3,32
 Samsung,Galaxy Nexus I9250,Android,1,180.0,True,Li-Ion,1750,2,1.2,5,1.3,16
 Samsung,I9100G Galaxy S II,Android,1,220.0,True,Li-Ion,1650,2,1.2,8,2,16
 Samsung,i927 Captivate Glide,Android,1,110.0,True,Li-Ion,1650,2,1.0,8,1.3,8
-Samsung,DoubleTime I857,Android,256,70.0,True,Li-Ion,1200,1,0.8,3.15,0,260
 Samsung,P6210 Galaxy Tab 7.0 Plus,Android,1,260.0,False,Li-Ion,4000,2,1.2,3.15,2,32
 Samsung,P6200 Galaxy Tab 7.0 Plus,Android,1,260.0,False,Li-Ion,4000,2,1.2,3.15,2,32
 Samsung,Omnia W I8350,Microsoft,512,150.0,True,Li-Ion,1500,1,1.4,5,0.6,8
@@ -1980,7 +1854,7 @@ Samsung,Galaxy W I8150,Android,512,160.0,True,Li-Ion,1500,1,1.4,5,0.6,2
 Samsung,Galaxy S II 4G I9100M,Android,1,260.0,True,Li-Ion,1700,2,1.2,8,2,16
 Samsung,I9103 Galaxy R,Android,1,200.0,True,Li-Ion,1650,2,1.0,5,1.3,8
 Samsung,Exhibit 4G,Android,512,200.0,True,Li-Ion,1500,1,1.0,3.15,0.6,1
-Samsung,I9001 Galaxy S Plus,Android,512,230.0,True,Li-Ion,1650,1,1.4,5,0.6,8
+Samsung,I9001 Galaxy S Plus,Android,512,230.0,True,Li-Ion,1650,1,1.4,5,0.6,16
 Samsung,Google Nexus S I9020A,Android,512,270.0,True,Li-Ion,1500,1,1.0,5,0.6,16
 Samsung,P1010 Galaxy Tab Wi-Fi,Android,592,150.0,False,Li-Po,4000,1,1.0,3.15,1.3,16
 Samsung,P7500 Galaxy Tab 10.1 3G,Android,1,370.0,False,Li-Po,7000,2,1.0,3.15,2,64
@@ -1990,19 +1864,15 @@ Samsung,Galaxy Tab 8.9 P7300,Android,1,290.0,False,Li-Po,6000,2,1.0,3.15,2,64
 Samsung,Galaxy Tab 8.9 P7310,Android,1,350.0,False,Li-Po,6000,2,1.0,3.15,2,64
 Samsung,Google Nexus S 4G,Android,512,150.0,True,Li-Ion,1500,1,1.0,5,0.6,16
 Samsung,I9100 Galaxy S II,Android,1,170.0,True,Li-Ion,1650,2,1.2,8,2,32
-Samsung,I9003 Galaxy SL,Android,478,150.0,True,Li-Ion,1650,1,1.0,5,0.6,4
-Samsung,Galaxy Ace S5830,Android,278,90.0,True,Li-Ion,1350,1,0.8,5,0,158
-Samsung,Galaxy Gio S5660,Android,278,110.0,True,Li-Ion,1350,1,0.8,3.15,0,158
-Samsung,Galaxy Mini S5570,Android,384,90.0,True,Li-Ion,1200,1,0.6,3.15,0,160
+Samsung,I9003 Galaxy SL,Android,478,150.0,True,Li-Ion,1650,1,1.0,5,0.6,16
 Samsung,Google Nexus S,Android,512,170.0,True,Li-Ion,1500,1,1.0,5,0.6,16
 Samsung,Galaxy Tab T-Mobile T849,Android,640,270.0,False,Li-Po,4000,1,1.0,3.15,1.3,16
 Samsung,P1000 Galaxy Tab,Android,512,150.0,False,Li-Ion,4000,1,1.0,3.15,1.3,32
 Samsung,Mesmerize i500,Android,512,100.0,True,Li-Ion,1500,1,1.0,5,0.6,2
 Samsung,Vibrant,Android,512,150.0,True,Li-Ion,1500,1,1.0,5,0,16
 Samsung,i897 Captivate,Android,512,170.0,True,Li-Ion,1500,1,1.0,5,0,16
-Samsung,Epic 4G,Android,512,200.0,True,Li-Ion,1500,1,1.0,5,0.6,512
 Samsung,Galaxy A,Android,384,100.0,True,Li-Ion,1500,1,0.72,5,0.6,1
-Samsung,I9000 Galaxy S,Android,512,120.0,True,Li-Ion,1500,1,1.0,5,0.6,8
+Samsung,I9000 Galaxy S,Android,512,120.0,True,Li-Ion,1500,1,1.0,5,0.6,16
 Samsung,I7500 Galaxy,Android,128,140.0,True,Li-Ion,1500,1,0.528,5,0,8
 Sharp,Z2,Android,4,330.0,False,Li-Ion,3000,10,0.0,16,8,32
 Sharp,MS1,Android,3,240.0,False,Li-Ion,2600,8,1.3,13,13,64
@@ -2099,7 +1969,6 @@ Sony,Xperia SX SO-05D,Android,1,220.0,True,Li-Ion,1500,2,1.5,8,0.6,4
 Sony,Xperia GX SO-04D,Android,1,290.0,True,Li-Ion,1700,2,1.5,13,1.3,16
 Sony,Xperia acro HD SO-03D,Android,1,290.0,True,Li-Ion,1910,2,1.5,12,1.3,11
 Sony,Xperia acro HD SOI12,Android,1,280.0,True,Li-Ion,1900,2,1.5,12,1.3,11
-Sony,Xperia neo L,Android,512,150.0,True,Li-Po,1500,1,1.0,5,0.6,1
 Sony,Xperia sola,Android,512,120.0,False,Li-Ion,1320,2,1.0,5,0,8
 Sony,Xperia U,Android,512,140.0,True,Li-Ion,1320,2,1.0,5,0.6,8
 Sony,Xperia P,Android,1,210.0,False,Li-Ion,1305,2,1.0,8,0.6,16
@@ -2110,30 +1979,14 @@ Sony,Tablet P,Android,1,210.0,False,Li-Ion,3080,2,1.0,5,0.6,4
 Sony,Tablet P 3G,Android,1,180.0,False,Li-Ion,3080,2,1.0,5,0.6,4
 Sony,Tablet S 3G,Android,1,260.0,False,Li-Ion,,2,1.0,5,0.6,32
 Sony,Tablet S,Android,1,180.0,False,Li-Ion,,2,1.0,5,0.6,32
-Sony,D 2403,Android,1,200.0,True,Li-Ion,,4,1.2,8,0.6,8
-Sony Ericsson,Xperia Arc S,Android,512,210.0,True,Li-Po,1500,1,1.4,8,0,1
-Sony Ericsson,Xperia neo V,Android,512,150.0,True,Li-Po,1500,1,1.0,5,0.6,1
-Sony Ericsson,Live with Walkman,Android,512,120.0,True,Li-Ion,1200,1,1.0,5,0.6,320
-Sony Ericsson,Xperia ray,Android,512,170.0,True,Li-Ion,1500,1,1.0,8,0.6,1
-Sony Ericsson,Xperia active,Android,512,170.0,True,Li-Ion,1200,1,1.0,5,0,1
-Sony Ericsson,Xperia mini,Android,512,120.0,True,Li-Ion,1200,1,1.0,5,0,320
-Sony Ericsson,Xperia mini pro,Android,512,140.0,True,Li-Ion,1200,1,1.0,5,0.6,400
-Sony Ericsson,W8,Android,168,100.0,True,Li-Po,1200,1,0.6,3.15,0,128
-Sony Ericsson,Xperia PLAY,Android,512,140.0,True,Li-Ion,1500,1,1.0,5,0.6,400
-Sony Ericsson,Xperia pro,Android,512,190.0,True,Li-Po,1500,1,1.0,8,0.6,1
-Sony Ericsson,Xperia Arc,Android,512,180.0,True,Li-Po,1500,1,1.0,8,0,320
-Sony Ericsson,Xperia X8,Android,168,100.0,True,Li-Po,1200,1,0.6,3.15,0,128
-Sony Ericsson,Aspen,Microsoft,256,70.0,True,Li-Po,1500,1,0.6,3.15,0,256
+Sony,D 2403,Android,1,200.0,True,Li-Ion,,4,1.2,8,0.6,16
 Sony Ericsson,Xperia X10,Android,384,120.0,True,Li-Po,1500,1,1.0,8,0,1
-Sony Ericsson,Satio (Idou),Symbian,256,180.0,True,Li-Po,1000,1,0.6,12,0.6,128
 Spice,Mi-498 Dream Uno,Android,1,90.0,True,Li-Ion,1700,4,1.3,5,2,4
 Spice,Mi-496 Spice Coolpad 2,Android,1,110.0,,Li-Ion,1700,4,1.2,5,0,4
 Spice,Mi-525 Pinnacle FHD,Android,1,160.0,True,Li-Ion,2100,4,1.5,8,2,8
 Spice,Mi-515 Coolpad,Android,1,130.0,True,Li-Ion,2000,4,1.2,5,0.6,4
 Spice,Mi-535 Stellar Pinnacle Pro,Android,1,210.0,True,Li-Po,2550,4,1.2,8,5,16
 Spice,Mi-500 Stellar Horizon,Android,512,180.0,True,Li-Ion,2400,2,1.0,5,0.6,4
-Spice,Mi-355 Stellar Craze,Android,512,100.0,True,Li-Ion,1420,1,0.8,5,0.6,140
-Spice,Mi-720,Android,256,170.0,False,Li-Ion,4200,1,0.8,2,0.6,512
 T-Mobile,myTouch Q 2,Android,1,290.0,True,Li-Ion,1500,1,1.4,5,0.6,4
 T-Mobile,myTouch 2,Android,1,290.0,True,Li-Ion,1500,1,1.4,5,0.6,4
 T-Mobile,myTouch Q,Android,512,190.0,True,Li-Ion,1500,1,1.0,5,0,2
@@ -2141,12 +1994,7 @@ T-Mobile,G2x,Android,512,350.0,True,Li-Ion,1500,2,1.0,8,1.3,8
 T-Mobile,Sidekick 4G,Android,512,310.0,True,Li-Ion,1500,1,1.0,3.15,0.6,1
 T-Mobile,myTouch 4G,Android,768,280.0,True,Li-Ion,1400,1,1.0,5,0.6,4
 T-Mobile,G2,Android,512,420.0,True,Li-Ion,1300,1,0.8,5,0,4
-T-Mobile,myTouch 3G Slide,Android,512,330.0,True,Li-Ion,1300,1,0.6,5,0,512
-T-Mobile,myTouch 3G Fender Edition,Android,192,300.0,True,Li-Ion,1340,1,0.528,3.15,0,512
 T-Mobile,HD2,Microsoft,576,230.0,True,Li-Ion,1230,1,1.0,5,0,1
-T-Mobile,G2 Touch,Android,288,260.0,True,Li-Ion,1350,1,0.528,5,0,512
-T-Mobile,myTouch 3G,Android,192,250.0,True,Li-Ion,1340,1,0.528,3.15,0,512
-T-Mobile,G1,Android,192,290.0,True,Li-Ion,1150,1,0.528,3.15,0,256
 Toshiba,Excite Pro,Android,2,210.0,False,Li-Po,,4,0.0,8,1.2,32
 Toshiba,Excite Write,Android,2,440.0,False,Li-Po,,4,0.0,8,1.2,32
 Toshiba,Excite 10 SE,Android,1,250.0,False,Li-Po,,4,1.5,3.15,1.2,16
@@ -2155,9 +2003,7 @@ Toshiba,Excite 10 AT305,Android,1,290.0,False,Li-Po,,4,1.5,5,2,64
 Toshiba,Excite 7.7 AT275,Android,1,410.0,False,Li-Po,,4,1.5,5,2,64
 Toshiba,Excite AT200,Android,1,530.0,False,Li-Ion,,1,1.2,5,2,32
 Toshiba,Thrive 7,Android,1,250.0,False,Li-Ion,,2,1.0,5,2,32
-Toshiba,Thrive,Android,1,300.0,False,Li-Ion,,2,1.0,5,2,8
-Toshiba,TG01,Microsoft,256,500.0,True,Li-Ion,1000,1,1.0,3.15,0,512
-Toshiba,G910 / G920,Microsoft,128,190.0,True,Li-Ion,1320,1,0.4,2,0.6,256
+Toshiba,Thrive,Android,1,300.0,False,Li-Ion,,2,1.0,5,2,32
 Vertu,Signature Touch (2015),Android,4,9000.0,False,Li-Ion,3160,8,1.56,21,2.1,64
 Vertu,Aster,Android,2,5440.0,False,Li-Ion,2275,4,2.3,13,2.1,64
 Vertu,Signature Touch,Android,2,8290.0,False,Li-Ion,2275,4,2.3,13,2.1,64
@@ -2172,7 +2018,6 @@ verykool,s4510 Luna,Android,512,90.0,,Li-Ion,1650,2,1.2,5,0.6,4
 verykool,s5014 Atlas,Android,1,130.0,,Li-Ion,1900,4,1.3,8,2,8
 verykool,s5015 Spark II,Android,1,180.0,,Li-Ion,2100,4,1.3,8,5,8
 verykool,s4010 Gazelle,Android,512,80.0,,Li-Ion,1400,2,1.0,8,1.3,4
-verykool,s4002 Leo,Android,256,50.0,,Li-Ion,1450,2,1.3,5,1.3,512
 verykool,s354,Android,512,60.0,True,Li-Ion,1200,2,1.2,2,0.6,4
 vivo,V5s,Android,4,280.0,False,Li-Ion,3000,8,1.5,13,20,64
 vivo,Y55s,Android,2/3,200.0,False,Li-Ion,2730,4,1.4,13,5,16
@@ -2220,9 +2065,9 @@ Wiko,Rainbow 4G,Android,1,160.0,,Li-Po,2500,4,1.3,8,2,8
 Wiko,Highway 4G,Android,2,300.0,False,Li-Ion,2350,4,2.0,16,8,16
 Wiko,Highway Signs,Android,1,200.0,False,Li-Ion,2000,8,1.4,8,5,8
 Wiko,Highway,Android,2,350.0,False,Li-Ion,2350,8,2.0,16,8,32
-Xiaomi,Mi Max 2,Android,4,280.0,False,Li-Ion,5300,8,2.0,12,5,64
+Xiaomi,Mi Max 2,Android,4,280.0,False,Li-Ion,5300,8,2.0,12,5,128
 Xiaomi,Redmi 4 (4X),Android,2,110.0,False,Li-Po,4100,8,1.4,13,5,16
-Xiaomi,Mi 6,Android,6,400.0,False,Li-Po,3350,8,2.45,12,8,64
+Xiaomi,Mi 6,Android,6,400.0,False,Li-Po,3350,8,2.45,12,8,128
 Xiaomi,Mi Pad 3,Android,4,290.0,False,Li-Po,6600,6,2.1,13,5,64
 Xiaomi,Mi 5c,Android,3,300.0,False,Li-Ion,2860,8,2.2,12,8,64
 Xiaomi,Redmi Note 4X,Android,3,180.0,False,Li-Po,4100,8,2.0,13,5,32
@@ -2328,7 +2173,7 @@ YU,Yunique,Android,1,70.0,False,Li-Po,2000,4,1.2,8,2,8
 YU,Yuphoria,Android,2,90.0,True,Li-Ion,2230,4,1.2,8,5,16
 YU,Yureka Plus,Android,2,130.0,True,Li-Po,2500,8,1.7,13,5,16
 YU,Yureka,Android,2,130.0,True,Li-Po,2500,8,1.7,13,5,16
-ZTE,nubia Z17,Android,6,500.0,False,Li-Po,3200,8,2.35,12,16,64
+ZTE,nubia Z17,Android,6,500.0,False,Li-Po,3200,8,2.35,12,16,128
 ZTE,Axon 7s,Android,6,700.0,False,Li-Ion,3400,4,2.35,20,8,128
 ZTE,Max XL,Android,2,120.0,,Li-Ion,3990,8,1.4,13,5,16
 ZTE,nubia Z17 mini,Android,4,310.0,False,Li-Po,2950,8,1.95,13,16,64
@@ -2339,7 +2184,7 @@ ZTE,Hawkeye,Android,3,190.0,,Li-Ion,3000,8,2.0,13,8,32
 ZTE,Blade V8 Pro,Android,3,260.0,False,Li-Ion,3140,8,2.0,13,8,32
 ZTE,Blade V8,Android,2,250.0,False,Li-Ion,2730,8,1.4,13,13,16
 ZTE,Axon 7 Max,Android,4,500.0,False,Li-Ion,4100,8,2.0,13,13,64
-ZTE,nubia Z11 mini S,Android,4,270.0,False,Li-Ion,3000,8,2.0,23,13,64
+ZTE,nubia Z11 mini S,Android,4,270.0,False,Li-Ion,3000,8,2.0,23,13,128
 ZTE,Axon 7 mini,Android,3,270.0,False,Li-Ion,2705,8,1.5,16,8,32
 ZTE,Zmax Pro,Android,2,110.0,False,Li-Ion,3400,8,1.5,13,5,32
 ZTE,nubia N1,Android,3,230.0,False,Li-Po,5000,8,2.0,13,13,64
@@ -2396,7 +2241,6 @@ ZTE,nubia Z7,Android,3,250.0,False,Li-Ion,3000,4,2.5,13,5,32
 ZTE,nubia Z7 Max,Android,2,240.0,False,Li-Ion,3100,4,2.5,13,5,32
 ZTE,nubia Z7 mini,Android,2,180.0,False,Li-Ion,2300,4,2.0,13,5,16
 ZTE,Blade L2,Android,1,130.0,True,Li-Ion,2000,4,1.3,5,0.6,4
-ZTE,Kis 3,Android,256,60.0,True,Li-Ion,1400,1,0.0,3.15,0,512
 ZTE,Blade G2,Android,512,100.0,True,Li-Ion,2000,4,1.2,5,0.6,4
 ZTE,Star 1,Android,2,200.0,False,Li-Po,2300,4,1.6,8,5,16
 ZTE,nubia X6,Android,2,350.0,False,Li-ion,4250,4,2.5,13,13,64
@@ -2414,18 +2258,14 @@ ZTE,Grand X Quad V987,Android,1,200.0,True,Li-Ion,2500,4,1.2,8,1.3,4
 ZTE,Grand Memo V9815,Android,2,340.0,False,Li-ion,3200,4,1.7,13,1,16
 ZTE,Blade C V807,Android,512,130.0,True,Li-Ion,1600,2,1.0,3.15,0,4
 ZTE,Grand S,Android,2,430.0,False,Li-Ion,1780,4,1.7,13,2,16
-ZTE,Kis III V790,Android,256,100.0,True,Li-Ion,1200,1,1.0,2,0,512
 ZTE,Groove X501,Android,512,100.0,True,Li-Ion,1500,1,0.8,3.15,0.6,1
 ZTE,nubia Z5,Android,2,520.0,False,Li-Ion,2300,4,1.5,13,2,32
 ZTE,Flash,Android,1,360.0,True,Li-Ion,1780,2,1.5,12.6,1,8
 ZTE,Grand Era U895,Android,1,380.0,True,Li-Ion,1800,4,1.5,8,1.3,4
 ZTE,Blade III,Android,512,190.0,True,Li-Ion,1600,1,1.0,5,0,4
-ZTE,Grand X IN,Android,1,430.0,True,Li-Ion,1650,1,1.6,8,0.6,4
+ZTE,Grand X IN,Android,1,430.0,True,Li-Ion,1650,1,1.6,8,0.6,16
 ZTE,Grand X LTE T82,Android,1,340.0,True,Li-Ion,1900,2,1.5,8,1.3,4
 ZTE,Grand X V970,Android,1,230.0,True,Li-Ion,1600,1,1.0,5,0.6,4
-ZTE,Blade II V880+,Android,512,230.0,True,Li-Ion,1200,1,1.0,5,0.6,512
 ZTE,Optik,Android,1,230.0,False,Li-Ion,4000,2,1.2,5,2,16
 ZTE,Light Tab 2 V9A,Android,512,250.0,False,Li-Ion,3400,1,1.4,3.2,0.6,4
 ZTE,Tania,Microsoft,512,210.0,True,Li-Ion,1400,1,1.0,5,0,4
-ZTE,Blade,Android,512,170.0,True,Li-Ion,1250,1,0.6,3.15,0,512
-ZTE,Racer,Android,256,180.0,True,Li-Ion,1100,1,0.6,3.15,0,256
