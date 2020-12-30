@@ -1,6 +1,7 @@
 from tkinter import ttk
 import tkinter as tk
 from tkinter import messagebox
+import re
 
 class Application(ttk.Frame):
     def __init__(self, main_window):
@@ -16,6 +17,9 @@ class Application(ttk.Frame):
         self.CPU_SPEED_DEFAULT_VALUE = "Velocidad en GHz"
         self.MAH_BATTERY_DEFAULT_VALUE = "Capacidad en mAh"
         self.PRICE_DEFAULT_VALUE = "Precio en €"
+
+        # Expresión regular para verificar valores numéricos #
+        self.DECIMAL_RE = re.compile(r"^\d*[.,]?\d*$")
 
         # Configuración de elementos del formulario #
         # Marca #
@@ -141,7 +145,22 @@ class Application(ttk.Frame):
         if price == self.PRICE_DEFAULT_VALUE or price == '':
             return None
         
-        return 0
+        if not self.DECIMAL_RE.match(internal_memory):
+            return None
+        if not self.DECIMAL_RE.match(ram_memory):
+            return None
+        if not self.DECIMAL_RE.match(primary_camera):
+            return None
+        if not self.DECIMAL_RE.match(secondary_camera):
+            return None
+        if not self.DECIMAL_RE.match(cpu_speed):
+            return None
+        if not self.DECIMAL_RE.match(mah_battery):
+            return None
+        if not self.DECIMAL_RE.match(price):
+            return None
+
+        return internal_memory, ram_memory, primary_camera, secondary_camera, cpu_speed, mah_battery, price
 
         
 
