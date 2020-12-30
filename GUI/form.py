@@ -1,12 +1,22 @@
 from tkinter import ttk
 import tkinter as tk
+from tkinter import messagebox
 
 class Application(ttk.Frame):
     def __init__(self, main_window):
         super().__init__(main_window)
         main_window.title("Sistema de recomendación de celulares")
-        main_window.configure(width=500, height=500)
+        main_window.configure(width=600, height=600)
         
+        # Valores por defecto en los campos de texto #
+        self.INTERNAL_MEMORY_DEFAULT_VALUE = "Memoria interna en GB"
+        self.RAM_MEMORY_DEFAULT_VALUE = "Memoria RAM en GB"
+        self.PRIMARY_CAMERA_DEFAULT_VALUE = "Camara trasera en MP"
+        self.SECONDARY_CAMERA_DEFAULT_VALUE = "Camara frontal en MP"
+        self.CPU_SPEED_DEFAULT_VALUE = "Velocidad en GHz"
+        self.MAH_BATTERY_DEFAULT_VALUE = "Capacidad en mAh"
+        self.PRICE_DEFAULT_VALUE = "Precio en €"
+
         # Configuración de elementos del formulario #
         # Marca #
         self.brand_label = ttk.Label(main_window, text="Marca")
@@ -47,53 +57,93 @@ class Application(ttk.Frame):
         self.internalMemory_label = ttk.Label(main_window, text="Memoria interna")
         self.internalMemory_label.place(x=40, y=200)
         self.internalMemory_entry = ttk.Entry(main_window)
-        self.internalMemory_entry.insert(tk.END,'Memoria interna en GB')
+        self.internalMemory_entry.insert(tk.END, self.INTERNAL_MEMORY_DEFAULT_VALUE)
         self.internalMemory_entry.place(x=180, y=200)
 
         # Memoria RAM #
         self.ramMemory_label = ttk.Label(main_window, text="Memoria RAM")
         self.ramMemory_label.place(x=40, y=230)
         self.ramMemory_entry = ttk.Entry(main_window)
-        self.ramMemory_entry.insert(tk.END,'Memoria RAM en GB')
+        self.ramMemory_entry.insert(tk.END, self.RAM_MEMORY_DEFAULT_VALUE)
         self.ramMemory_entry.place(x=180, y=230)       
 
         # Camara trasera #
         self.primaryCamera_label = ttk.Label(main_window, text="Camara principal")
         self.primaryCamera_label.place(x=40, y=260)
         self.primaryCamera_entry = ttk.Entry(main_window)
-        self.primaryCamera_entry.insert(tk.END,'Camara trasera en MP')
+        self.primaryCamera_entry.insert(tk.END, self.PRIMARY_CAMERA_DEFAULT_VALUE)
         self.primaryCamera_entry.place(x=180, y=260)
 
         # Camara frontal #
         self.secondaryCamera_label = ttk.Label(main_window, text="Camara secundaria")
         self.secondaryCamera_label.place(x=40, y=290)
         self.secondaryCamera_entry = ttk.Entry(main_window)
-        self.secondaryCamera_entry.insert(tk.END,'Camara frontal en MP')
+        self.secondaryCamera_entry.insert(tk.END, self.SECONDARY_CAMERA_DEFAULT_VALUE)
         self.secondaryCamera_entry.place(x=180, y=290)
 
         # Velocidad del cpu #
         self.cpuSpeed_label = ttk.Label(main_window, text="Velocidad del cpu")
         self.cpuSpeed_label.place(x=40, y=320)
         self.cpuSpeed_entry = ttk.Entry(main_window)
-        self.cpuSpeed_entry.insert(tk.END,'Velocidad en GHz')
+        self.cpuSpeed_entry.insert(tk.END, self.CPU_SPEED_DEFAULT_VALUE)
         self.cpuSpeed_entry.place(x=180, y=320)
 
         # Miliamperios de la bateria #
         self.mahBattery_label = ttk.Label(main_window, text="Capacidad de bateria")
         self.mahBattery_label.place(x=40, y=350)
         self.mahBattery_entry = ttk.Entry(main_window)
-        self.mahBattery_entry.insert(tk.END,'Capacidad en mAh')
+        self.mahBattery_entry.insert(tk.END, self.MAH_BATTERY_DEFAULT_VALUE)
         self.mahBattery_entry.place(x=180, y=350)
 
         # Precio #
         self.price_label = ttk.Label(main_window, text="Precio")
         self.price_label.place(x=40, y=380)
         self.price_entry = ttk.Entry(main_window)
-        self.price_entry.insert(tk.END,'Precio en €')
-        self.price_entry.place(x=180, y=380)                
+        self.price_entry.insert(tk.END, self.PRICE_DEFAULT_VALUE)
+        self.price_entry.place(x=180, y=380)
 
-        main_window.configure(width=500, height=500)
-        self.place(width=300, height=200)
+        # Boton para buscar recomendacion #
+        self.search_button = ttk.Button(main_window, text="Buscar", command=self.onClick_searchButton)
+        self.search_button.place(x=250, y=410)
+
+        main_window.configure(width=600, height=600)
+        self.place(width=600, height=600)
+
+    def onClick_searchButton(self):
+        if self.onCheck_Entries() == None:
+            messagebox.showerror("Error", "valores invalidos")
+        else:
+            print("Entradas validas")
+    
+    def onCheck_Entries(self):
+        # Memoria interna #
+        internal_memory = self.internalMemory_entry.get()
+        ram_memory = self.ramMemory_entry.get()
+        primary_camera = self.primaryCamera_entry.get()
+        secondary_camera = self.secondaryCamera_entry.get()
+        cpu_speed = self.cpuSpeed_entry.get()
+        mah_battery = self.mahBattery_entry.get()
+        price = self.price_entry.get()
+        
+        # Se revisa que los campos de texto no tengan los valores por defecto o estén vacios #
+        if internal_memory == self.INTERNAL_MEMORY_DEFAULT_VALUE or internal_memory == "":
+            return None
+        if ram_memory == self.RAM_MEMORY_DEFAULT_VALUE or ram_memory == '':
+            return None
+        if primary_camera == self.PRIMARY_CAMERA_DEFAULT_VALUE or primary_camera == '':
+            return None
+        if secondary_camera == self.SECONDARY_CAMERA_DEFAULT_VALUE or secondary_camera == '':
+            return None
+        if cpu_speed == self.CPU_SPEED_DEFAULT_VALUE or cpu_speed == '':
+            return None
+        if mah_battery == self.MAH_BATTERY_DEFAULT_VALUE or mah_battery == '':
+            return None
+        if price == self.PRICE_DEFAULT_VALUE or price == '':
+            return None
+        
+        return 0
+
+        
 
 main_window = tk.Tk()
 app = Application(main_window)
