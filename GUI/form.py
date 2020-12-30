@@ -27,21 +27,26 @@ class Application(ttk.Frame):
         self.brand_label.place(x=40, y=50)
         self.brand_combo = ttk.Combobox(main_window)
         self.brand_combo.place(x=180, y=50)
-        self.brand_combo["values"] = ["Samsung", "Apple", "Xiaomi", "LG"]
+        self.brand_combo["values"] = ['Acer','alcatel','Allview','Amazon','Apple','Archos','Asus','BenQ','BlackBerry','BLU',
+                                      'BQ','Casio','Cat','Celkon','Coolpad','Dell','Gigabyte','Gionee','Google','HP',
+                                      'HTC','Huawei','Intex','Karbonn','Kyocera','Lava','LeEco','Lenovo','LG','Meizu',
+                                      'Micromax','Microsoft','Motorola','NEC','Nokia','Nvidia','OnePlus','Oppo','Panasonic','Pantech',
+                                      'Prestigio','QMobile','Samsung','Sharp','Sonim','Sony','Sony Ericsson','Spice','T-Mobile','Vertu',
+                                      'verykool','vivo','Vodafone','Wiko','Xiaomi','XOLO','Yezz','Yota','YU','ZTE']
         
         # Sistema operativo #
         self.os_label = ttk.Label(main_window, text="Sistema operativo")
         self.os_label.place(x=40, y=80)
         self.os_combo = ttk.Combobox(main_window)
         self.os_combo.place(x=180, y=80)
-        self.os_combo["values"] = ["Android", "iOS", "Windows"]
+        self.os_combo["values"] = ["Android", "Windows", "iOS", "BlackBerry"]
 
         # Tipo de bateria #
         self.batteryType_label = ttk.Label(main_window, text="Tipo de bateria")
         self.batteryType_label.place(x=40, y=110)
         self.batteryType_combo = ttk.Combobox(main_window)
         self.batteryType_combo.place(x=180, y=110)
-        self.batteryType_combo["values"] = ["Tipo 1", "Tipo 2", "Tipo 3"]
+        self.batteryType_combo["values"] = ["Ion de litio (Li-Ion)", "Polímero de litio (Li-Po)"]
 
         # Bateria removible #
         self.batteryRemovable_label = ttk.Label(main_window, text="Bateria removible")
