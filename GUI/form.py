@@ -18,6 +18,22 @@ class Application(ttk.Frame):
         self.MAH_BATTERY_DEFAULT_VALUE = "Capacidad en mAh"
         self.PRICE_DEFAULT_VALUE = "Precio en €"
 
+        # Opciones para los elementos de tipo Combobox #
+        self.BRANDS = ['Acer','alcatel','Allview','Amazon','Apple','Archos','Asus','BenQ','BlackBerry','BLU',
+                       'BQ','Casio','Cat','Celkon','Coolpad','Dell','Gigabyte','Gionee','Google','HP',
+                       'HTC','Huawei','Intex','Karbonn','Kyocera','Lava','LeEco','Lenovo','LG','Meizu',
+                       'Micromax','Microsoft','Motorola','NEC','Nokia','Nvidia','OnePlus','Oppo','Panasonic','Pantech',
+                       'Prestigio','QMobile','Samsung','Sharp','Sonim','Sony','Sony Ericsson','Spice','T-Mobile','Vertu',
+                       'verykool','vivo','Vodafone','Wiko','Xiaomi','XOLO','Yezz','Yota','YU','ZTE']
+        
+        self.OS = ["Android", "Windows", "iOS", "BlackBerry"]
+
+        self.BATTERY_TYPES = ["Ion de litio (Li-Ion)", "Polímero de litio (Li-Po)"]
+
+        self.BATTERY_REMOVABLE = ['Si', 'No']
+
+        self.CPU_CORES = ["1", "2", "3", "4", "6", "8", "10"]
+
         # Expresión regular para verificar valores numéricos #
         self.DECIMAL_RE = re.compile(r"^\d*[.,]?\d*$")
 
@@ -27,40 +43,35 @@ class Application(ttk.Frame):
         self.brand_label.place(x=40, y=50)
         self.brand_combo = ttk.Combobox(main_window)
         self.brand_combo.place(x=180, y=50)
-        self.brand_combo["values"] = ['Acer','alcatel','Allview','Amazon','Apple','Archos','Asus','BenQ','BlackBerry','BLU',
-                                      'BQ','Casio','Cat','Celkon','Coolpad','Dell','Gigabyte','Gionee','Google','HP',
-                                      'HTC','Huawei','Intex','Karbonn','Kyocera','Lava','LeEco','Lenovo','LG','Meizu',
-                                      'Micromax','Microsoft','Motorola','NEC','Nokia','Nvidia','OnePlus','Oppo','Panasonic','Pantech',
-                                      'Prestigio','QMobile','Samsung','Sharp','Sonim','Sony','Sony Ericsson','Spice','T-Mobile','Vertu',
-                                      'verykool','vivo','Vodafone','Wiko','Xiaomi','XOLO','Yezz','Yota','YU','ZTE']
+        self.brand_combo["values"] = self.BRANDS
         
         # Sistema operativo #
         self.os_label = ttk.Label(main_window, text="Sistema operativo")
         self.os_label.place(x=40, y=80)
         self.os_combo = ttk.Combobox(main_window)
         self.os_combo.place(x=180, y=80)
-        self.os_combo["values"] = ["Android", "Windows", "iOS", "BlackBerry"]
+        self.os_combo["values"] = self.OS
 
         # Tipo de bateria #
         self.batteryType_label = ttk.Label(main_window, text="Tipo de bateria")
         self.batteryType_label.place(x=40, y=110)
         self.batteryType_combo = ttk.Combobox(main_window)
         self.batteryType_combo.place(x=180, y=110)
-        self.batteryType_combo["values"] = ["Ion de litio (Li-Ion)", "Polímero de litio (Li-Po)"]
+        self.batteryType_combo["values"] = self.BATTERY_TYPES
 
         # Bateria removible #
         self.batteryRemovable_label = ttk.Label(main_window, text="Bateria removible")
         self.batteryRemovable_label.place(x=40, y=140)
         self.batteryRemovable_combo = ttk.Combobox(main_window)
         self.batteryRemovable_combo.place(x=180, y=140)
-        self.batteryRemovable_combo["values"] = ["Si", "No"]
+        self.batteryRemovable_combo["values"] = self.BATTERY_REMOVABLE
         
         # Cores del CPU #
         self.cpuCores_label = ttk.Label(main_window, text="Nucleos del CPU")
         self.cpuCores_label.place(x=40, y=170)
         self.cpuCores_combo = ttk.Combobox(main_window)
         self.cpuCores_combo.place(x=180, y=170)
-        self.cpuCores_combo["values"] = ["1", "2", "3", "4", "6", "8", "10"]
+        self.cpuCores_combo["values"] = self.CPU_CORES
 
         # Memoria interna #
         self.internalMemory_label = ttk.Label(main_window, text="Memoria interna")
@@ -120,12 +131,12 @@ class Application(ttk.Frame):
 
     def onClick_searchButton(self):
         if self.onCheck_Entries() == None:
-            messagebox.showerror("Error", "valores invalidos")
+            messagebox.showerror("Error", "Valores invalidos")
         else:
             print("Entradas validas")
     
     def onCheck_Entries(self):
-        # Memoria interna #
+        # Obtención de valores de elementos Entry #
         internal_memory = self.internalMemory_entry.get()
         ram_memory = self.ramMemory_entry.get()
         primary_camera = self.primaryCamera_entry.get()
@@ -133,7 +144,31 @@ class Application(ttk.Frame):
         cpu_speed = self.cpuSpeed_entry.get()
         mah_battery = self.mahBattery_entry.get()
         price = self.price_entry.get()
+
+        # Obtención de valores de los combobox #
+        brand = self.brand_combo.get()
+        os = self.os_combo.get()
+        battery_type = self.batteryType_combo.get()
+        battery_removable = self.batteryRemovable_combo.get()
+        cores = self.cpuCores_combo.get()
         
+        # Se revisa que los valores de los combobox no estén vacios o sea una opción inválida#
+        if brand == '' or brand not in self.BRANDS:
+            print("brand error")
+            return None
+        if os == '' or os not in self.OS:
+            print("os error")
+            return None
+        if battery_type == '' or battery_type not in self.BATTERY_TYPES:
+            print('battery type error:',battery_type)
+            return None
+        if battery_removable == '' or battery_removable not in self.BATTERY_REMOVABLE:
+            print('battery removable error')
+            return None
+        if cores == '' or cores not in self.CPU_CORES:
+            print('cores error')
+            return None
+
         # Se revisa que los campos de texto no tengan los valores por defecto o estén vacios #
         if internal_memory == self.INTERNAL_MEMORY_DEFAULT_VALUE or internal_memory == "":
             return None
@@ -164,8 +199,8 @@ class Application(ttk.Frame):
             return None
         if not self.DECIMAL_RE.match(price):
             return None
-
-        return internal_memory, ram_memory, primary_camera, secondary_camera, cpu_speed, mah_battery, price
+        
+        return brand, os, battery_type, battery_removable, cores, internal_memory, ram_memory, primary_camera, secondary_camera, cpu_speed, mah_battery, price
 
         
 
