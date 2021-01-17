@@ -2,6 +2,10 @@ from tkinter import ttk
 import tkinter as tk
 from tkinter import messagebox
 import re
+import pandas as pd
+from Utils import Classifier
+
+df = pd.read_csv('./Data/final_dataset.csv')
 
 class Application(ttk.Frame):
     def __init__(self, main_window):
@@ -129,12 +133,101 @@ class Application(ttk.Frame):
         main_window.configure(width=600, height=600)
         self.place(width=600, height=600)
 
+    def openResultsWindow(self, best_option, min_dissimilarity):
+        results_window = tk.Toplevel(main_window)
+        results_window.title("Mejor resultado") 
+        results_window.geometry("500x500")
+        # Obtención de información #
+        model = best_option[0]
+        ram = best_option[1]
+        price = best_option[2]
+        mah = best_option[3]
+        cores = best_option[4]
+        speed = best_option[5]
+        prim_camera = best_option[6]
+        sec_camera = best_option[7]
+        internal_memory = best_option[8]
+        brand = best_option[9]
+        os = best_option[10]
+        removable = best_option[11]
+        batt_type = best_option[12]
+
+        model_label = ttk.Label(results_window, text='Modelo:')
+        model_label.place(x=40, y=40)
+        model_result = ttk.Label(results_window, text=model)
+        model_result.place(x=180, y=40)
+        
+        ram_label = ttk.Label(results_window, text='RAM:')
+        ram_label.place(x=40, y=70)
+        ram_result = ttk.Label(results_window, text=ram)
+        ram_result.place(x=180, y=70)
+
+        price_label = ttk.Label(results_window, text='Precio:')
+        price_label.place(x=40, y=110)
+        price_result = ttk.Label(results_window, text=price)
+        price_result.place(x=180, y=110)
+        
+        mah_label = ttk.Label(results_window, text='Capacidad de la bateria:')
+        mah_label.place(x=40, y=140)
+        mah_result = ttk.Label(results_window, text=mah)
+        mah_result.place(x=220, y=140)        
+
+        cores_label = ttk.Label(results_window, text='Núcleos:')
+        cores_label.place(x=40, y=170)
+        cores_result = ttk.Label(results_window, text=cores)
+        cores_result.place(x=180, y=170)
+
+        speed_label = ttk.Label(results_window, text='Velocidad del CPU:')
+        speed_label.place(x=40, y=200)
+        speed_result = ttk.Label(results_window, text=speed)
+        speed_result.place(x=180, y=200)
+
+        prim_label = ttk.Label(results_window, text='Camara principal:')
+        prim_label.place(x=40, y=230)
+        prim_result = ttk.Label(results_window, text=prim_camera)
+        prim_result.place(x=180, y=230)
+    
+        sec_label = ttk.Label(results_window, text='Camara secundaria:')
+        sec_label.place(x=40, y=260)
+        sec_result = ttk.Label(results_window, text=sec_camera)
+        sec_result.place(x=180, y=260)
+
+        int_label = ttk.Label(results_window, text='Memoria interna:')
+        int_label.place(x=40, y=290)
+        int_result = ttk.Label(results_window, text=internal_memory)
+        int_result.place(x=180, y=290)
+
+        brand_label = ttk.Label(results_window, text='Marca:')
+        brand_label.place(x=40, y=320)
+        brand_result = ttk.Label(results_window, text=brand)
+        brand_result.place(x=180, y=320)
+
+        os_label = ttk.Label(results_window, text='Sistema operativo:')
+        os_label.place(x=40, y=350)
+        os_result = ttk.Label(results_window, text=os)
+        os_result.place(x=180, y=350)
+
+        rem_label = ttk.Label(results_window, text='Bateria removible:')
+        rem_label.place(x=40, y=380)
+        rem_result = ttk.Label(results_window, text=removable)
+        rem_result.place(x=180, y=380)
+
+        type_label = ttk.Label(results_window, text='Tipo de bateria:')
+        type_label.place(x=40, y=410)
+        type_result = ttk.Label(results_window, text=batt_type)
+        type_result.place(x=180, y=410)
+
     def onClick_searchButton(self):
-        if self.onCheck_Entries() == None:
+        result = self.onCheck_Entries()
+        if result == None:
             messagebox.showerror("Error", "Valores invalidos")
         else:
-            print("Entradas validas")
-    
+            classifier = Classifier()
+            vector = classifier.create_vector(result)
+            cluster = classifier.get_cluster(vector)
+            best_option, min_diss = classifier.get_best_option(cluster, vector)
+            self.openResultsWindow(best_option, min_diss)
+            
     def onCheck_Entries(self):
         # Obtención de valores de elementos Entry #
         internal_memory = self.internalMemory_entry.get()
@@ -200,7 +293,7 @@ class Application(ttk.Frame):
         if not self.DECIMAL_RE.match(price):
             return None
         
-        return brand, os, battery_type, battery_removable, cores, internal_memory, ram_memory, primary_camera, secondary_camera, cpu_speed, mah_battery, price
+        return (brand, os, battery_type, battery_removable, cores, internal_memory, ram_memory, primary_camera, secondary_camera, cpu_speed, mah_battery, price)
 
         
 
