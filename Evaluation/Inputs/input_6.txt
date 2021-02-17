@@ -1,0 +1,11 @@
+Marca: Prestigio
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 326.154 GB
+Memoria RAM: 3.355 GB
+Camera trasera: 4.646 MP
+Camara frontal: 8.662 MP
+Velocidad del CPU: 0.651 GHz
+Capacidad de la bateria: 6347.898 mAh
+Precio: 3107.904 €

@@ -1,0 +1,11 @@
+Marca: Archos
+Sistema operativo: Android
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 386.349 GB
+Memoria RAM: 2.02 GB
+Camera trasera: 3.147 MP
+Camara frontal: 6.451 MP
+Velocidad del CPU: 1.083 GHz
+Capacidad de la bateria: 11008.594 mAh
+Precio: 6461.952 €

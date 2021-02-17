@@ -1,0 +1,11 @@
+Marca: Yezz
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 326.042 GB
+Memoria RAM: 5.783 GB
+Camera trasera: 19.94 MP
+Camara frontal: 1.553 MP
+Velocidad del CPU: 1.445 GHz
+Capacidad de la bateria: 2074.963 mAh
+Precio: 10665.106 €

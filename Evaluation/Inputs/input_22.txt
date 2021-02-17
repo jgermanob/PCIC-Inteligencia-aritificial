@@ -1,0 +1,11 @@
+Marca: Allview
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 250.183 GB
+Memoria RAM: 5.12 GB
+Camera trasera: 18.718 MP
+Camara frontal: 9.465 MP
+Velocidad del CPU: 1.355 GHz
+Capacidad de la bateria: 6302.849 mAh
+Precio: 21449.101 €

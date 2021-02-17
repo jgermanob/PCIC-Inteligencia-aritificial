@@ -1,0 +1,11 @@
+Marca: Kyocera
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 21.622 GB
+Memoria RAM: 2.268 GB
+Camera trasera: 15.127 MP
+Camara frontal: 13.887 MP
+Velocidad del CPU: 0.701 GHz
+Capacidad de la bateria: 10560.151 mAh
+Precio: 2607.777 €

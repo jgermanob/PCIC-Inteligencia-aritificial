@@ -1,0 +1,11 @@
+Marca: Samsung
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 115.767 GB
+Memoria RAM: 1.316 GB
+Camera trasera: 22.894 MP
+Camara frontal: 11.155 MP
+Velocidad del CPU: 2.586 GHz
+Capacidad de la bateria: 3092.839 mAh
+Precio: 9332.069 €

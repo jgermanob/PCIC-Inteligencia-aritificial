@@ -1,0 +1,11 @@
+Marca: Gigabyte
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 167.704 GB
+Memoria RAM: 0.303 GB
+Camera trasera: 22.686 MP
+Camara frontal: 0.739 MP
+Velocidad del CPU: 0.577 GHz
+Capacidad de la bateria: 3624.675 mAh
+Precio: 24538.517 €

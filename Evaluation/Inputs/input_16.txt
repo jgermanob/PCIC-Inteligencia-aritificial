@@ -1,0 +1,11 @@
+Marca: Huawei
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 235.611 GB
+Memoria RAM: 2.415 GB
+Camera trasera: 2.995 MP
+Camara frontal: 17.166 MP
+Velocidad del CPU: 1.886 GHz
+Capacidad de la bateria: 1948.708 mAh
+Precio: 2762.371 €

@@ -1,0 +1,11 @@
+Marca: Amazon
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 340.689 GB
+Memoria RAM: 3.269 GB
+Camera trasera: 2.903 MP
+Camara frontal: 13.916 MP
+Velocidad del CPU: 2.1 GHz
+Capacidad de la bateria: 5734.623 mAh
+Precio: 19232.274 €

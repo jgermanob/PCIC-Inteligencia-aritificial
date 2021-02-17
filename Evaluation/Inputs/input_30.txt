@@ -1,0 +1,11 @@
+Marca: Micromax
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 18.214 GB
+Memoria RAM: 5.851 GB
+Camera trasera: 5.874 MP
+Camara frontal: 8.93 MP
+Velocidad del CPU: 1.257 GHz
+Capacidad de la bateria: 2678.873 mAh
+Precio: 15747.665 €

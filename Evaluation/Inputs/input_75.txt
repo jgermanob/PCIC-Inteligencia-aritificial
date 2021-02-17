@@ -1,0 +1,11 @@
+Marca: Sony Ericsson
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 428.353 GB
+Memoria RAM: 3.607 GB
+Camera trasera: 16.382 MP
+Camara frontal: 13.568 MP
+Velocidad del CPU: 2.503 GHz
+Capacidad de la bateria: 9357.85 mAh
+Precio: 18276.306 €

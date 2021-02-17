@@ -1,0 +1,11 @@
+Marca: Panasonic
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 322.865 GB
+Memoria RAM: 3.752 GB
+Camera trasera: 16.941 MP
+Camara frontal: 12.856 MP
+Velocidad del CPU: 0.746 GHz
+Capacidad de la bateria: 8118.962 mAh
+Precio: 24628.88 €

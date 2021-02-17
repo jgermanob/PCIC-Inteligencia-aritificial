@@ -1,0 +1,11 @@
+Marca: Yezz
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 117.69 GB
+Memoria RAM: 4.611 GB
+Camera trasera: 19.654 MP
+Camara frontal: 11.57 MP
+Velocidad del CPU: 2.331 GHz
+Capacidad de la bateria: 8466.12 mAh
+Precio: 25744.091 €

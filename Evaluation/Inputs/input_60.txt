@@ -1,0 +1,11 @@
+Marca: YU
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 470.889 GB
+Memoria RAM: 2.611 GB
+Camera trasera: 23.949 MP
+Camara frontal: 9.48 MP
+Velocidad del CPU: 0.345 GHz
+Capacidad de la bateria: 1877.277 mAh
+Precio: 25411.889 €

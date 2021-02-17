@@ -1,0 +1,11 @@
+Marca: Sharp
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 207.91 GB
+Memoria RAM: 1.023 GB
+Camera trasera: 17.433 MP
+Camara frontal: 12.923 MP
+Velocidad del CPU: 0.68 GHz
+Capacidad de la bateria: 1776.087 mAh
+Precio: 9373.993 €

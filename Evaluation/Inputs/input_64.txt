@@ -1,0 +1,11 @@
+Marca: Panasonic
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 334.68 GB
+Memoria RAM: 3.512 GB
+Camera trasera: 11.504 MP
+Camara frontal: 11.984 MP
+Velocidad del CPU: 1.256 GHz
+Capacidad de la bateria: 6459.504 mAh
+Precio: 15203.227 €

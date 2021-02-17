@@ -1,0 +1,11 @@
+Marca: Sonim
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 447.596 GB
+Memoria RAM: 3.748 GB
+Camera trasera: 1.814 MP
+Camara frontal: 19.551 MP
+Velocidad del CPU: 2.576 GHz
+Capacidad de la bateria: 3150.583 mAh
+Precio: 9334.53 €

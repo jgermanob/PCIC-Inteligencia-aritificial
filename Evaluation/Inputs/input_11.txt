@@ -1,0 +1,11 @@
+Marca: Wiko
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 420.374 GB
+Memoria RAM: 1.894 GB
+Camera trasera: 3.156 MP
+Camara frontal: 14.678 MP
+Velocidad del CPU: 0.729 GHz
+Capacidad de la bateria: 3111.709 mAh
+Precio: 7621.908 €

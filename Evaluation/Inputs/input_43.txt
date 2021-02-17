@@ -1,0 +1,11 @@
+Marca: BLU
+Sistema operativo: iOS
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 351.407 GB
+Memoria RAM: 2.288 GB
+Camera trasera: 11.975 MP
+Camara frontal: 7.08 MP
+Velocidad del CPU: 2.193 GHz
+Capacidad de la bateria: 7905.748 mAh
+Precio: 9255.242 €

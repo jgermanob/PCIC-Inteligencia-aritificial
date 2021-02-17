@@ -1,0 +1,11 @@
+Marca: Xiaomi
+Sistema operativo: iOS
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 345.229 GB
+Memoria RAM: 4.771 GB
+Camera trasera: 3.425 MP
+Camara frontal: 18.654 MP
+Velocidad del CPU: 0.259 GHz
+Capacidad de la bateria: 6489.051 mAh
+Precio: 24657.175 €

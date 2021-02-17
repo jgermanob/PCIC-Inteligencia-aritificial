@@ -1,0 +1,11 @@
+Marca: Vertu
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 471.677 GB
+Memoria RAM: 5.809 GB
+Camera trasera: 17.474 MP
+Camara frontal: 15.842 MP
+Velocidad del CPU: 2.165 GHz
+Capacidad de la bateria: 6111.205 mAh
+Precio: 21727.692 €

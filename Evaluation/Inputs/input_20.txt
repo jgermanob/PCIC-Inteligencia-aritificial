@@ -1,0 +1,11 @@
+Marca: Intex
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 156.04 GB
+Memoria RAM: 1.173 GB
+Camera trasera: 11.269 MP
+Camara frontal: 0.061 MP
+Velocidad del CPU: 0.814 GHz
+Capacidad de la bateria: 11050.927 mAh
+Precio: 4929.61 €

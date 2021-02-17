@@ -1,0 +1,11 @@
+Marca: Meizu
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 268.978 GB
+Memoria RAM: 5.408 GB
+Camera trasera: 8.516 MP
+Camara frontal: 17.082 MP
+Velocidad del CPU: 0.208 GHz
+Capacidad de la bateria: 5062.896 mAh
+Precio: 1923.268 €

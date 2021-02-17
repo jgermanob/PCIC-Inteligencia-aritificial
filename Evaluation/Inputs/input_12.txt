@@ -1,0 +1,11 @@
+Marca: Intex
+Sistema operativo: Windows
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 39.351 GB
+Memoria RAM: 3.435 GB
+Camera trasera: 0.826 MP
+Camara frontal: 2.979 MP
+Velocidad del CPU: 2.379 GHz
+Capacidad de la bateria: 6211.937 mAh
+Precio: 9555.992 €

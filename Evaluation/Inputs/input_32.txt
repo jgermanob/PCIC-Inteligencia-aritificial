@@ -1,0 +1,11 @@
+Marca: Sony Ericsson
+Sistema operativo: Android
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 391.682 GB
+Memoria RAM: 4.242 GB
+Camera trasera: 11.652 MP
+Camara frontal: 17.791 MP
+Velocidad del CPU: 2.692 GHz
+Capacidad de la bateria: 10633.63 mAh
+Precio: 1794.824 €

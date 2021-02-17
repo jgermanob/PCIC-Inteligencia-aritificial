@@ -1,0 +1,14 @@
+Marca: Acer
+Modelo: Iconia Tab A3-A20
+Sistema operativo: Android
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 16.0 GB
+Memoria RAM: 3.355 GB
+Camera trasera: 4.646 MP
+Camara frontal: 8.662 MP
+Velocidad del CPU: 0.651 GHz
+Capacidad de la bateria: 6347.898 mAh
+Precio: 190.0 €
+
+Disimilaridad: 10000

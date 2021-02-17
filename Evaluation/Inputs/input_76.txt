@@ -1,0 +1,11 @@
+Marca: Asus
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 209.894 GB
+Memoria RAM: 1.665 GB
+Camera trasera: 5.731 MP
+Camara frontal: 0.969 MP
+Velocidad del CPU: 1.751 GHz
+Capacidad de la bateria: 11124.776 mAh
+Precio: 22110.21 €

@@ -1,0 +1,11 @@
+Marca: Gionee
+Sistema operativo: iOS
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 321.313 GB
+Memoria RAM: 1.957 GB
+Camera trasera: 4.631 MP
+Camara frontal: 9.476 MP
+Velocidad del CPU: 1.774 GHz
+Capacidad de la bateria: 8054.202 mAh
+Precio: 19462.163 €

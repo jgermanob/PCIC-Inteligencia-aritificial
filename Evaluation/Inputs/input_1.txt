@@ -1,0 +1,11 @@
+Marca: XOLO
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 429.845 GB
+Memoria RAM: 0.958 GB
+Camera trasera: 2.56 MP
+Camara frontal: 17.586 MP
+Velocidad del CPU: 2.281 GHz
+Capacidad de la bateria: 3996.877 mAh
+Precio: 7013.078 €

@@ -1,0 +1,11 @@
+Marca: Asus
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 318.65 GB
+Memoria RAM: 1.521 GB
+Camera trasera: 10.727 MP
+Camara frontal: 18.771 MP
+Velocidad del CPU: 2.53 GHz
+Capacidad de la bateria: 7298.286 mAh
+Precio: 11497.313 €

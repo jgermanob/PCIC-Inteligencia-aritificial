@@ -1,0 +1,11 @@
+Marca: Prestigio
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 371.758 GB
+Memoria RAM: 4.426 GB
+Camera trasera: 13.857 MP
+Camara frontal: 17.367 MP
+Velocidad del CPU: 1.665 GHz
+Capacidad de la bateria: 1046.811 mAh
+Precio: 11358.538 €

@@ -1,0 +1,11 @@
+Marca: Pantech
+Sistema operativo: Android
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 378.055 GB
+Memoria RAM: 5.848 GB
+Camera trasera: 8.29 MP
+Camara frontal: 7.88 MP
+Velocidad del CPU: 0.164 GHz
+Capacidad de la bateria: 10444.677 mAh
+Precio: 10215.982 €

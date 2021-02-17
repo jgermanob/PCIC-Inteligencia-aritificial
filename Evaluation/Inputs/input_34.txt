@@ -1,0 +1,11 @@
+Marca: Microsoft
+Sistema operativo: iOS
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 142.258 GB
+Memoria RAM: 1.33 GB
+Camera trasera: 3.911 MP
+Camara frontal: 4.946 MP
+Velocidad del CPU: 0.425 GHz
+Capacidad de la bateria: 4717.585 mAh
+Precio: 17654.158 €

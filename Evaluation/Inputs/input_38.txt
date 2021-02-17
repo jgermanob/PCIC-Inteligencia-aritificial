@@ -1,0 +1,11 @@
+Marca: NEC
+Sistema operativo: Android
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 138.016 GB
+Memoria RAM: 2.991 GB
+Camera trasera: 13.501 MP
+Camara frontal: 15.974 MP
+Velocidad del CPU: 0.64 GHz
+Capacidad de la bateria: 8955.584 mAh
+Precio: 3524.318 €

@@ -1,0 +1,11 @@
+Marca: ZTE
+Sistema operativo: Android
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 203.671 GB
+Memoria RAM: 0.935 GB
+Camera trasera: 21.218 MP
+Camara frontal: 13.126 MP
+Velocidad del CPU: 0.862 GHz
+Capacidad de la bateria: 5951.37 mAh
+Precio: 11960.515 €

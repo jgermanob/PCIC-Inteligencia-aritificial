@@ -1,0 +1,11 @@
+Marca: Huawei
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 277.401 GB
+Memoria RAM: 0.737 GB
+Camera trasera: 3.643 MP
+Camara frontal: 11.485 MP
+Velocidad del CPU: 1.365 GHz
+Capacidad de la bateria: 7293.438 mAh
+Precio: 17938.128 €

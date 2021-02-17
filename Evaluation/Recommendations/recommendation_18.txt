@@ -1,0 +1,14 @@
+Marca: Gionee
+Modelo: A1 Lite
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 32.0 GB
+Memoria RAM: 3.741 GB
+Camera trasera: 1.34 MP
+Camara frontal: 18.441 MP
+Velocidad del CPU: 0.626 GHz
+Capacidad de la bateria: 6714.557 mAh
+Precio: 27000.0 €
+
+Disimilaridad: 10000

@@ -1,0 +1,11 @@
+Marca: Lava
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 306.869 GB
+Memoria RAM: 5.884 GB
+Camera trasera: 21.271 MP
+Camara frontal: 2.178 MP
+Velocidad del CPU: 0.81 GHz
+Capacidad de la bateria: 3057.235 mAh
+Precio: 23960.756 €

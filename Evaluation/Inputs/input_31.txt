@@ -1,0 +1,11 @@
+Marca: Spice
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 182.366 GB
+Memoria RAM: 4.961 GB
+Camera trasera: 13.558 MP
+Camara frontal: 13.157 MP
+Velocidad del CPU: 0.81 GHz
+Capacidad de la bateria: 9335.583 mAh
+Precio: 23242.98 €

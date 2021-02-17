@@ -1,0 +1,11 @@
+Marca: Sharp
+Sistema operativo: Android
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 100.861 GB
+Memoria RAM: 5.68 GB
+Camera trasera: 23.827 MP
+Camara frontal: 17.08 MP
+Velocidad del CPU: 0.034 GHz
+Capacidad de la bateria: 2455.362 mAh
+Precio: 23694.117 €

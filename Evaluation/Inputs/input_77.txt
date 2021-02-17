@@ -1,0 +1,11 @@
+Marca: Dell
+Sistema operativo: iOS
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 194.516 GB
+Memoria RAM: 0.789 GB
+Camera trasera: 3.379 MP
+Camara frontal: 16.257 MP
+Velocidad del CPU: 2.415 GHz
+Capacidad de la bateria: 6541.685 mAh
+Precio: 26732.943 €

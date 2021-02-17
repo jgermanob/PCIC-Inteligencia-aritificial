@@ -1,0 +1,11 @@
+Marca: BQ
+Sistema operativo: Windows
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 184.65 GB
+Memoria RAM: 0.879 GB
+Camera trasera: 11.716 MP
+Camara frontal: 18.839 MP
+Velocidad del CPU: 1.492 GHz
+Capacidad de la bateria: 9029.687 mAh
+Precio: 6895.925 €

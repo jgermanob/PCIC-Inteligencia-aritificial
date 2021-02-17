@@ -1,0 +1,11 @@
+Marca: Sony
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 143.555 GB
+Memoria RAM: 0.571 GB
+Camera trasera: 18.641 MP
+Camara frontal: 15.111 MP
+Velocidad del CPU: 0.852 GHz
+Capacidad de la bateria: 9242.301 mAh
+Precio: 22749.694 €

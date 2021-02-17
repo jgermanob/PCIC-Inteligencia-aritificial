@@ -1,0 +1,11 @@
+Marca: Acer
+Sistema operativo: Windows
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 19.744 GB
+Memoria RAM: 2.632 GB
+Camera trasera: 14.435 MP
+Camara frontal: 1.623 MP
+Velocidad del CPU: 0.654 GHz
+Capacidad de la bateria: 1824.543 mAh
+Precio: 21600.857 €

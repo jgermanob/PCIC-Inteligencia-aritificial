@@ -1,0 +1,11 @@
+Marca: Prestigio
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 462.91 GB
+Memoria RAM: 4.343 GB
+Camera trasera: 12.474 MP
+Camara frontal: 8.726 MP
+Velocidad del CPU: 0.157 GHz
+Capacidad de la bateria: 30.396 mAh
+Precio: 25476.685 €

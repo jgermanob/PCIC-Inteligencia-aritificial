@@ -1,0 +1,11 @@
+Marca: Huawei
+Sistema operativo: iOS
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 233.175 GB
+Memoria RAM: 3.622 GB
+Camera trasera: 9.555 MP
+Camara frontal: 1.388 MP
+Velocidad del CPU: 0.724 GHz
+Capacidad de la bateria: 3934.965 mAh
+Precio: 8006.356 €

@@ -1,0 +1,11 @@
+Marca: LG
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 485.95 GB
+Memoria RAM: 2.726 GB
+Camera trasera: 17.027 MP
+Camara frontal: 2.851 MP
+Velocidad del CPU: 1.853 GHz
+Capacidad de la bateria: 12.892 mAh
+Precio: 11714.088 €

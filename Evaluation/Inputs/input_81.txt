@@ -1,0 +1,11 @@
+Marca: T-Mobile
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 492.312 GB
+Memoria RAM: 4.0 GB
+Camera trasera: 6.168 MP
+Camara frontal: 13.288 MP
+Velocidad del CPU: 1.455 GHz
+Capacidad de la bateria: 7450.137 mAh
+Precio: 4964.168 €

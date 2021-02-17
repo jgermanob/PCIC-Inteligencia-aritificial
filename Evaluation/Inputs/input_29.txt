@@ -1,0 +1,11 @@
+Marca: verykool
+Sistema operativo: Android
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 312.127 GB
+Memoria RAM: 3.73 GB
+Camera trasera: 22.056 MP
+Camara frontal: 9.596 MP
+Velocidad del CPU: 0.147 GHz
+Capacidad de la bateria: 2484.198 mAh
+Precio: 15579.568 €

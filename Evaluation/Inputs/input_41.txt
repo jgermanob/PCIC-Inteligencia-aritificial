@@ -1,0 +1,11 @@
+Marca: Archos
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 42.363 GB
+Memoria RAM: 1.792 GB
+Camera trasera: 22.747 MP
+Camara frontal: 11.127 MP
+Velocidad del CPU: 1.193 GHz
+Capacidad de la bateria: 3957.692 mAh
+Precio: 13431.129 €

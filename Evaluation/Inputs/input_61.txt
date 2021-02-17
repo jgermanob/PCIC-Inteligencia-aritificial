@@ -1,0 +1,11 @@
+Marca: Oppo
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 326.734 GB
+Memoria RAM: 4.877 GB
+Camera trasera: 18.4 MP
+Camara frontal: 11.164 MP
+Velocidad del CPU: 2.41 GHz
+Capacidad de la bateria: 6518.115 mAh
+Precio: 348.888 €

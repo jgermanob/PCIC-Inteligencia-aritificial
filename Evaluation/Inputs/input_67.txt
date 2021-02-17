@@ -1,0 +1,11 @@
+Marca: Vodafone
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 114.079 GB
+Memoria RAM: 1.533 GB
+Camera trasera: 19.46 MP
+Camara frontal: 3.788 MP
+Velocidad del CPU: 2.163 GHz
+Capacidad de la bateria: 8933.208 mAh
+Precio: 21750.868 €

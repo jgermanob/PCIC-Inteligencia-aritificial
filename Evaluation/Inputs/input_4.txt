@@ -1,0 +1,11 @@
+Marca: Amazon
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 171.924 GB
+Memoria RAM: 5.639 GB
+Camera trasera: 16.701 MP
+Camara frontal: 14.2 MP
+Velocidad del CPU: 1.913 GHz
+Capacidad de la bateria: 8539.55 mAh
+Precio: 3619.491 €

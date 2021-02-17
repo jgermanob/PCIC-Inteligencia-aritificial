@@ -1,0 +1,11 @@
+Marca: Vertu
+Sistema operativo: Android
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 58.624 GB
+Memoria RAM: 3.835 GB
+Camera trasera: 7.094 MP
+Camara frontal: 4.773 MP
+Velocidad del CPU: 0.661 GHz
+Capacidad de la bateria: 587.527 mAh
+Precio: 6133.45 €

@@ -1,0 +1,11 @@
+Marca: Microsoft
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 248.723 GB
+Memoria RAM: 4.181 GB
+Camera trasera: 9.141 MP
+Camara frontal: 17.692 MP
+Velocidad del CPU: 0.77 GHz
+Capacidad de la bateria: 6989.9 mAh
+Precio: 21048.473 €

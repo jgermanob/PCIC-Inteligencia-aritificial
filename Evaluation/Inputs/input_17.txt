@@ -1,0 +1,11 @@
+Marca: Acer
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 257.539 GB
+Memoria RAM: 1.694 GB
+Camera trasera: 11.222 MP
+Camara frontal: 9.505 MP
+Velocidad del CPU: 2.622 GHz
+Capacidad de la bateria: 4009.991 mAh
+Precio: 8833.658 €

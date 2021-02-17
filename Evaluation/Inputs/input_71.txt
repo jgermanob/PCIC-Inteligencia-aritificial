@@ -1,0 +1,11 @@
+Marca: Lenovo
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 357.59 GB
+Memoria RAM: 2.542 GB
+Camera trasera: 19.499 MP
+Camara frontal: 9.735 MP
+Velocidad del CPU: 2.573 GHz
+Capacidad de la bateria: 644.082 mAh
+Precio: 18438.747 €

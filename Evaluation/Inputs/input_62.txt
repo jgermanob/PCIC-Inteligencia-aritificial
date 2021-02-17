@@ -1,0 +1,11 @@
+Marca: BQ
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 152.568 GB
+Memoria RAM: 5.696 GB
+Camera trasera: 4.69 MP
+Camara frontal: 3.773 MP
+Velocidad del CPU: 1.172 GHz
+Capacidad de la bateria: 7209.426 mAh
+Precio: 19518.165 €

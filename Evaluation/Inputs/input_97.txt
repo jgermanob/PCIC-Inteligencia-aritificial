@@ -1,0 +1,11 @@
+Marca: BLU
+Sistema operativo: Windows
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 429.307 GB
+Memoria RAM: 1.478 GB
+Camera trasera: 10.44 MP
+Camara frontal: 12.458 MP
+Velocidad del CPU: 0.541 GHz
+Capacidad de la bateria: 5418.469 mAh
+Precio: 25529.006 €

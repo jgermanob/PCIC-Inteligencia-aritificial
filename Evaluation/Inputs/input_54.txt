@@ -1,0 +1,11 @@
+Marca: Micromax
+Sistema operativo: iOS
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 30.2 GB
+Memoria RAM: 3.038 GB
+Camera trasera: 2.141 MP
+Camara frontal: 15.785 MP
+Velocidad del CPU: 1.936 GHz
+Capacidad de la bateria: 5349.001 mAh
+Precio: 24234.471 €

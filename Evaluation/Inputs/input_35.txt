@@ -1,0 +1,11 @@
+Marca: BLU
+Sistema operativo: Android
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 23.788 GB
+Memoria RAM: 0.574 GB
+Camera trasera: 16.762 MP
+Camara frontal: 13.666 MP
+Velocidad del CPU: 0.175 GHz
+Capacidad de la bateria: 3749.828 mAh
+Precio: 22817.902 €

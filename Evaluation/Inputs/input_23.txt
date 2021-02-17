@@ -1,0 +1,11 @@
+Marca: BlackBerry
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 179.151 GB
+Memoria RAM: 0.633 GB
+Camera trasera: 3.436 MP
+Camara frontal: 14.893 MP
+Velocidad del CPU: 2.574 GHz
+Capacidad de la bateria: 3792.844 mAh
+Precio: 19886.152 €

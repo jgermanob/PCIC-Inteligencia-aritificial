@@ -1,0 +1,11 @@
+Marca: verykool
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: Si
+Memoria interna: 154.614 GB
+Memoria RAM: 2.038 GB
+Camera trasera: 14.941 MP
+Camara frontal: 17.101 MP
+Velocidad del CPU: 2.196 GHz
+Capacidad de la bateria: 5865.332 mAh
+Precio: 2346.478 €

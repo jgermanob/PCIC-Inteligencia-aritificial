@@ -1,0 +1,11 @@
+Marca: Vodafone
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 47.527 GB
+Memoria RAM: 1.795 GB
+Camera trasera: 16.787 MP
+Camara frontal: 1.884 MP
+Velocidad del CPU: 1.064 GHz
+Capacidad de la bateria: 4370.363 mAh
+Precio: 20140.952 €

@@ -1,0 +1,11 @@
+Marca: alcatel
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 61.448 GB
+Memoria RAM: 1.245 GB
+Camera trasera: 22.148 MP
+Camara frontal: 14.584 MP
+Velocidad del CPU: 2.626 GHz
+Capacidad de la bateria: 11432.694 mAh
+Precio: 5087.584 €
