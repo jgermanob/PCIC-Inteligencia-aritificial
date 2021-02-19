@@ -1,0 +1,1 @@
+Recomendacion: No existe telefono menor o igual a ese precio y de esa marca
