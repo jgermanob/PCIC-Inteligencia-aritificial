@@ -1,11 +1,11 @@
-Marca: Acer
-Sistema operativo: iOS
+Marca: Vodafone
+Sistema operativo: BlackBerry
 Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 221.954 GB
-Memoria RAM: 1.851 GB
-Camera trasera: 4.957 MP
-Camara frontal: 12.713 MP
-Velocidad del CPU: 0.544 GHz
-Capacidad de la bateria: 11106.773 mAh
-Precio: 16090.758 €
+Memoria interna: 105.971 GB
+Memoria RAM: 0.683 GB
+Camera trasera: 3.247 MP
+Camara frontal: 19.977 MP
+Velocidad del CPU: 1.019 GHz
+Capacidad de la bateria: 10755.988 mAh
+Precio: 4400.078 €

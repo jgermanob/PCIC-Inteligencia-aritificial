@@ -1,11 +1,11 @@
-Marca: QMobile
+Marca: Dell
 Sistema operativo: BlackBerry
 Tipo de bateria: Li-Ion
 Bateria removible: No
-Memoria interna: 11.419 GB
-Memoria RAM: 4.979 GB
-Camera trasera: 1.246 MP
-Camara frontal: 6.54 MP
-Velocidad del CPU: 0.519 GHz
-Capacidad de la bateria: 4701.919 mAh
-Precio: 24470.123 €
+Memoria interna: 207.681 GB
+Memoria RAM: 0.452 GB
+Camera trasera: 23.977 MP
+Camara frontal: 10.882 MP
+Velocidad del CPU: 1.851 GHz
+Capacidad de la bateria: 4337.738 mAh
+Precio: 6226.579 €

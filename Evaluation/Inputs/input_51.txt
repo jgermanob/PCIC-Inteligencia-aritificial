@@ -1,11 +1,11 @@
-Marca: XOLO
-Sistema operativo: Android
-Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 38.102 GB
-Memoria RAM: 3.045 GB
-Camera trasera: 5.672 MP
-Camara frontal: 10.123 MP
-Velocidad del CPU: 2.677 GHz
-Capacidad de la bateria: 4634.975 mAh
-Precio: 10194.598 €
+Marca: Spice
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 146.374 GB
+Memoria RAM: 0.767 GB
+Camera trasera: 14.425 MP
+Camara frontal: 14.369 MP
+Velocidad del CPU: 0.793 GHz
+Capacidad de la bateria: 3507.846 mAh
+Precio: 14234.746 €

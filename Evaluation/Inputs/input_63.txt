@@ -1,11 +1,11 @@
-Marca: LeEco
-Sistema operativo: Android
-Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 435.873 GB
-Memoria RAM: 4.318 GB
-Camera trasera: 19.221 MP
-Camara frontal: 15.067 MP
-Velocidad del CPU: 0.705 GHz
-Capacidad de la bateria: 3411.565 mAh
-Precio: 24636.973 €
+Marca: BenQ
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 49.476 GB
+Memoria RAM: 2.69 GB
+Camera trasera: 22.84 MP
+Camara frontal: 1.859 MP
+Velocidad del CPU: 0.171 GHz
+Capacidad de la bateria: 6326.596 mAh
+Precio: 15299.992 €

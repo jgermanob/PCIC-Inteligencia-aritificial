@@ -1,11 +1,11 @@
-Marca: XOLO
-Sistema operativo: BlackBerry
+Marca: NEC
+Sistema operativo: iOS
 Tipo de bateria: Li-Po
-Bateria removible: Si
-Memoria interna: 333.77 GB
-Memoria RAM: 3.971 GB
-Camera trasera: 4.738 MP
-Camara frontal: 17.733 MP
-Velocidad del CPU: 0.178 GHz
-Capacidad de la bateria: 6820.655 mAh
-Precio: 6357.578 €
+Bateria removible: No
+Memoria interna: 66.556 GB
+Memoria RAM: 5.335 GB
+Camera trasera: 2.999 MP
+Camara frontal: 3.489 MP
+Velocidad del CPU: 1.421 GHz
+Capacidad de la bateria: 3505.182 mAh
+Precio: 25808.615 €

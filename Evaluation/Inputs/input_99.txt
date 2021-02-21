@@ -1,11 +1,11 @@
-Marca: Microsoft
-Sistema operativo: Android
-Tipo de bateria: Li-Ion
+Marca: T-Mobile
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 198.233 GB
-Memoria RAM: 2.491 GB
-Camera trasera: 4.033 MP
-Camara frontal: 13.941 MP
-Velocidad del CPU: 0.434 GHz
-Capacidad de la bateria: 4733.411 mAh
-Precio: 3011.457 €
+Memoria interna: 210.482 GB
+Memoria RAM: 3.833 GB
+Camera trasera: 5.224 MP
+Camara frontal: 7.958 MP
+Velocidad del CPU: 1.102 GHz
+Capacidad de la bateria: 1701.546 mAh
+Precio: 19311.596 €

@@ -1,11 +1,11 @@
-Marca: LeEco
-Sistema operativo: Android
-Tipo de bateria: Li-Po
-Bateria removible: Si
-Memoria interna: 279.534 GB
-Memoria RAM: 0.628 GB
-Camera trasera: 3.347 MP
-Camara frontal: 14.728 MP
-Velocidad del CPU: 0.61 GHz
-Capacidad de la bateria: 11009.981 mAh
-Precio: 7506.481 €
+Marca: Sony Ericsson
+Sistema operativo: Windows
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 173.904 GB
+Memoria RAM: 5.342 GB
+Camera trasera: 13.003 MP
+Camara frontal: 14.434 MP
+Velocidad del CPU: 1.316 GHz
+Capacidad de la bateria: 5093.465 mAh
+Precio: 842.996 €

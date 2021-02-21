@@ -1,11 +1,11 @@
-Marca: BQ
-Sistema operativo: Android
-Tipo de bateria: Li-Ion
+Marca: Vodafone
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 64.557 GB
-Memoria RAM: 3.339 GB
-Camera trasera: 13.413 MP
-Camara frontal: 1.243 MP
-Velocidad del CPU: 2.637 GHz
-Capacidad de la bateria: 16.796 mAh
-Precio: 2641.885 €
+Memoria interna: 18.309 GB
+Memoria RAM: 4.383 GB
+Camera trasera: 8.662 MP
+Camara frontal: 1.752 MP
+Velocidad del CPU: 1.745 GHz
+Capacidad de la bateria: 3718.021 mAh
+Precio: 22413.126 €

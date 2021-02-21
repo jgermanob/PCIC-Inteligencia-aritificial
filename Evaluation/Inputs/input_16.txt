@@ -1,11 +1,11 @@
-Marca: BenQ
+Marca: Archos
 Sistema operativo: Android
 Tipo de bateria: Li-Po
-Bateria removible: No
-Memoria interna: 74.523 GB
-Memoria RAM: 4.7 GB
-Camera trasera: 4.752 MP
-Camara frontal: 19.744 MP
-Velocidad del CPU: 0.081 GHz
-Capacidad de la bateria: 4344.943 mAh
-Precio: 23063.577 €
+Bateria removible: Si
+Memoria interna: 282.038 GB
+Memoria RAM: 0.556 GB
+Camera trasera: 0.714 MP
+Camara frontal: 8.766 MP
+Velocidad del CPU: 0.497 GHz
+Capacidad de la bateria: 9172.021 mAh
+Precio: 18615.07 €

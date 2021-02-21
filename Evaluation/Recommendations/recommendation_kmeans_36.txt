@@ -1,14 +1,14 @@
 Marca: Acer
-Modelo: Iconia Talk S
+Modelo: Iconia Tab A3-A20
 Sistema operativo: Android
-Tipo de bateria: Li-Ion
+Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 32.0 GB
-Memoria RAM: 4.979 GB
-Camera trasera: 1.246 MP
-Camara frontal: 6.54 MP
-Velocidad del CPU: 0.519 GHz
-Capacidad de la bateria: 4701.919 mAh
-Precio: 170.0 €
+Memoria interna: 16.0 GB
+Memoria RAM: 1.0 GB
+Camera trasera: 5.0 MP
+Camara frontal: 2.0 MP
+Velocidad del CPU: 1.3 GHz
+Capacidad de la bateria: 5910.0 mAh
+Precio: 190.0 €
 
 Disimilaridad: 10000

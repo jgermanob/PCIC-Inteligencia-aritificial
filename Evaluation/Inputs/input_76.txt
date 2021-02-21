@@ -1,11 +1,11 @@
-Marca: Vodafone
-Sistema operativo: Windows
-Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 478.573 GB
-Memoria RAM: 4.034 GB
-Camera trasera: 5.844 MP
-Camara frontal: 13.341 MP
-Velocidad del CPU: 0.004 GHz
-Capacidad de la bateria: 8168.073 mAh
-Precio: 16704.282 €
+Marca: Oppo
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 214.315 GB
+Memoria RAM: 0.681 GB
+Camera trasera: 13.31 MP
+Camara frontal: 9.419 MP
+Velocidad del CPU: 0.065 GHz
+Capacidad de la bateria: 9435.411 mAh
+Precio: 16240.444 €

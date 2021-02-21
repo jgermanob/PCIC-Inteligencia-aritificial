@@ -1,11 +1,11 @@
-Marca: Lenovo
-Sistema operativo: iOS
+Marca: vivo
+Sistema operativo: Android
 Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 92.604 GB
-Memoria RAM: 2.85 GB
-Camera trasera: 22.051 MP
-Camara frontal: 18.458 MP
-Velocidad del CPU: 0.68 GHz
-Capacidad de la bateria: 1485.017 mAh
-Precio: 26048.908 €
+Memoria interna: 379.527 GB
+Memoria RAM: 1.257 GB
+Camera trasera: 12.542 MP
+Camara frontal: 2.933 MP
+Velocidad del CPU: 0.551 GHz
+Capacidad de la bateria: 10647.69 mAh
+Precio: 16263.726 €

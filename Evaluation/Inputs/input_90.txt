@@ -1,11 +1,11 @@
-Marca: Samsung
+Marca: Nokia
 Sistema operativo: Windows
 Tipo de bateria: Li-Ion
-Bateria removible: No
-Memoria interna: 507.197 GB
-Memoria RAM: 0.279 GB
-Camera trasera: 3.033 MP
-Camara frontal: 14.441 MP
-Velocidad del CPU: 1.657 GHz
-Capacidad de la bateria: 3424.181 mAh
-Precio: 3331.97 €
+Bateria removible: Si
+Memoria interna: 85.081 GB
+Memoria RAM: 1.978 GB
+Camera trasera: 18.656 MP
+Camara frontal: 13.379 MP
+Velocidad del CPU: 1.673 GHz
+Capacidad de la bateria: 9862.293 mAh
+Precio: 23779.594 €

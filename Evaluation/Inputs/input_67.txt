@@ -1,11 +1,11 @@
-Marca: Wiko
-Sistema operativo: Windows
-Tipo de bateria: Li-Po
-Bateria removible: No
-Memoria interna: 277.505 GB
-Memoria RAM: 1.804 GB
-Camera trasera: 4.713 MP
-Camara frontal: 4.594 MP
-Velocidad del CPU: 2.574 GHz
-Capacidad de la bateria: 1420.499 mAh
-Precio: 23244.491 €
+Marca: LeEco
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 223.756 GB
+Memoria RAM: 4.213 GB
+Camera trasera: 1.192 MP
+Camara frontal: 14.668 MP
+Velocidad del CPU: 2.567 GHz
+Capacidad de la bateria: 2665.252 mAh
+Precio: 3822.53 €

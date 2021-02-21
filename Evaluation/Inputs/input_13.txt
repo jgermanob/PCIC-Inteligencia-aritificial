@@ -1,11 +1,11 @@
-Marca: Micromax
-Sistema operativo: Windows
+Marca: YU
+Sistema operativo: BlackBerry
 Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 267.651 GB
-Memoria RAM: 2.135 GB
-Camera trasera: 11.434 MP
-Camara frontal: 8.887 MP
-Velocidad del CPU: 1.585 GHz
-Capacidad de la bateria: 2212.307 mAh
-Precio: 20219.1 €
+Memoria interna: 238.463 GB
+Memoria RAM: 4.07 GB
+Camera trasera: 21.591 MP
+Camara frontal: 2.28 MP
+Velocidad del CPU: 1.307 GHz
+Capacidad de la bateria: 7990.734 mAh
+Precio: 12370.195 €

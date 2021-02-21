@@ -1,11 +1,11 @@
-Marca: HP
-Sistema operativo: Android
+Marca: Archos
+Sistema operativo: Windows
 Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 420.846 GB
-Memoria RAM: 4.042 GB
-Camera trasera: 15.056 MP
-Camara frontal: 4.634 MP
-Velocidad del CPU: 1.519 GHz
-Capacidad de la bateria: 3880.093 mAh
-Precio: 21914.728 €
+Memoria interna: 367.453 GB
+Memoria RAM: 5.357 GB
+Camera trasera: 17.108 MP
+Camara frontal: 1.236 MP
+Velocidad del CPU: 2.341 GHz
+Capacidad de la bateria: 11420.878 mAh
+Precio: 2924.858 €

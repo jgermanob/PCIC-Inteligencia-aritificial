@@ -1,11 +1,11 @@
-Marca: Coolpad
-Sistema operativo: Android
+Marca: Wiko
+Sistema operativo: Windows
 Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 366.672 GB
-Memoria RAM: 2.374 GB
-Camera trasera: 19.672 MP
-Camara frontal: 5.038 MP
-Velocidad del CPU: 2.057 GHz
-Capacidad de la bateria: 9137.776 mAh
-Precio: 13420.553 €
+Memoria interna: 406.526 GB
+Memoria RAM: 5.776 GB
+Camera trasera: 12.776 MP
+Camara frontal: 18.566 MP
+Velocidad del CPU: 2.568 GHz
+Capacidad de la bateria: 4513.183 mAh
+Precio: 25828.635 €

@@ -1,11 +1,11 @@
-Marca: Wiko
-Sistema operativo: Android
-Tipo de bateria: Li-Ion
+Marca: BlackBerry
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 203.8 GB
-Memoria RAM: 4.939 GB
-Camera trasera: 17.948 MP
-Camara frontal: 15.379 MP
-Velocidad del CPU: 0.317 GHz
-Capacidad de la bateria: 4830.558 mAh
-Precio: 11406.128 €
+Memoria interna: 203.916 GB
+Memoria RAM: 5.866 GB
+Camera trasera: 12.053 MP
+Camara frontal: 18.11 MP
+Velocidad del CPU: 2.567 GHz
+Capacidad de la bateria: 4536.96 mAh
+Precio: 25837.814 €

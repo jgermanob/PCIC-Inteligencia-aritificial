@@ -1,11 +1,11 @@
-Marca: OnePlus
+Marca: Lenovo
 Sistema operativo: iOS
-Tipo de bateria: Li-Po
-Bateria removible: No
-Memoria interna: 97.616 GB
-Memoria RAM: 3.651 GB
-Camera trasera: 5.034 MP
-Camara frontal: 3.543 MP
-Velocidad del CPU: 0.416 GHz
-Capacidad de la bateria: 2463.616 mAh
-Precio: 24917.927 €
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 407.067 GB
+Memoria RAM: 4.502 GB
+Camera trasera: 4.49 MP
+Camara frontal: 13.99 MP
+Velocidad del CPU: 0.799 GHz
+Capacidad de la bateria: 1389.474 mAh
+Precio: 16500.375 €

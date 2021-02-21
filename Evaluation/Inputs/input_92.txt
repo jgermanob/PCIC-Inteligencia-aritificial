@@ -1,11 +1,11 @@
-Marca: QMobile
-Sistema operativo: Android
-Tipo de bateria: Li-Ion
+Marca: Amazon
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 13.715 GB
-Memoria RAM: 1.386 GB
-Camera trasera: 20.089 MP
-Camara frontal: 5.912 MP
-Velocidad del CPU: 1.641 GHz
-Capacidad de la bateria: 1896.179 mAh
-Precio: 3836.924 €
+Memoria interna: 199.358 GB
+Memoria RAM: 1.909 GB
+Camera trasera: 21.088 MP
+Camara frontal: 1.536 MP
+Velocidad del CPU: 0.619 GHz
+Capacidad de la bateria: 7031.684 mAh
+Precio: 22280.517 €

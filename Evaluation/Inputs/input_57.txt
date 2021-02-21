@@ -1,11 +1,11 @@
-Marca: Vertu
-Sistema operativo: Android
-Tipo de bateria: Li-Po
+Marca: QMobile
+Sistema operativo: iOS
+Tipo de bateria: Li-Ion
 Bateria removible: No
-Memoria interna: 56.795 GB
-Memoria RAM: 5.557 GB
-Camera trasera: 12.021 MP
-Camara frontal: 11.579 MP
-Velocidad del CPU: 1.443 GHz
-Capacidad de la bateria: 6672.806 mAh
-Precio: 10844.896 €
+Memoria interna: 469.337 GB
+Memoria RAM: 3.557 GB
+Camera trasera: 18.53 MP
+Camara frontal: 6.004 MP
+Velocidad del CPU: 2.371 GHz
+Capacidad de la bateria: 5344.842 mAh
+Precio: 14940.285 €

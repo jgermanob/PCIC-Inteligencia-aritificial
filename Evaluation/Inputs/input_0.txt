@@ -1,11 +1,11 @@
-Marca: Allview
+Marca: Samsung
 Sistema operativo: Android
-Tipo de bateria: Li-Ion
+Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 68.365 GB
-Memoria RAM: 1.339 GB
-Camera trasera: 19.97 MP
-Camara frontal: 17.021 MP
-Velocidad del CPU: 2.025 GHz
-Capacidad de la bateria: 2865.874 mAh
-Precio: 7079.531 €
+Memoria interna: 484.072 GB
+Memoria RAM: 4.707 GB
+Camera trasera: 0.85 MP
+Camara frontal: 14.308 MP
+Velocidad del CPU: 2.661 GHz
+Capacidad de la bateria: 7441.255 mAh
+Precio: 20665.919 €

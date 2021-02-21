@@ -1,11 +1,11 @@
-Marca: Sharp
-Sistema operativo: BlackBerry
-Tipo de bateria: Li-Ion
+Marca: Casio
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 120.888 GB
-Memoria RAM: 4.924 GB
-Camera trasera: 23.638 MP
-Camara frontal: 7.907 MP
-Velocidad del CPU: 1.692 GHz
-Capacidad de la bateria: 1809.971 mAh
-Precio: 21514.247 €
+Memoria interna: 56.307 GB
+Memoria RAM: 1.802 GB
+Camera trasera: 19.36 MP
+Camara frontal: 19.648 MP
+Velocidad del CPU: 0.831 GHz
+Capacidad de la bateria: 6856.981 mAh
+Precio: 3975.26 €

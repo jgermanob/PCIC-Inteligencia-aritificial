@@ -1,11 +1,11 @@
-Marca: Gionee
-Sistema operativo: Windows
+Marca: Samsung
+Sistema operativo: iOS
 Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 482.204 GB
-Memoria RAM: 1.81 GB
-Camera trasera: 14.434 MP
-Camara frontal: 2.849 MP
-Velocidad del CPU: 1.215 GHz
-Capacidad de la bateria: 5063.54 mAh
-Precio: 4783.22 €
+Memoria interna: 447.464 GB
+Memoria RAM: 5.872 GB
+Camera trasera: 19.768 MP
+Camara frontal: 2.257 MP
+Velocidad del CPU: 0.644 GHz
+Capacidad de la bateria: 7813.984 mAh
+Precio: 26106.268 €

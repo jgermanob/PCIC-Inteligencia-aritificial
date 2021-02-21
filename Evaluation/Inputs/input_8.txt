@@ -1,11 +1,11 @@
-Marca: BenQ
-Sistema operativo: Android
+Marca: LG
+Sistema operativo: iOS
 Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 292.148 GB
-Memoria RAM: 3.672 GB
-Camera trasera: 16.327 MP
-Camara frontal: 9.161 MP
-Velocidad del CPU: 1.808 GHz
-Capacidad de la bateria: 564.448 mAh
-Precio: 11204.682 €
+Memoria interna: 484.153 GB
+Memoria RAM: 3.903 GB
+Camera trasera: 4.147 MP
+Camara frontal: 16.976 MP
+Velocidad del CPU: 0.537 GHz
+Capacidad de la bateria: 570.461 mAh
+Precio: 17859.411 €

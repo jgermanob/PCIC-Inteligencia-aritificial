@@ -1,11 +1,11 @@
-Marca: Samsung
-Sistema operativo: Windows
+Marca: Vertu
+Sistema operativo: iOS
 Tipo de bateria: Li-Po
-Bateria removible: No
-Memoria interna: 55.759 GB
-Memoria RAM: 1.231 GB
-Camera trasera: 15.165 MP
-Camara frontal: 14.731 MP
-Velocidad del CPU: 0.938 GHz
-Capacidad de la bateria: 10506.515 mAh
-Precio: 26078.093 €
+Bateria removible: Si
+Memoria interna: 26.676 GB
+Memoria RAM: 3.085 GB
+Camera trasera: 8.285 MP
+Camara frontal: 13.373 MP
+Velocidad del CPU: 2.328 GHz
+Capacidad de la bateria: 661.149 mAh
+Precio: 22502.547 €

@@ -1,11 +1,11 @@
-Marca: BenQ
-Sistema operativo: iOS
+Marca: Spice
+Sistema operativo: Android
 Tipo de bateria: Li-Po
-Bateria removible: No
-Memoria interna: 339.896 GB
-Memoria RAM: 4.332 GB
-Camera trasera: 15.375 MP
-Camara frontal: 15.729 MP
-Velocidad del CPU: 0.574 GHz
-Capacidad de la bateria: 4894.325 mAh
-Precio: 17527.54 €
+Bateria removible: Si
+Memoria interna: 321.63 GB
+Memoria RAM: 2.99 GB
+Camera trasera: 18.73 MP
+Camara frontal: 13.504 MP
+Velocidad del CPU: 1.143 GHz
+Capacidad de la bateria: 3276.238 mAh
+Precio: 15932.065 €

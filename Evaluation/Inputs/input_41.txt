@@ -1,11 +1,11 @@
-Marca: Yota
+Marca: XOLO
 Sistema operativo: Windows
-Tipo de bateria: Li-Po
-Bateria removible: Si
-Memoria interna: 243.144 GB
-Memoria RAM: 3.255 GB
-Camera trasera: 6.793 MP
-Camara frontal: 11.398 MP
-Velocidad del CPU: 1.484 GHz
-Capacidad de la bateria: 4920.767 mAh
-Precio: 19933.394 €
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 126.741 GB
+Memoria RAM: 2.644 GB
+Camera trasera: 20.859 MP
+Camara frontal: 3.363 MP
+Velocidad del CPU: 2.32 GHz
+Capacidad de la bateria: 11087.576 mAh
+Precio: 23162.851 €

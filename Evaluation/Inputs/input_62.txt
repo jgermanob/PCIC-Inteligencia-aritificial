@@ -1,11 +1,11 @@
-Marca: Amazon
-Sistema operativo: Android
+Marca: Nokia
+Sistema operativo: iOS
 Tipo de bateria: Li-Ion
-Bateria removible: No
-Memoria interna: 60.779 GB
-Memoria RAM: 2.406 GB
-Camera trasera: 20.467 MP
-Camara frontal: 13.81 MP
-Velocidad del CPU: 2.684 GHz
-Capacidad de la bateria: 7881.001 mAh
-Precio: 14837.344 €
+Bateria removible: Si
+Memoria interna: 40.695 GB
+Memoria RAM: 2.233 GB
+Camera trasera: 5.436 MP
+Camara frontal: 2.956 MP
+Velocidad del CPU: 1.046 GHz
+Capacidad de la bateria: 2205.472 mAh
+Precio: 2971.594 €

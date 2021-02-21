@@ -1,11 +1,11 @@
-Marca: YU
-Sistema operativo: Android
+Marca: Sharp
+Sistema operativo: Windows
 Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 464.841 GB
-Memoria RAM: 4.705 GB
-Camera trasera: 12.438 MP
-Camara frontal: 9.954 MP
-Velocidad del CPU: 2.208 GHz
-Capacidad de la bateria: 7034.357 mAh
-Precio: 15625.413 €
+Bateria removible: No
+Memoria interna: 281.793 GB
+Memoria RAM: 4.081 GB
+Camera trasera: 17.196 MP
+Camara frontal: 9.117 MP
+Velocidad del CPU: 0.798 GHz
+Capacidad de la bateria: 460.364 mAh
+Precio: 15708.26 €

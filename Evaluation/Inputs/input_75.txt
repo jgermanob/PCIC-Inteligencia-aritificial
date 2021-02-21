@@ -1,11 +1,11 @@
-Marca: Microsoft
-Sistema operativo: iOS
+Marca: Panasonic
+Sistema operativo: Android
 Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 360.257 GB
-Memoria RAM: 1.462 GB
-Camera trasera: 7.562 MP
-Camara frontal: 19.194 MP
-Velocidad del CPU: 1.411 GHz
-Capacidad de la bateria: 11472.129 mAh
-Precio: 22935.225 €
+Memoria interna: 242.184 GB
+Memoria RAM: 2.499 GB
+Camera trasera: 17.151 MP
+Camara frontal: 3.35 MP
+Velocidad del CPU: 0.471 GHz
+Capacidad de la bateria: 8380.723 mAh
+Precio: 1425.371 €

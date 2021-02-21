@@ -1,11 +1,11 @@
-Marca: Sonim
-Sistema operativo: iOS
-Tipo de bateria: Li-Po
-Bateria removible: Si
-Memoria interna: 328.797 GB
-Memoria RAM: 5.827 GB
-Camera trasera: 4.847 MP
-Camara frontal: 15.396 MP
-Velocidad del CPU: 1.876 GHz
-Capacidad de la bateria: 2095.0 mAh
-Precio: 26007.234 €
+Marca: vivo
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 499.719 GB
+Memoria RAM: 4.622 GB
+Camera trasera: 10.214 MP
+Camara frontal: 11.573 MP
+Velocidad del CPU: 1.796 GHz
+Capacidad de la bateria: 621.391 mAh
+Precio: 10783.804 €

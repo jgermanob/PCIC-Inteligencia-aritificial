@@ -1,11 +1,11 @@
-Marca: Pantech
-Sistema operativo: Android
-Tipo de bateria: Li-Ion
+Marca: HP
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 219.079 GB
-Memoria RAM: 5.428 GB
-Camera trasera: 10.241 MP
-Camara frontal: 10.618 MP
-Velocidad del CPU: 1.52 GHz
-Capacidad de la bateria: 8831.479 mAh
-Precio: 2418.152 €
+Memoria interna: 346.504 GB
+Memoria RAM: 4.526 GB
+Camera trasera: 2.867 MP
+Camara frontal: 8.024 MP
+Velocidad del CPU: 0.43 GHz
+Capacidad de la bateria: 10752.592 mAh
+Precio: 13525.316 €

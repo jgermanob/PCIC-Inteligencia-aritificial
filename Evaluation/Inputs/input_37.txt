@@ -1,11 +1,11 @@
-Marca: Prestigio
-Sistema operativo: BlackBerry
-Tipo de bateria: Li-Ion
+Marca: Spice
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 208.05 GB
-Memoria RAM: 5.427 GB
-Camera trasera: 1.971 MP
-Camara frontal: 10.771 MP
-Velocidad del CPU: 2.307 GHz
-Capacidad de la bateria: 7395.245 mAh
-Precio: 14668.34 €
+Memoria interna: 219.423 GB
+Memoria RAM: 0.496 GB
+Camera trasera: 16.267 MP
+Camara frontal: 10.426 MP
+Velocidad del CPU: 0.684 GHz
+Capacidad de la bateria: 4713.021 mAh
+Precio: 12823.093 €

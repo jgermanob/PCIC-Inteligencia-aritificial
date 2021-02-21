@@ -1,11 +1,11 @@
-Marca: Sony
-Sistema operativo: iOS
-Tipo de bateria: Li-Po
-Bateria removible: Si
-Memoria interna: 242.41 GB
-Memoria RAM: 4.557 GB
-Camera trasera: 6.866 MP
-Camara frontal: 7.627 MP
-Velocidad del CPU: 1.651 GHz
-Capacidad de la bateria: 1426.503 mAh
-Precio: 18656.191 €
+Marca: LeEco
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 205.126 GB
+Memoria RAM: 5.881 GB
+Camera trasera: 16.877 MP
+Camara frontal: 9.074 MP
+Velocidad del CPU: 1.307 GHz
+Capacidad de la bateria: 2506.665 mAh
+Precio: 11696.818 €

@@ -1,11 +1,11 @@
-Marca: T-Mobile
-Sistema operativo: BlackBerry
+Marca: QMobile
+Sistema operativo: iOS
 Tipo de bateria: Li-Po
-Bateria removible: No
-Memoria interna: 438.978 GB
-Memoria RAM: 2.764 GB
-Camera trasera: 15.916 MP
-Camara frontal: 8.367 MP
-Velocidad del CPU: 0.993 GHz
-Capacidad de la bateria: 10748.232 mAh
-Precio: 24472.715 €
+Bateria removible: Si
+Memoria interna: 8.239 GB
+Memoria RAM: 5.798 GB
+Camera trasera: 0.803 MP
+Camara frontal: 13.161 MP
+Velocidad del CPU: 1.263 GHz
+Capacidad de la bateria: 10313.334 mAh
+Precio: 989.682 €

@@ -1,11 +1,11 @@
-Marca: Asus
-Sistema operativo: iOS
+Marca: Huawei
+Sistema operativo: BlackBerry
 Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 244.007 GB
-Memoria RAM: 2.172 GB
-Camera trasera: 11.647 MP
-Camara frontal: 16.159 MP
-Velocidad del CPU: 2.204 GHz
-Capacidad de la bateria: 10107.273 mAh
-Precio: 7822.809 €
+Memoria interna: 168.759 GB
+Memoria RAM: 5.735 GB
+Camera trasera: 11.425 MP
+Camara frontal: 17.474 MP
+Velocidad del CPU: 2.151 GHz
+Capacidad de la bateria: 10785.576 mAh
+Precio: 15975.094 €

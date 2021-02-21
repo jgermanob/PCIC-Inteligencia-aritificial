@@ -1,11 +1,11 @@
-Marca: OnePlus
-Sistema operativo: Windows
-Tipo de bateria: Li-Po
-Bateria removible: Si
-Memoria interna: 62.353 GB
-Memoria RAM: 0.926 GB
-Camera trasera: 15.937 MP
-Camara frontal: 7.102 MP
-Velocidad del CPU: 1.124 GHz
-Capacidad de la bateria: 9945.503 mAh
-Precio: 18038.031 €
+Marca: Coolpad
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 456.547 GB
+Memoria RAM: 3.192 GB
+Camera trasera: 21.367 MP
+Camara frontal: 9.63 MP
+Velocidad del CPU: 1.327 GHz
+Capacidad de la bateria: 7470.919 mAh
+Precio: 925.576 €

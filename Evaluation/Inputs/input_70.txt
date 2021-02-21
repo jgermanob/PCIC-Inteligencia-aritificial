@@ -1,11 +1,11 @@
-Marca: Sony Ericsson
-Sistema operativo: BlackBerry
-Tipo de bateria: Li-Ion
+Marca: NEC
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 494.125 GB
-Memoria RAM: 0.211 GB
-Camera trasera: 17.759 MP
-Camara frontal: 15.224 MP
-Velocidad del CPU: 2.296 GHz
-Capacidad de la bateria: 2677.845 mAh
-Precio: 20871.355 €
+Memoria interna: 253.117 GB
+Memoria RAM: 5.111 GB
+Camera trasera: 23.152 MP
+Camara frontal: 16.518 MP
+Velocidad del CPU: 2.508 GHz
+Capacidad de la bateria: 3631.011 mAh
+Precio: 7291.516 €

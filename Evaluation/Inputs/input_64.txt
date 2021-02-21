@@ -1,11 +1,11 @@
-Marca: Gigabyte
+Marca: Asus
 Sistema operativo: iOS
-Tipo de bateria: Li-Po
+Tipo de bateria: Li-Ion
 Bateria removible: No
-Memoria interna: 268.471 GB
-Memoria RAM: 0.94 GB
-Camera trasera: 3.459 MP
-Camara frontal: 2.599 MP
-Velocidad del CPU: 0.33 GHz
-Capacidad de la bateria: 7538.978 mAh
-Precio: 5635.728 €
+Memoria interna: 328.37 GB
+Memoria RAM: 5.92 GB
+Camera trasera: 1.35 MP
+Camara frontal: 5.6 MP
+Velocidad del CPU: 1.844 GHz
+Capacidad de la bateria: 8359.753 mAh
+Precio: 2226.832 €

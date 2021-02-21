@@ -1,11 +1,11 @@
-Marca: Sony
-Sistema operativo: Windows
-Tipo de bateria: Li-Po
-Bateria removible: No
-Memoria interna: 365.5 GB
-Memoria RAM: 3.258 GB
-Camera trasera: 21.851 MP
-Camara frontal: 9.652 MP
-Velocidad del CPU: 0.011 GHz
-Capacidad de la bateria: 4162.006 mAh
-Precio: 18444.684 €
+Marca: NEC
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 100.78 GB
+Memoria RAM: 2.57 GB
+Camera trasera: 4.776 MP
+Camara frontal: 1.995 MP
+Velocidad del CPU: 0.038 GHz
+Capacidad de la bateria: 3219.911 mAh
+Precio: 5376.093 €

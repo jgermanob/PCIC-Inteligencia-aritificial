@@ -1,11 +1,11 @@
-Marca: Nvidia
-Sistema operativo: iOS
-Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 214.968 GB
-Memoria RAM: 5.106 GB
-Camera trasera: 19.998 MP
-Camara frontal: 13.033 MP
-Velocidad del CPU: 2.444 GHz
-Capacidad de la bateria: 6032.201 mAh
-Precio: 5875.631 €
+Marca: Lenovo
+Sistema operativo: Android
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 54.732 GB
+Memoria RAM: 3.927 GB
+Camera trasera: 21.711 MP
+Camara frontal: 2.113 MP
+Velocidad del CPU: 1.004 GHz
+Capacidad de la bateria: 9600.452 mAh
+Precio: 11352.726 €

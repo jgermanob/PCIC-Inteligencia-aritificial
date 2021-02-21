@@ -1,11 +1,11 @@
-Marca: Kyocera
-Sistema operativo: Android
-Tipo de bateria: Li-Ion
+Marca: Casio
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 364.411 GB
-Memoria RAM: 2.649 GB
-Camera trasera: 18.03 MP
-Camara frontal: 10.052 MP
-Velocidad del CPU: 0.103 GHz
-Capacidad de la bateria: 585.023 mAh
-Precio: 3242.655 €
+Memoria interna: 19.3 GB
+Memoria RAM: 1.115 GB
+Camera trasera: 4.777 MP
+Camara frontal: 18.442 MP
+Velocidad del CPU: 0.332 GHz
+Capacidad de la bateria: 9334.142 mAh
+Precio: 22824.849 €

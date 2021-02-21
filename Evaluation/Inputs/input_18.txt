@@ -1,11 +1,11 @@
-Marca: Celkon
+Marca: Wiko
 Sistema operativo: Android
-Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 320.984 GB
-Memoria RAM: 3.194 GB
-Camera trasera: 22.661 MP
-Camara frontal: 1.206 MP
-Velocidad del CPU: 0.023 GHz
-Capacidad de la bateria: 838.011 mAh
-Precio: 16697.067 €
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 222.728 GB
+Memoria RAM: 3.41 GB
+Camera trasera: 7.317 MP
+Camara frontal: 6.497 MP
+Velocidad del CPU: 0.774 GHz
+Capacidad de la bateria: 814.15 mAh
+Precio: 15033.104 €

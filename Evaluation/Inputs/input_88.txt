@@ -1,11 +1,11 @@
-Marca: Apple
-Sistema operativo: Android
+Marca: BlackBerry
+Sistema operativo: Windows
 Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 11.183 GB
-Memoria RAM: 4.187 GB
-Camera trasera: 4.337 MP
-Camara frontal: 18.98 MP
-Velocidad del CPU: 0.794 GHz
-Capacidad de la bateria: 4498.399 mAh
-Precio: 9484.39 €
+Memoria interna: 336.733 GB
+Memoria RAM: 0.55 GB
+Camera trasera: 12.592 MP
+Camara frontal: 0.812 MP
+Velocidad del CPU: 0.542 GHz
+Capacidad de la bateria: 3669.237 mAh
+Precio: 19865.464 €

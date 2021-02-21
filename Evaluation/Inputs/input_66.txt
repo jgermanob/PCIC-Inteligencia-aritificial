@@ -1,11 +1,11 @@
-Marca: XOLO
-Sistema operativo: Android
-Tipo de bateria: Li-Ion
+Marca: Gigabyte
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 475.233 GB
-Memoria RAM: 0.862 GB
-Camera trasera: 11.909 MP
-Camara frontal: 6.715 MP
-Velocidad del CPU: 2.298 GHz
-Capacidad de la bateria: 4851.382 mAh
-Precio: 19917.309 €
+Memoria interna: 167.942 GB
+Memoria RAM: 1.302 GB
+Camera trasera: 11.204 MP
+Camara frontal: 8.597 MP
+Velocidad del CPU: 0.778 GHz
+Capacidad de la bateria: 5437.455 mAh
+Precio: 19850.344 €

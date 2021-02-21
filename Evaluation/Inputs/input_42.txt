@@ -1,11 +1,11 @@
-Marca: Panasonic
-Sistema operativo: BlackBerry
+Marca: Cat
+Sistema operativo: iOS
 Tipo de bateria: Li-Po
-Bateria removible: No
-Memoria interna: 349.759 GB
-Memoria RAM: 5.3 GB
-Camera trasera: 21.262 MP
-Camara frontal: 11.024 MP
-Velocidad del CPU: 1.019 GHz
-Capacidad de la bateria: 2503.476 mAh
-Precio: 22896.889 €
+Bateria removible: Si
+Memoria interna: 262.28 GB
+Memoria RAM: 2.193 GB
+Camera trasera: 16.762 MP
+Camara frontal: 2.421 MP
+Velocidad del CPU: 1.901 GHz
+Capacidad de la bateria: 9915.437 mAh
+Precio: 17089.076 €

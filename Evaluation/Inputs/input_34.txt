@@ -1,11 +1,11 @@
-Marca: BlackBerry
-Sistema operativo: Windows
-Tipo de bateria: Li-Ion
+Marca: Sharp
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 187.642 GB
-Memoria RAM: 4.461 GB
-Camera trasera: 4.987 MP
-Camara frontal: 11.898 MP
-Velocidad del CPU: 1.654 GHz
-Capacidad de la bateria: 212.761 mAh
-Precio: 4254.149 €
+Memoria interna: 289.613 GB
+Memoria RAM: 0.82 GB
+Camera trasera: 13.416 MP
+Camara frontal: 19.78 MP
+Velocidad del CPU: 0.778 GHz
+Capacidad de la bateria: 3892.38 mAh
+Precio: 21174.086 €

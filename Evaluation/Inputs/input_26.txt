@@ -1,11 +1,11 @@
-Marca: LeEco
-Sistema operativo: iOS
+Marca: Xiaomi
+Sistema operativo: Android
 Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 314.392 GB
-Memoria RAM: 3.517 GB
-Camera trasera: 23.77 MP
-Camara frontal: 17.175 MP
-Velocidad del CPU: 0.519 GHz
-Capacidad de la bateria: 3062.404 mAh
-Precio: 8414.068 €
+Memoria interna: 269.392 GB
+Memoria RAM: 5.416 GB
+Camera trasera: 12.506 MP
+Camara frontal: 4.728 MP
+Velocidad del CPU: 0.036 GHz
+Capacidad de la bateria: 9790.361 mAh
+Precio: 14095.984 €

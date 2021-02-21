@@ -1,11 +1,11 @@
-Marca: LeEco
+Marca: Google
 Sistema operativo: Windows
-Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 152.089 GB
-Memoria RAM: 1.236 GB
-Camera trasera: 23.453 MP
-Camara frontal: 7.15 MP
-Velocidad del CPU: 1.318 GHz
-Capacidad de la bateria: 3176.241 mAh
-Precio: 14516.427 €
+Tipo de bateria: Li-Po
+Bateria removible: No
+Memoria interna: 141.246 GB
+Memoria RAM: 2.452 GB
+Camera trasera: 7.711 MP
+Camara frontal: 9.337 MP
+Velocidad del CPU: 2.19 GHz
+Capacidad de la bateria: 138.962 mAh
+Precio: 18161.585 €

@@ -1,11 +1,11 @@
-Marca: Amazon
-Sistema operativo: Windows
-Tipo de bateria: Li-Po
+Marca: Celkon
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
 Bateria removible: Si
-Memoria interna: 364.0 GB
-Memoria RAM: 4.693 GB
-Camera trasera: 16.649 MP
-Camara frontal: 12.229 MP
-Velocidad del CPU: 0.586 GHz
-Capacidad de la bateria: 9215.434 mAh
-Precio: 7199.085 €
+Memoria interna: 375.728 GB
+Memoria RAM: 5.103 GB
+Camera trasera: 22.844 MP
+Camara frontal: 11.755 MP
+Velocidad del CPU: 0.12 GHz
+Capacidad de la bateria: 972.841 mAh
+Precio: 21253.656 €

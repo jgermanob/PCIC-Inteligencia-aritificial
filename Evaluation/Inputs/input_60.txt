@@ -1,11 +1,11 @@
-Marca: Apple
-Sistema operativo: Windows
-Tipo de bateria: Li-Ion
+Marca: Lava
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 330.164 GB
-Memoria RAM: 5.132 GB
-Camera trasera: 11.139 MP
-Camara frontal: 16.537 MP
-Velocidad del CPU: 0.826 GHz
-Capacidad de la bateria: 3383.294 mAh
-Precio: 22449.426 €
+Memoria interna: 11.472 GB
+Memoria RAM: 3.228 GB
+Camera trasera: 21.992 MP
+Camara frontal: 16.977 MP
+Velocidad del CPU: 2.172 GHz
+Capacidad de la bateria: 32.758 mAh
+Precio: 15751.041 €

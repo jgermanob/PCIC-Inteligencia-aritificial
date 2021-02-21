@@ -1,11 +1,11 @@
-Marca: Vodafone
-Sistema operativo: iOS
+Marca: T-Mobile
+Sistema operativo: Android
 Tipo de bateria: Li-Po
-Bateria removible: Si
-Memoria interna: 463.121 GB
-Memoria RAM: 3.773 GB
-Camera trasera: 5.323 MP
-Camara frontal: 11.944 MP
-Velocidad del CPU: 2.443 GHz
-Capacidad de la bateria: 5137.566 mAh
-Precio: 15380.627 €
+Bateria removible: No
+Memoria interna: 306.569 GB
+Memoria RAM: 2.555 GB
+Camera trasera: 13.695 MP
+Camara frontal: 18.074 MP
+Velocidad del CPU: 2.266 GHz
+Capacidad de la bateria: 6859.918 mAh
+Precio: 2896.34 €

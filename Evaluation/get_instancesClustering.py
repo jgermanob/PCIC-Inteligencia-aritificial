@@ -156,6 +156,7 @@ for instance in range(100):
     input_file.write('Precio: {} €\n'.format(price))
 
     #Escritura de archivo#
+    """
     input_kmeans_file.write('Marca: {}\n'.format(brand))
     input_kmeans_file.write('Sistema operativo: {}\n'.format(os))
     input_kmeans_file.write('Tipo de bateria: {}\n'.format(battery_type))
@@ -167,7 +168,7 @@ for instance in range(100):
     input_kmeans_file.write('Velocidad del CPU: {} GHz\n'.format(cpu_speed))
     input_kmeans_file.write('Capacidad de la bateria: {} mAh\n'.format(mah_battery))
     input_kmeans_file.write('Precio: {} €\n'.format(price))
-
+    """
     if battery_removable == 'No':
         battery_removable = False
     else:
@@ -207,11 +208,11 @@ for instance in range(100):
     output_file.write('Tipo de bateria: {}\n'.format(batt_type))
     output_file.write('Bateria removible: {}\n'.format(removable))
     output_file.write('Memoria interna: {} GB\n'.format(internal_memory))
-    output_file.write('Memoria RAM: {} GB\n'.format(ram_memory))
-    output_file.write('Camera trasera: {} MP\n'.format(primary_camera))
-    output_file.write('Camara frontal: {} MP\n'.format(secondary_camera))
-    output_file.write('Velocidad del CPU: {} GHz\n'.format(cpu_speed))
-    output_file.write('Capacidad de la bateria: {} mAh\n'.format(mah_battery))
+    output_file.write('Memoria RAM: {} GB\n'.format(ram))
+    output_file.write('Camera trasera: {} MP\n'.format(prim_camera))
+    output_file.write('Camara frontal: {} MP\n'.format(sec_camera))
+    output_file.write('Velocidad del CPU: {} GHz\n'.format(speed))
+    output_file.write('Capacidad de la bateria: {} mAh\n'.format(mah))
     output_file.write('Precio: {} €\n'.format(price))
     output_file.write('\nDisimilaridad: {}\n'.format(min_disssimilarity))
 
@@ -239,11 +240,11 @@ for instance in range(100):
     output_kmeans_file.write('Tipo de bateria: {}\n'.format(batt_type))
     output_kmeans_file.write('Bateria removible: {}\n'.format(removable))
     output_kmeans_file.write('Memoria interna: {} GB\n'.format(internal_memory))
-    output_kmeans_file.write('Memoria RAM: {} GB\n'.format(ram_memory))
-    output_kmeans_file.write('Camera trasera: {} MP\n'.format(primary_camera))
-    output_kmeans_file.write('Camara frontal: {} MP\n'.format(secondary_camera))
-    output_kmeans_file.write('Velocidad del CPU: {} GHz\n'.format(cpu_speed))
-    output_kmeans_file.write('Capacidad de la bateria: {} mAh\n'.format(mah_battery))
+    output_kmeans_file.write('Memoria RAM: {} GB\n'.format(ram))
+    output_kmeans_file.write('Camera trasera: {} MP\n'.format(prim_camera))
+    output_kmeans_file.write('Camara frontal: {} MP\n'.format(sec_camera))
+    output_kmeans_file.write('Velocidad del CPU: {} GHz\n'.format(speed))
+    output_kmeans_file.write('Capacidad de la bateria: {} mAh\n'.format(mah))
     output_kmeans_file.write('Precio: {} €\n'.format(price))
     output_kmeans_file.write('\nDisimilaridad: {}\n'.format(min_disssimilarity))
 

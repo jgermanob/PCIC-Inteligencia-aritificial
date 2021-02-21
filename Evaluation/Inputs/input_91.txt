@@ -1,11 +1,11 @@
-Marca: LG
-Sistema operativo: iOS
+Marca: Wiko
+Sistema operativo: Windows
 Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 284.893 GB
-Memoria RAM: 0.374 GB
-Camera trasera: 16.025 MP
-Camara frontal: 6.257 MP
-Velocidad del CPU: 2.509 GHz
-Capacidad de la bateria: 1743.215 mAh
-Precio: 2282.786 €
+Bateria removible: No
+Memoria interna: 250.787 GB
+Memoria RAM: 2.019 GB
+Camera trasera: 9.532 MP
+Camara frontal: 19.312 MP
+Velocidad del CPU: 1.83 GHz
+Capacidad de la bateria: 9679.45 mAh
+Precio: 26542.335 €

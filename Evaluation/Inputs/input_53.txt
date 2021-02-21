@@ -1,11 +1,11 @@
-Marca: Google
+Marca: Celkon
 Sistema operativo: Windows
-Tipo de bateria: Li-Ion
+Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 131.182 GB
-Memoria RAM: 2.975 GB
-Camera trasera: 2.306 MP
-Camara frontal: 6.93 MP
-Velocidad del CPU: 0.879 GHz
-Capacidad de la bateria: 889.118 mAh
-Precio: 846.341 €
+Memoria interna: 112.358 GB
+Memoria RAM: 0.204 GB
+Camera trasera: 14.383 MP
+Camara frontal: 11.348 MP
+Velocidad del CPU: 1.083 GHz
+Capacidad de la bateria: 7806.379 mAh
+Precio: 8084.997 €

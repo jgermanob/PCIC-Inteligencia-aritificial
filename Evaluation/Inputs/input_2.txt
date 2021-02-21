@@ -1,11 +1,11 @@
-Marca: Nokia
-Sistema operativo: BlackBerry
-Tipo de bateria: Li-Ion
+Marca: Motorola
+Sistema operativo: iOS
+Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 237.724 GB
-Memoria RAM: 1.095 GB
-Camera trasera: 19.048 MP
-Camara frontal: 19.247 MP
-Velocidad del CPU: 0.147 GHz
-Capacidad de la bateria: 9620.649 mAh
-Precio: 20687.696 €
+Memoria interna: 379.192 GB
+Memoria RAM: 4.615 GB
+Camera trasera: 8.136 MP
+Camara frontal: 8.219 MP
+Velocidad del CPU: 1.68 GHz
+Capacidad de la bateria: 6552.066 mAh
+Precio: 20710.223 €

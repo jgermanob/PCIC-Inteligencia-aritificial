@@ -1,11 +1,11 @@
-Marca: Meizu
-Sistema operativo: Android
+Marca: Nvidia
+Sistema operativo: iOS
 Tipo de bateria: Li-Ion
-Bateria removible: No
-Memoria interna: 147.301 GB
-Memoria RAM: 1.327 GB
-Camera trasera: 7.757 MP
-Camara frontal: 12.978 MP
-Velocidad del CPU: 1.944 GHz
-Capacidad de la bateria: 7585.965 mAh
-Precio: 23870.4 €
+Bateria removible: Si
+Memoria interna: 258.725 GB
+Memoria RAM: 4.268 GB
+Camera trasera: 20.773 MP
+Camara frontal: 2.349 MP
+Velocidad del CPU: 0.279 GHz
+Capacidad de la bateria: 5848.602 mAh
+Precio: 25735.882 €

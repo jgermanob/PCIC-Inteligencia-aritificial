@@ -1,11 +1,11 @@
-Marca: BLU
+Marca: alcatel
 Sistema operativo: Android
 Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 383.95 GB
-Memoria RAM: 2.653 GB
-Camera trasera: 0.693 MP
-Camara frontal: 9.223 MP
-Velocidad del CPU: 0.715 GHz
-Capacidad de la bateria: 11033.93 mAh
-Precio: 26976.076 €
+Bateria removible: No
+Memoria interna: 312.052 GB
+Memoria RAM: 0.7 GB
+Camera trasera: 16.734 MP
+Camara frontal: 5.713 MP
+Velocidad del CPU: 0.744 GHz
+Capacidad de la bateria: 9895.886 mAh
+Precio: 13534.958 €

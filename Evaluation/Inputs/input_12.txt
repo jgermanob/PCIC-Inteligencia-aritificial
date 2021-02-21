@@ -1,11 +1,11 @@
-Marca: HTC
-Sistema operativo: Windows
-Tipo de bateria: Li-Po
-Bateria removible: No
-Memoria interna: 447.821 GB
-Memoria RAM: 3.206 GB
-Camera trasera: 16.491 MP
-Camara frontal: 19.751 MP
-Velocidad del CPU: 0.516 GHz
-Capacidad de la bateria: 359.72 mAh
-Precio: 11823.422 €
+Marca: Karbonn
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 58.748 GB
+Memoria RAM: 3.652 GB
+Camera trasera: 6.214 MP
+Camara frontal: 15.945 MP
+Velocidad del CPU: 1.777 GHz
+Capacidad de la bateria: 6203.77 mAh
+Precio: 3491.325 €

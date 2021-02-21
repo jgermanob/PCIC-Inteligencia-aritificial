@@ -1,11 +1,11 @@
-Marca: Xiaomi
-Sistema operativo: iOS
-Tipo de bateria: Li-Po
+Marca: Micromax
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
 Bateria removible: No
-Memoria interna: 300.439 GB
-Memoria RAM: 3.193 GB
-Camera trasera: 18.075 MP
-Camara frontal: 0.036 MP
-Velocidad del CPU: 1.942 GHz
-Capacidad de la bateria: 7612.444 mAh
-Precio: 9878.301 €
+Memoria interna: 472.586 GB
+Memoria RAM: 4.788 GB
+Camera trasera: 19.695 MP
+Camara frontal: 2.76 MP
+Velocidad del CPU: 0.807 GHz
+Capacidad de la bateria: 9616.096 mAh
+Precio: 8211.793 €

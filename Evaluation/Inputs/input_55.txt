@@ -1,11 +1,11 @@
-Marca: Huawei
-Sistema operativo: iOS
-Tipo de bateria: Li-Po
+Marca: Yota
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Ion
 Bateria removible: Si
-Memoria interna: 466.244 GB
-Memoria RAM: 4.461 GB
-Camera trasera: 1.361 MP
-Camara frontal: 15.758 MP
-Velocidad del CPU: 1.449 GHz
-Capacidad de la bateria: 5904.436 mAh
-Precio: 12122.678 €
+Memoria interna: 424.321 GB
+Memoria RAM: 5.86 GB
+Camera trasera: 19.685 MP
+Camara frontal: 0.446 MP
+Velocidad del CPU: 0.271 GHz
+Capacidad de la bateria: 10569.752 mAh
+Precio: 21611.377 €

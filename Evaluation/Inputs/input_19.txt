@@ -1,11 +1,11 @@
-Marca: XOLO
-Sistema operativo: iOS
+Marca: Nokia
+Sistema operativo: Android
 Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 289.287 GB
-Memoria RAM: 1.606 GB
-Camera trasera: 5.544 MP
-Camara frontal: 9.662 MP
-Velocidad del CPU: 0.564 GHz
-Capacidad de la bateria: 9990.82 mAh
-Precio: 3724.426 €
+Memoria interna: 232.792 GB
+Memoria RAM: 5.518 GB
+Camera trasera: 21.857 MP
+Camara frontal: 0.816 MP
+Velocidad del CPU: 0.828 GHz
+Capacidad de la bateria: 2412.568 mAh
+Precio: 23173.015 €

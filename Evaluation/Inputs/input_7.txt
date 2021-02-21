@@ -1,11 +1,11 @@
-Marca: verykool
-Sistema operativo: iOS
-Tipo de bateria: Li-Ion
+Marca: BlackBerry
+Sistema operativo: BlackBerry
+Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 87.902 GB
-Memoria RAM: 1.458 GB
-Camera trasera: 20.114 MP
-Camara frontal: 0.219 MP
-Velocidad del CPU: 0.921 GHz
-Capacidad de la bateria: 3024.277 mAh
-Precio: 15212.699 €
+Memoria interna: 178.554 GB
+Memoria RAM: 3.277 GB
+Camera trasera: 0.79 MP
+Camara frontal: 19.738 MP
+Velocidad del CPU: 1.597 GHz
+Capacidad de la bateria: 3935.266 mAh
+Precio: 10807.865 €

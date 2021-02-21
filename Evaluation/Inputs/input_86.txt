@@ -1,11 +1,11 @@
-Marca: Sony Ericsson
+Marca: Allview
 Sistema operativo: BlackBerry
 Tipo de bateria: Li-Ion
 Bateria removible: No
-Memoria interna: 377.7 GB
-Memoria RAM: 3.61 GB
-Camera trasera: 2.63 MP
-Camara frontal: 19.411 MP
-Velocidad del CPU: 2.393 GHz
-Capacidad de la bateria: 9062.833 mAh
-Precio: 11486.346 €
+Memoria interna: 133.123 GB
+Memoria RAM: 4.365 GB
+Camera trasera: 9.415 MP
+Camara frontal: 2.947 MP
+Velocidad del CPU: 2.666 GHz
+Capacidad de la bateria: 4068.962 mAh
+Precio: 3033.362 €

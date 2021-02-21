@@ -1,11 +1,11 @@
-Marca: YU
-Sistema operativo: Windows
+Marca: OnePlus
+Sistema operativo: iOS
 Tipo de bateria: Li-Po
-Bateria removible: Si
-Memoria interna: 114.966 GB
-Memoria RAM: 2.808 GB
-Camera trasera: 13.181 MP
-Camara frontal: 9.669 MP
-Velocidad del CPU: 0.111 GHz
-Capacidad de la bateria: 206.889 mAh
-Precio: 12874.927 €
+Bateria removible: No
+Memoria interna: 96.267 GB
+Memoria RAM: 0.235 GB
+Camera trasera: 14.153 MP
+Camara frontal: 8.213 MP
+Velocidad del CPU: 2.016 GHz
+Capacidad de la bateria: 1178.186 mAh
+Precio: 21443.522 €

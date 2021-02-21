@@ -1,11 +1,11 @@
-Marca: Huawei
-Sistema operativo: BlackBerry
+Marca: Acer
+Sistema operativo: iOS
 Tipo de bateria: Li-Ion
-Bateria removible: No
-Memoria interna: 124.975 GB
-Memoria RAM: 1.476 GB
-Camera trasera: 23.79 MP
-Camara frontal: 2.855 MP
-Velocidad del CPU: 2.506 GHz
-Capacidad de la bateria: 5650.547 mAh
-Precio: 5466.736 €
+Bateria removible: Si
+Memoria interna: 302.8 GB
+Memoria RAM: 0.495 GB
+Camera trasera: 17.12 MP
+Camara frontal: 9.351 MP
+Velocidad del CPU: 1.491 GHz
+Capacidad de la bateria: 4370.176 mAh
+Precio: 1806.464 €

@@ -1,11 +1,11 @@
-Marca: alcatel
+Marca: Acer
 Sistema operativo: Windows
 Tipo de bateria: Li-Po
-Bateria removible: Si
-Memoria interna: 453.693 GB
-Memoria RAM: 2.805 GB
-Camera trasera: 12.33 MP
-Camara frontal: 8.403 MP
-Velocidad del CPU: 0.03 GHz
-Capacidad de la bateria: 4065.175 mAh
-Precio: 25094.02 €
+Bateria removible: No
+Memoria interna: 95.599 GB
+Memoria RAM: 2.043 GB
+Camera trasera: 21.187 MP
+Camara frontal: 4.411 MP
+Velocidad del CPU: 0.559 GHz
+Capacidad de la bateria: 960.815 mAh
+Precio: 3643.112 €

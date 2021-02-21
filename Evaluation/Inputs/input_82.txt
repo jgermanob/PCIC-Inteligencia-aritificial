@@ -1,11 +1,11 @@
-Marca: Pantech
-Sistema operativo: BlackBerry
+Marca: Karbonn
+Sistema operativo: Windows
 Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 431.235 GB
-Memoria RAM: 2.376 GB
-Camera trasera: 5.996 MP
-Camara frontal: 15.714 MP
-Velocidad del CPU: 0.346 GHz
-Capacidad de la bateria: 4839.93 mAh
-Precio: 3502.659 €
+Memoria interna: 207.666 GB
+Memoria RAM: 2.04 GB
+Camera trasera: 5.669 MP
+Camara frontal: 9.97 MP
+Velocidad del CPU: 1.172 GHz
+Capacidad de la bateria: 5179.247 mAh
+Precio: 2909.082 €

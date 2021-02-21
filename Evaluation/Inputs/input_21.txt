@@ -1,11 +1,11 @@
-Marca: ZTE
+Marca: Nokia
 Sistema operativo: BlackBerry
 Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 168.378 GB
-Memoria RAM: 4.569 GB
-Camera trasera: 21.538 MP
-Camara frontal: 8.747 MP
-Velocidad del CPU: 0.81 GHz
-Capacidad de la bateria: 9724.996 mAh
-Precio: 25259.206 €
+Bateria removible: No
+Memoria interna: 509.508 GB
+Memoria RAM: 3.73 GB
+Camera trasera: 23.228 MP
+Camara frontal: 2.173 MP
+Velocidad del CPU: 0.942 GHz
+Capacidad de la bateria: 2146.531 mAh
+Precio: 9961.814 €

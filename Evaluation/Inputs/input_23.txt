@@ -1,11 +1,11 @@
-Marca: OnePlus
+Marca: Yota
 Sistema operativo: iOS
 Tipo de bateria: Li-Po
-Bateria removible: No
-Memoria interna: 487.734 GB
-Memoria RAM: 2.562 GB
-Camera trasera: 5.511 MP
-Camara frontal: 7.742 MP
-Velocidad del CPU: 0.886 GHz
-Capacidad de la bateria: 630.608 mAh
-Precio: 2359.301 €
+Bateria removible: Si
+Memoria interna: 274.887 GB
+Memoria RAM: 4.633 GB
+Camera trasera: 8.047 MP
+Camara frontal: 9.239 MP
+Velocidad del CPU: 2.481 GHz
+Capacidad de la bateria: 726.347 mAh
+Precio: 7998.122 €

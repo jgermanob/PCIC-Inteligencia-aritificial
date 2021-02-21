@@ -1,11 +1,11 @@
-Marca: BenQ
-Sistema operativo: Windows
+Marca: Acer
+Sistema operativo: BlackBerry
 Tipo de bateria: Li-Ion
 Bateria removible: No
-Memoria interna: 391.308 GB
-Memoria RAM: 2.37 GB
-Camera trasera: 21.613 MP
-Camara frontal: 15.904 MP
-Velocidad del CPU: 1.352 GHz
-Capacidad de la bateria: 1355.563 mAh
-Precio: 1947.834 €
+Memoria interna: 405.618 GB
+Memoria RAM: 0.135 GB
+Camera trasera: 5.14 MP
+Camara frontal: 19.91 MP
+Velocidad del CPU: 1.163 GHz
+Capacidad de la bateria: 11373.58 mAh
+Precio: 18746.663 €

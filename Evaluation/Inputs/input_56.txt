@@ -1,11 +1,11 @@
-Marca: Meizu
-Sistema operativo: iOS
-Tipo de bateria: Li-Ion
+Marca: Micromax
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 187.529 GB
-Memoria RAM: 1.73 GB
-Camera trasera: 8.309 MP
-Camara frontal: 2.942 MP
-Velocidad del CPU: 1.2 GHz
-Capacidad de la bateria: 5716.548 mAh
-Precio: 19034.15 €
+Memoria interna: 90.506 GB
+Memoria RAM: 1.79 GB
+Camera trasera: 19.358 MP
+Camara frontal: 15.051 MP
+Velocidad del CPU: 1.158 GHz
+Capacidad de la bateria: 10943.794 mAh
+Precio: 18328.529 €

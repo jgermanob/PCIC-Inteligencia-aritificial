@@ -1,11 +1,11 @@
-Marca: Dell
-Sistema operativo: BlackBerry
+Marca: Huawei
+Sistema operativo: Windows
 Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 382.275 GB
-Memoria RAM: 1.941 GB
-Camera trasera: 23.494 MP
-Camara frontal: 3.791 MP
-Velocidad del CPU: 0.617 GHz
-Capacidad de la bateria: 5673.325 mAh
-Precio: 25185.426 €
+Bateria removible: No
+Memoria interna: 201.413 GB
+Memoria RAM: 5.708 GB
+Camera trasera: 13.814 MP
+Camara frontal: 8.114 MP
+Velocidad del CPU: 0.278 GHz
+Capacidad de la bateria: 10753.381 mAh
+Precio: 6670.309 €

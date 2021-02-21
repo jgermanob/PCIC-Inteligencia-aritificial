@@ -1,11 +1,11 @@
-Marca: Intex
-Sistema operativo: BlackBerry
-Tipo de bateria: Li-Po
+Marca: alcatel
+Sistema operativo: iOS
+Tipo de bateria: Li-Ion
 Bateria removible: No
-Memoria interna: 249.415 GB
-Memoria RAM: 2.643 GB
-Camera trasera: 14.564 MP
-Camara frontal: 18.894 MP
-Velocidad del CPU: 2.372 GHz
-Capacidad de la bateria: 17.935 mAh
-Precio: 21029.91 €
+Memoria interna: 75.331 GB
+Memoria RAM: 4.446 GB
+Camera trasera: 23.236 MP
+Camara frontal: 17.645 MP
+Velocidad del CPU: 0.27 GHz
+Capacidad de la bateria: 5588.315 mAh
+Precio: 13263.269 €

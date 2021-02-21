@@ -1,11 +1,11 @@
-Marca: Pantech
-Sistema operativo: BlackBerry
-Tipo de bateria: Li-Ion
+Marca: Nvidia
+Sistema operativo: Windows
+Tipo de bateria: Li-Po
 Bateria removible: Si
-Memoria interna: 120.772 GB
-Memoria RAM: 1.949 GB
-Camera trasera: 3.334 MP
-Camara frontal: 4.852 MP
-Velocidad del CPU: 1.544 GHz
-Capacidad de la bateria: 9473.999 mAh
-Precio: 21145.933 €
+Memoria interna: 511.77 GB
+Memoria RAM: 0.701 GB
+Camera trasera: 11.371 MP
+Camara frontal: 9.527 MP
+Velocidad del CPU: 2.665 GHz
+Capacidad de la bateria: 5950.109 mAh
+Precio: 17747.454 €

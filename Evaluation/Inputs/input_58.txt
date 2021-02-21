@@ -1,11 +1,11 @@
-Marca: HP
+Marca: LeEco
 Sistema operativo: BlackBerry
-Tipo de bateria: Li-Ion
+Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 267.28 GB
-Memoria RAM: 0.77 GB
-Camera trasera: 13.283 MP
-Camara frontal: 15.328 MP
-Velocidad del CPU: 0.711 GHz
-Capacidad de la bateria: 8613.505 mAh
-Precio: 3509.879 €
+Memoria interna: 371.417 GB
+Memoria RAM: 5.001 GB
+Camera trasera: 11.159 MP
+Camara frontal: 4.606 MP
+Velocidad del CPU: 2.158 GHz
+Capacidad de la bateria: 2378.341 mAh
+Precio: 20483.363 €

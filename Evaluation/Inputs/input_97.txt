@@ -1,11 +1,11 @@
-Marca: Lava
-Sistema operativo: iOS
+Marca: Amazon
+Sistema operativo: Windows
 Tipo de bateria: Li-Ion
 Bateria removible: Si
-Memoria interna: 65.596 GB
-Memoria RAM: 2.688 GB
-Camera trasera: 15.111 MP
-Camara frontal: 10.351 MP
-Velocidad del CPU: 1.59 GHz
-Capacidad de la bateria: 8584.031 mAh
-Precio: 17527.43 €
+Memoria interna: 65.452 GB
+Memoria RAM: 1.229 GB
+Camera trasera: 18.109 MP
+Camara frontal: 16.235 MP
+Velocidad del CPU: 0.843 GHz
+Capacidad de la bateria: 7578.755 mAh
+Precio: 4761.377 €

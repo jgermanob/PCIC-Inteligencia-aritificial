@@ -1,11 +1,11 @@
-Marca: Microsoft
-Sistema operativo: Android
+Marca: verykool
+Sistema operativo: iOS
 Tipo de bateria: Li-Ion
-Bateria removible: No
-Memoria interna: 199.083 GB
-Memoria RAM: 0.429 GB
-Camera trasera: 14.163 MP
-Camara frontal: 12.273 MP
-Velocidad del CPU: 2.604 GHz
-Capacidad de la bateria: 10816.557 mAh
-Precio: 22579.662 €
+Bateria removible: Si
+Memoria interna: 457.717 GB
+Memoria RAM: 1.378 GB
+Camera trasera: 4.155 MP
+Camara frontal: 2.942 MP
+Velocidad del CPU: 2.071 GHz
+Capacidad de la bateria: 5719.465 mAh
+Precio: 24680.578 €
