@@ -1,14 +1,14 @@
-Marca: Acer
-Modelo: Liquid Z6
+Marca: Gionee
+Modelo: A1 Lite
 Sistema operativo: Android
 Tipo de bateria: Li-Ion
-Bateria removible: Si
-Memoria interna: 8.0 GB
-Memoria RAM: 2.415 GB
-Camera trasera: 2.995 MP
-Camara frontal: 17.166 MP
-Velocidad del CPU: 1.886 GHz
-Capacidad de la bateria: 1948.708 mAh
-Precio: 120.0 €
+Bateria removible: No
+Memoria interna: 32.0 GB
+Memoria RAM: 4.7 GB
+Camera trasera: 4.752 MP
+Camara frontal: 19.744 MP
+Velocidad del CPU: 0.081 GHz
+Capacidad de la bateria: 4344.943 mAh
+Precio: 27000.0 €
 
 Disimilaridad: 10000

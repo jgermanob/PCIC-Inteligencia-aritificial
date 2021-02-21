@@ -1,14 +1,14 @@
 Marca: Acer
-Modelo: Iconia Talk S
+Modelo: Liquid Z6
 Sistema operativo: Android
 Tipo de bateria: Li-Ion
-Bateria removible: No
-Memoria interna: 32.0 GB
-Memoria RAM: 5.408 GB
-Camera trasera: 8.516 MP
-Camara frontal: 17.082 MP
-Velocidad del CPU: 0.208 GHz
-Capacidad de la bateria: 5062.896 mAh
-Precio: 170.0 €
+Bateria removible: Si
+Memoria interna: 8.0 GB
+Memoria RAM: 3.339 GB
+Camera trasera: 13.413 MP
+Camara frontal: 1.243 MP
+Velocidad del CPU: 2.637 GHz
+Capacidad de la bateria: 16.796 mAh
+Precio: 120.0 €
 
 Disimilaridad: 10000

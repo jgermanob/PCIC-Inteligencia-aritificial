@@ -1,14 +1,14 @@
-Marca: Gionee
-Modelo: A1 Lite
+Marca: Acer
+Modelo: Iconia Tab A3-A20
 Sistema operativo: Android
-Tipo de bateria: Li-Ion
+Tipo de bateria: Li-Po
 Bateria removible: No
-Memoria interna: 32.0 GB
-Memoria RAM: 3.512 GB
-Camera trasera: 11.504 MP
-Camara frontal: 11.984 MP
-Velocidad del CPU: 1.256 GHz
-Capacidad de la bateria: 6459.504 mAh
-Precio: 27000.0 €
+Memoria interna: 16.0 GB
+Memoria RAM: 0.94 GB
+Camera trasera: 3.459 MP
+Camara frontal: 2.599 MP
+Velocidad del CPU: 0.33 GHz
+Capacidad de la bateria: 7538.978 mAh
+Precio: 190.0 €
 
 Disimilaridad: 10000

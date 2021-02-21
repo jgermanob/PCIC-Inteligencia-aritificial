@@ -19,6 +19,7 @@ CORES = [1,2,3,4,6,8,10]
 
 # Modelos y encoders #
 clustering_model = pickle.load(open('./Models/clustering_model.pickle', 'rb'))
+kmeans_model = pickle.load(open('./Models/kmeans_model.pickle', 'rb'))
 os_encoder = pickle.load(open('./Models/os_encoder.pickle','rb'))
 brand_encoder = pickle.load(open('./Models/brand_encoder.pickle', 'rb'))
 battery_type_encoder = pickle.load(open('./Models/battery_type_encoder.pickle', 'rb'))
@@ -83,9 +84,44 @@ def get_best_option(cluster, vector):
         
         return best_option, min_disssimilarity
 
+
+
+def get_best_option_kmeans(cluster, vector):
+    cluster = cluster[0]
+    cluster_df = df[(df.cluster == cluster)]
+    cluster_df = cluster_df.reset_index(drop=True)
+    min_disssimilarity = 10000
+    aux_index = 0
+    vector = vector.astype(np.float)
+    for index, row in cluster_df.iterrows():
+        element = [row['RAM'],row['approx_price_EUR'],row['battery_mah'],row['CPU_cores'], 
+                   row['CPU_speed'],row['internal_memory_gb'],row['brand'],row['OS'],
+                   row['battery_removable'],row['battery_type'],row['primary_camera_mp'], row['secondary_camera_mp']]
+        element = np.array(element).reshape(1,12).astype(np.float)
+        dis = euclidean_dissim(element,vector)
+        if dis < min_disssimilarity:
+            min_disssimilarity = dis
+            aux_index = index
+
+        best_option = cluster_df.iloc[aux_index]
+        best_option = best_option.values[:13]
+        best_option[9] = brand_encoder.inverse_transform([best_option[9]])[0]
+        best_option[10] = os_encoder.inverse_transform([best_option[10]])[0]
+        best_option[11] = battery_removable_encoder.inverse_transform([best_option[11]])[0]
+        best_option[12] = battery_type_encoder.inverse_transform([best_option[12]])[0]
+        if best_option[11] == False:
+            best_option[11] = 'No'
+        else:
+            best_option[11] = 'Si'
+
+        
+        return best_option, min_disssimilarity
+
 for instance in range(100):
     input_file = open(INPUTS_PATH+'input_{}.txt'.format(instance),'w')
     output_file = open(OUTPUTS_PATH+'recommendation_{}.txt'.format(instance),'w')
+    input_kmeans_file = open(INPUTS_PATH+'input_kmeans_{}.txt'.format(instance),'w')
+    output_kmeans_file = open(OUTPUTS_PATH+'recommendation_kmeans_{}.txt'.format(instance),'w')
     brand_index = randint(0, len(BRANDS)-1)
     os_index = randint(0, len(OS)-1)
     battery_types_index = randint(0, len(BATTERY_TYPES)-1)
@@ -119,6 +155,19 @@ for instance in range(100):
     input_file.write('Capacidad de la bateria: {} mAh\n'.format(mah_battery))
     input_file.write('Precio: {} €\n'.format(price))
 
+    #Escritura de archivo#
+    input_kmeans_file.write('Marca: {}\n'.format(brand))
+    input_kmeans_file.write('Sistema operativo: {}\n'.format(os))
+    input_kmeans_file.write('Tipo de bateria: {}\n'.format(battery_type))
+    input_kmeans_file.write('Bateria removible: {}\n'.format(battery_removable))
+    input_kmeans_file.write('Memoria interna: {} GB\n'.format(internal_memory))
+    input_kmeans_file.write('Memoria RAM: {} GB\n'.format(ram_memory))
+    input_kmeans_file.write('Camera trasera: {} MP\n'.format(primary_camera))
+    input_kmeans_file.write('Camara frontal: {} MP\n'.format(secondary_camera))
+    input_kmeans_file.write('Velocidad del CPU: {} GHz\n'.format(cpu_speed))
+    input_kmeans_file.write('Capacidad de la bateria: {} mAh\n'.format(mah_battery))
+    input_kmeans_file.write('Precio: {} €\n'.format(price))
+
     if battery_removable == 'No':
         battery_removable = False
     else:
@@ -136,7 +185,7 @@ for instance in range(100):
     # Obtener cluster #
     cluster = clustering_model.predict(vector, categorical=[6,7,8,9])
     best_option, min_disssimilarity = get_best_option(cluster,vector)
-
+    
     model = best_option[0]
     ram = best_option[1]
     price = best_option[2]
@@ -165,6 +214,38 @@ for instance in range(100):
     output_file.write('Capacidad de la bateria: {} mAh\n'.format(mah_battery))
     output_file.write('Precio: {} €\n'.format(price))
     output_file.write('\nDisimilaridad: {}\n'.format(min_disssimilarity))
+
+    kmeans_cluster = kmeans_model.predict(vector)
+    best_option, min_disssimilarity = get_best_option_kmeans(kmeans_cluster,vector)
+
+    model = best_option[0]
+    ram = best_option[1]
+    price = best_option[2]
+    mah = best_option[3]
+    cores = best_option[4]
+    speed = best_option[5]
+    prim_camera = best_option[6]
+    sec_camera = best_option[7]
+    internal_memory = best_option[8]
+    brand = best_option[9]
+    os = best_option[10]
+    removable = best_option[11]
+    batt_type = best_option[12]
+
+    # Escritura de archivo de recomendación #
+    output_kmeans_file.write('Marca: {}\n'.format(brand))
+    output_kmeans_file.write('Modelo: {}\n'.format(model))
+    output_kmeans_file.write('Sistema operativo: {}\n'.format(os))
+    output_kmeans_file.write('Tipo de bateria: {}\n'.format(batt_type))
+    output_kmeans_file.write('Bateria removible: {}\n'.format(removable))
+    output_kmeans_file.write('Memoria interna: {} GB\n'.format(internal_memory))
+    output_kmeans_file.write('Memoria RAM: {} GB\n'.format(ram_memory))
+    output_kmeans_file.write('Camera trasera: {} MP\n'.format(primary_camera))
+    output_kmeans_file.write('Camara frontal: {} MP\n'.format(secondary_camera))
+    output_kmeans_file.write('Velocidad del CPU: {} GHz\n'.format(cpu_speed))
+    output_kmeans_file.write('Capacidad de la bateria: {} mAh\n'.format(mah_battery))
+    output_kmeans_file.write('Precio: {} €\n'.format(price))
+    output_kmeans_file.write('\nDisimilaridad: {}\n'.format(min_disssimilarity))
 
 
 

@@ -1,0 +1,14 @@
+Marca: Acer
+Modelo: Liquid Z6
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 8.0 GB
+Memoria RAM: 0.77 GB
+Camera trasera: 13.283 MP
+Camara frontal: 15.328 MP
+Velocidad del CPU: 0.711 GHz
+Capacidad de la bateria: 8613.505 mAh
+Precio: 120.0 €
+
+Disimilaridad: 10000

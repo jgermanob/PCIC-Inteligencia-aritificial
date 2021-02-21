@@ -4,11 +4,11 @@ Sistema operativo: Android
 Tipo de bateria: Li-Ion
 Bateria removible: No
 Memoria interna: 32.0 GB
-Memoria RAM: 1.316 GB
-Camera trasera: 22.894 MP
-Camara frontal: 11.155 MP
-Velocidad del CPU: 2.586 GHz
-Capacidad de la bateria: 3092.839 mAh
+Memoria RAM: 4.042 GB
+Camera trasera: 15.056 MP
+Camara frontal: 4.634 MP
+Velocidad del CPU: 1.519 GHz
+Capacidad de la bateria: 3880.093 mAh
 Precio: 27000.0 €
 
 Disimilaridad: 10000

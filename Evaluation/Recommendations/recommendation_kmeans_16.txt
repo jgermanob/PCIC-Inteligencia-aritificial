@@ -1,0 +1,14 @@
+Marca: Acer
+Modelo: Iconia Talk S
+Sistema operativo: Android
+Tipo de bateria: Li-Ion
+Bateria removible: No
+Memoria interna: 32.0 GB
+Memoria RAM: 4.7 GB
+Camera trasera: 4.752 MP
+Camara frontal: 19.744 MP
+Velocidad del CPU: 0.081 GHz
+Capacidad de la bateria: 4344.943 mAh
+Precio: 170.0 €
+
+Disimilaridad: 10000

@@ -1,14 +1,14 @@
-Marca: Acer
-Modelo: Iconia Talk S
+Marca: Gionee
+Modelo: A1 Lite
 Sistema operativo: Android
 Tipo de bateria: Li-Ion
 Bateria removible: No
 Memoria interna: 32.0 GB
-Memoria RAM: 0.445 GB
-Camera trasera: 23.07 MP
-Camara frontal: 7.138 MP
-Velocidad del CPU: 0.443 GHz
-Capacidad de la bateria: 4550.521 mAh
-Precio: 170.0 €
+Memoria RAM: 4.318 GB
+Camera trasera: 19.221 MP
+Camara frontal: 15.067 MP
+Velocidad del CPU: 0.705 GHz
+Capacidad de la bateria: 3411.565 mAh
+Precio: 27000.0 €
 
 Disimilaridad: 10000

@@ -1,14 +1,14 @@
 Marca: Acer
-Modelo: Iconia Tab A3-A20
+Modelo: Liquid Z6
 Sistema operativo: Android
-Tipo de bateria: Li-Po
-Bateria removible: No
-Memoria interna: 16.0 GB
-Memoria RAM: 2.268 GB
-Camera trasera: 15.127 MP
-Camara frontal: 13.887 MP
-Velocidad del CPU: 0.701 GHz
-Capacidad de la bateria: 10560.151 mAh
-Precio: 190.0 €
+Tipo de bateria: Li-Ion
+Bateria removible: Si
+Memoria interna: 8.0 GB
+Memoria RAM: 2.975 GB
+Camera trasera: 2.306 MP
+Camara frontal: 6.93 MP
+Velocidad del CPU: 0.879 GHz
+Capacidad de la bateria: 889.118 mAh
+Precio: 120.0 €
 
 Disimilaridad: 10000
